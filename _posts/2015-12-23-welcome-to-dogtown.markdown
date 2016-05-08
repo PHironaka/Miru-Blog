@@ -17,8 +17,6 @@ dept: "#66f2b2"
 layout: post
 ---
 
-
-
 Hello folks, and welcome to Dogtown Daily!
 
 I'm stoked to get this journey underway, but before we get into the nitty gritty,let me attempt to provide a forecast of things to come. Where this blog + site go from here is still up in the air, it could go in a number of different directions. As founder of this newfound internet real estate, what I promise to deliver first and foremost is authenticity. I want to give readers a 'locals only' glimpse into all the great things Venice has to offer. I want to honor and respect the community that has established itself long before I arrived while also extending the community beyond the 90291.

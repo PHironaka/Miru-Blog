@@ -1,5 +1,5 @@
 ---
-title: '36 Hours in Austin'
+title: 36 Hours in Austin
 date: 2016-05-01 08:27:00 Z
 categories:
 - blog
@@ -15,7 +15,6 @@ img: austin-header.JPG
 note: LA Restauranteur and Dogtown Resident Paul Hibler opened Superba's doors in
   2014.
 ---
-
 
 Our inaugural Austin adventure began at approximately 12:30am, which is around the time our LA flight arrived at Austin Bergstrom International Airport. Once we gathered our belongings and ventured through baggage claim, it was a straight bee line to 6th street aka Dirty aka where the Longhorns live and party. In truth, this condensed weekend trip was made to celebrate one of our good friend's birthdays. It was an absolute blast and we packed in a ton of fun little adventures into a 36 (more like 30) hour free for all, full of laughing, drinking and sightseeing.
 

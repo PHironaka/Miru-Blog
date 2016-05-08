@@ -1,5 +1,5 @@
 ---
-title: 'Find Your Happy Place'
+title: Find Your Happy Place
 date: 2015-05-07 08:39:00 Z
 categories:
 - blog

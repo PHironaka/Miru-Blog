@@ -1,6 +1,6 @@
 ---
-title: Miru Travel Blog
-email: mirug@gmail.com
+title: Miru
+url: http://miru.siteleaf.net
 timezone: UTC
 collections:
   posts:
@@ -9,22 +9,16 @@ collections:
   uploads:
     title: Uploads
     output: true
-  homepage:
-    title: homepage
-    output: true
 defaults:
 - scope:
     path: ''
     type: posts
   values:
     layout: post
+    permalink: "/posts/:title/"
 - scope:
     path: ''
     type: pages
   values:
     layout: page
-markdown: kramdown
-permalink: /:title
-description: Dogtown Daily is a blog dedicated to all things Venice Beach, CA. Join
-  us as we explore every bakery, restaurant, walk street and canal this great area
-  of LA has to offer.
+permalink: pretty

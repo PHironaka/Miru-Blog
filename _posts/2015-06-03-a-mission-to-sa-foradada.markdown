@@ -1,5 +1,5 @@
 ---
-title: 'A Mission to Sa Foradada'
+title: A Mission to Sa Foradada
 date: 2015-06-03 08:27:00 Z
 categories:
 - blog
@@ -15,8 +15,6 @@ img: Sa-top.JPG
 note: LA Restauranteur and Dogtown Resident Paul Hibler opened Superba's doors in
   2014.
 ---
-
-
 
 Everyone likes bread. Right? Well, if you're one of those health nuts that only eats kale, please change the channel as I wax poetic on my favorite neighborhood spot: Superba Food & Bread. It's situated on the corner of Lincoln and Marco PL, which is a few hundred yards from my home. It's my go-to spot for a morning Croissant and Coffee.
 

@@ -6,14 +6,13 @@ categories:
 tags:
 - Venice Canals
 - the tree
-related-post:
+related-post: 
 img: canal1.jpg
 dept: "#66f2b2"
 note: 'Kicking things off proper with a closer look at one of my favorite places in
   the world: The Historical Venice Canals.'
 author: Peter Hironaka
 ---
-
 
 Kicking things off proper with a closer look at one of my favorite places in the world: The Historical Venice Canals. Now, for everyone who hasn't had the opportunity to take a leisurely stroll alongside the canals, here's the skinny on what makes it so special.
 
