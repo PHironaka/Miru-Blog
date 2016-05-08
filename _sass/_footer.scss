@@ -1,0 +1,156 @@
+
+h2.related {
+  text-align: center;
+  font-size: 1.3em;
+  border-bottom:  1px solid #eee;
+   padding: 2em 0 1em;
+}
+
+.related-posts {
+	@include outer-container;
+  padding: 1em 0;
+
+
+  h3 {
+  text-transform:uppercase;
+  text-align:left;
+  font-size:.6em;
+
+  }
+
+
+	li {
+@include outer-container;
+padding: 1em 0;
+border-top: 1px solid #eee;
+
+			@media screen and (max-width: $break-small) {
+			   margin-right: 0;
+			   width: 100%;
+         padding: 15px 0;
+         max-height:none;
+			 }
+
+       .related-asset {
+         @include span-columns(5);
+       }
+
+         p {
+           @include span-columns(7);
+               margin: 3em 0;
+
+         }
+
+       a {
+         font-size: 1.1em;
+       }
+			img {
+			margin: 1em 0 0;
+			}
+	}
+
+}
+
+.post-color {
+	width: 12px;
+	height: 12px;
+	float: left;
+  margin: 1px 5px 0 0;
+}
+
+.post-color-blog {
+	width: 20px;
+	height: 20px;
+  margin: 1px 5px 0 0;
+      display: inline-block;
+}
+
+
+
+
+li.post-date {
+text-transform:uppercase;
+text-align:center;
+font-size:.6em;
+font-weight:$headWeight;
+margin: 2em 0 0;
+}
+
+.links {
+@include span-columns(3 of 6);
+}
+
+.social {
+@include span-columns(6);
+  margin: 2em 0px;
+
+  	ul li {
+  	@include span-columns(1);
+  	@include omega(4n);
+  	}
+
+	h3 {
+	  text-align: left;
+	  font-weight: 700;
+	}
+}
+
+footer {
+  background-color: rgba(181, 180, 167, 0.05);
+  margin: 2em 0 0;
+  padding: 2em 0;
+
+
+
+		h3{
+		text-align:center;
+		}
+
+
+}
+
+
+/* MailChimp Form Embed Code - Slim - 08/17/2011 */
+#mc_embed_signup { margin: 2em 0;
+    width: 317px;}
+#mc_embed_signup form {display:block; position:relative; text-align:left; padding:0;}
+#mc_embed_signup h2 {font-weight:bold; padding:0; margin:15px 0; font-size:1.4em;}
+#mc_embed_signup input { -webkit-appearance:none;   background: rgb(240, 239, 228); outline: 0; }
+
+
+#mc_embed_signup .button {
+  border: 0 none;
+  color: #444;
+  cursor: pointer;
+  display: inline-block;
+  font-size: 2.5em;
+  line-height: 32px;
+  margin: 5px 10px 0;
+  padding: 0;
+  text-decoration: none;
+  width: auto;
+}
+#mc_embed_signup .button:hover {color:#777; -moz-transition:all .5s ease-out;-o-transition:all .5s ease-out;-webkit-transition:all .5s ease-out;transition:all .5s ease-out;}
+#mc_embed_signup .small-meta {font-size: 11px;}
+#mc_embed_signup .nowrap {white-space:nowrap;}
+#mc_embed_signup .clear {clear:none; display:flex;}
+
+#mc_embed_signup label {display:block; font-size:16px; padding-bottom:10px; font-weight:bold;}
+#mc_embed_signup input.email {margin: 0 1% 10px 0;
+line-height: auto;
+padding:  0 0 1.0442em 0;
+font-size: 1em;
+font-family: $defaultFont;
+border: none;
+  border-bottom: 1px solid;
+  width: 17em;
+  float: left;
+}
+#mc_embed_signup input.button {display: block;
+padding: 5px 0; }
+
+#mc_embed_signup div#mce-responses {float:left; top:-1.4em; padding:0em .5em 0em .5em; overflow:hidden; width:90%;margin: 0 5%; clear: both;}
+#mc_embed_signup div.response {margin:1em 0; padding:1em .5em .5em 0; font-weight:bold; float:left; top:-1.5em; z-index:1; width:80%;}
+#mc_embed_signup #mce-error-response {display:none;}
+#mc_embed_signup #mce-success-response {color:#529214; display:none;}
+#mc_embed_signup label.error {display:block; float:none; width:auto; margin-left:1.05em; text-align:left; padding:.5em 0;}

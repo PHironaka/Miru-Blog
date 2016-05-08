@@ -1,0 +1,74 @@
+---
+---
+
+@charset "utf-8";
+@import "bourbon/bourbon";
+@import "neat/neat";
+
+// //////////////////////
+// CONFIG
+// //////////////////////
+
+$base-font-family: Helvetica, Arial, sans-serif;
+$base-font-size:   22px;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1;
+
+$spacing-unit:    70px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+$total_width: 100%;
+$container_margin: 1%;
+$gutter_width: 2%;
+$max_width: 100%;
+$color_yellow: #fff200;
+$color_nearlyblack: #252525;
+$color_nearlynearlyblack: #454545;
+$color_body: #636363;
+$color_headlines: #b7b7b7;
+$headerFont:'Playfair Display', serif;
+$defaultFont:'Exo 2', sans-serif;
+$defaultWeight:300;
+$headWeight:900;
+$headTitle:900;
+$primaryColor: #333;
+$font-size: 1.1em;
+$float-position: left;
+$display: inline-block;
+$size: 100%;
+$break-small: 700px;
+$break-large: 900px;
+
+
+// Using media queries with like this:
+// @include media-query($palm) {
+//     .wrapper {
+//         padding-right: $spacing-unit / 2;
+//         padding-left: $spacing-unit / 2;
+//     }
+// }
+@mixin media-query($device) {
+    @media screen and (max-width: $device) {
+        @content;
+    }
+}
+
+
+
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import
+        "base",
+        "footer",
+        "global-styles",
+        "header"
+;

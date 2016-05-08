@@ -1,0 +1,41 @@
+---
+title: Blog
+layout: default
+---
+<div class="wrap">
+<div class="content">
+    {% if type == "post" %}
+      {% comment %} Show tagsets if this is a post {% endcomment %}
+
+      {% for tagset in taxonomy %}
+        <strong>{{tagset.key}} ({{tagset | size}} tags)</strong>
+        <ul>
+          {% for tag in tagset %}
+            <li><a href="{{tag.url}}">{{tag.value}}</a></li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+
+    {% else %}
+      {% comment %} Loop through any posts and show an excerpt {% endcomment %}
+
+
+
+      {% for post in site.posts %}
+      {% if post.categories contains 'blog' limit:25 %}
+        <article class="post-preview-list">
+          <div class="post-color-blog" style=" background:{{post.dept}};"></div>
+        <div class="list-content"><h3> {{post.date | date: "%m. %d. %Y"}}</h3>
+         <a href="{{post.url}}" class="title">{{post.title}}</a>
+
+
+      </div>
+
+        </article>
+          {% endif %}
+      {% endfor %}
+
+
+
+    {% endif %}
+   </div> </div></div>

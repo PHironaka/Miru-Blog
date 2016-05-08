@@ -1,0 +1,161 @@
+h6{
+	font-size: .5em;
+}
+
+
+blockquote {
+  font-size: 2em;
+  float: left;
+  text-align: center;
+  margin-right: 2.35765%;
+  width: 65.88078%;
+  margin-left: 17.05961%;
+
+    p{
+      line-height: 1.5em;
+
+    }
+}
+
+.archive_list {
+	margin: 1em 0;
+
+	h2 {
+			@include span-columns(12);
+		margin: 1em 0 0 0;
+		font-size: 1.5em;
+	}
+
+	p {
+		@include span-columns(8);
+	}
+}
+
+#ph-tweets ul li {
+	p {
+		font-size: .8em;
+		line-height: 1.5em;
+		margin: 1em 0;
+	}
+
+	p.tweet {
+		margin-bottom: 1em;
+	}
+}
+h2.title {
+	text-align: center;
+	margin: 1em 0;
+	font-size: 2em;
+}
+
+h2.tag-title {
+	text-align: center;
+	margin: 1em 0 0 0;
+	font-size: 2em;
+
+}
+
+.nav {
+  padding: 0;
+  cursor: pointer;
+  display: none;
+
+
+	.info {
+	display: table-cell;
+	margin-right: 2.35765%;
+	width: 48.82117%;
+	list-style: none;
+	overflow: hidden;
+	position: relative;
+	padding: 0 69px 0 0;
+
+@media screen and (max-width: $break-small) {
+	padding: 0 1.55555em;
+
+}
+	}
+
+  ul {
+    list-style: none;
+    display: inline;
+    padding: 0;
+    li {
+	padding: 24px 0 0;
+	transition: .25s ease-in-out;
+	-moz-transition: opacity .25s ease-in-out;
+	-webkit-transition: .25s ease-in-out;
+	margin: 0 ;
+
+		img {
+			max-width: 100%
+		}
+
+	@media screen and (max-width: $break-small) {
+		display: block;
+		width: 100%;
+
+	}
+
+			h3 {
+				text-align: left;
+			}
+
+      a {
+        color: #818181;
+        text-decoration: none;
+        display: block;
+        font-size: 20px;
+        font-weight: 300;
+
+			&.twitter {
+			margin-top: 30px;
+
+			}
+      }
+      &:hover {
+        color: #5A5A5A;
+        transition: .25s ease-in-out;
+        -moz-transition: opacity .25s ease-in-out;
+        -webkit-transition: .25s ease-in-out;
+      }
+    }
+  }
+}
+
+#disqus_thread {
+	@include span-columns(8);
+	@include shift(2);
+}
+
+.pagination {
+@include outer-container;
+    text-align: left;
+	ul {
+	display:inline;
+	    padding: 0;
+		li {
+    top: 40%;
+    display: inline-block;
+		}
+
+		li.previous{
+			position: fixed;
+	background-color: blanchedalmond;
+	left: 0;
+	width: 49px;
+	text-align: center;
+	font-size: 35px;
+		}
+
+		li.next {
+			position: fixed;
+	background-color: blanchedalmond;
+	right:0;
+	width: 49px;
+	text-align: center;
+	font-size: 35px;
+
+		}
+	}
+}
