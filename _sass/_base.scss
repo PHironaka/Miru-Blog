@@ -44,9 +44,14 @@ figure {
   display: block;
 position: relative;
 float: left;
-  padding: 1em 0;
+  padding:1em 0;
     img.row-2 {
       @include span-columns(6);
+      @media screen and (max-width: $break-large) {
+         width: 100%;
+         padding: 15px 0;
+         max-height:none;
+       }
     }
 }
 
@@ -200,11 +205,17 @@ article, header, nav, section {
   @include shift(3);
 margin: 0 0 1em;
 padding:0.5em 0 2em 0;
+
+@media screen and (max-width: $break-large) {
+  width:100%;
+  padding: 0 1em;
+}
 ul {
   margin: 1em 0;
 }
   p {
     margin: 1em 0;
+
   @media screen and (max-width: $break-small) {
     display: block;
     width: 100%;
@@ -233,7 +244,7 @@ padding: 0 1em;
 
 ul.post-credits {
 font-size:.7em;
-margin: 2em 0 0;
+margin:0;
 padding: 0;
 
 	 li {
@@ -279,7 +290,9 @@ margin: 10px 0;
 
 @media screen and (max-width: $break-small) {
   display: block;
-padding: 10px;
+  @include span-columns(6);
+  padding: 10px;
+  margin: 16px 0;
 
 
 }
@@ -302,6 +315,7 @@ display: inline;
 border-radius: 17px;
 @media screen and (max-width: $break-small) {
   display: block;
+  @include span-columns(5);
 padding: 10px;
 margin: 16px 0;
 
@@ -319,12 +333,15 @@ margin: 16px 0;
 .post {
 	@include outer-container;
   margin-top: 2em;
-  
+
   .post-content {
 @include outer-container;
        p {
          @include span-columns(8);
          @include shift(2);
+         a {
+           border-bottom: 4px solid #FF5050;
+         }
        }
       h1 {
         font-size: 1.3em;
@@ -334,7 +351,7 @@ margin: 16px 0;
       }
 		  h1,p {
 
-		padding: 1em 0;
+	    padding: 1em 0 ;
 		  line-height: 1.8em;
       color: rgb(90, 90, 90);
 

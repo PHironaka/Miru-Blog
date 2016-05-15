@@ -17,15 +17,31 @@ background-color: #FF5050;
 
   ul {
     @include span-columns(9);
-    margin: 2em 0;
-padding: 0 0em 0 7em;
+    margin: 1.5em 0;
+padding: 0 0 0 7em;
 text-align: right;
+
+@media screen and (max-width: $break-large) {
+  float: none;
+width: 100%;
+margin: 0;
+padding:0px;
+text-align: center;
+ }
 
     li {
       display: inline;
           margin: 0 .7em;
+
+          @media screen and (max-width: $break-large) {
+          display: block;
+          margin: 1em 0;
+
+           }
+
+
       a {
-        font-size: .8em;
+        font-size: .9em;
         text-transform: uppercase;
         color: white;
         font-weight: 500;
@@ -48,10 +64,21 @@ text-align: right;
 
   .logo {
     font-family: 'Spicy Rice', cursive;
-    font-size: 3.5em;
+    font-size: 3em;
     @include span-columns(3);
     margin:0 ;
         padding: 0 2em 0 0px;
+
+        @media screen and (max-width: $break-large) {
+          float: none;
+display: block;
+  width: 100%;
+margin: 0;
+padding:0px;
+  text-align: center;
+         }
+
+
 
       a {
         color: white;

@@ -2,7 +2,7 @@
 title: Our Journey to Ngapali
 date: 2015-12-23 19:58:00 Z
 categories:
-- home
+- feature
 tags:
 - number one
 - dogtown
