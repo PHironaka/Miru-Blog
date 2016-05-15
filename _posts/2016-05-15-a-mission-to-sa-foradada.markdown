@@ -1,23 +1,10 @@
 ---
-<<<<<<< HEAD
-title: 'Mallorca Pt 4: A Mission to Sa Foradada'
-=======
-title: A Mission to Sa Foradada
->>>>>>> origin/master
-date: 2015-06-03 08:27:00 Z
-categories:
-- blog
+title: 2015 06 03 A Mission To Sa Foradada
+date: 2016-05-15 17:46:04.061000000 Z
 tags:
 - food
 - spain
 - abroad
-dept: "#AF66F2"
-author: Peter Hironaka
-home: list
-feature-img: bar-safradada.jpg
-img: bar-safradada.jpg
-note: LA Restauranteur and Dogtown Resident Paul Hibler opened Superba's doors in
-  2014.
 ---
 
 <<<<<<< HEAD

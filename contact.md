@@ -3,6 +3,7 @@ title: Contact
 permalink: "/contact/"
 layout: page
 ---
+
 # General Inquiries
 
 If you're interested in contributing to Miru, or just wanna say hey, please direct all inquiries to peterhironaka@mac.com.
