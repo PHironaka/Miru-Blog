@@ -1,5 +1,5 @@
 ---
-title: Miru
+title: Miru World
 url: http://miru.world
 timezone: UTC
 collections:
@@ -22,3 +22,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
+description: Travel journal curated by a young adventurous couple. Venice, CA is home.
