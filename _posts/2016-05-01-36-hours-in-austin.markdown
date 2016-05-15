@@ -5,7 +5,7 @@ categories:
 - blog
 tags:
 - Austin
-- Friends
+- LA
 - Weekend Adventure
 dept: "#AF66F2"
 author: Peter Hironaka
@@ -23,7 +23,7 @@ Whenever I venture to a new city, there's typically three things I judge against
 
 <figure> <img src="/uploads/austin-river.JPG" class="row-2" alt="superba.jpg"> <img src="/uploads/austin-fleet-coffee.jpg" class="row-2" alt="superba.jpg"></figure>
 
-#Saturday
+# Saturday
 
 After a series of of late night shenannigans ensued, we quickly rallied Saturday morning to get some coffee and bites at a nearby coffee shop called Fleet. The interior is a beautiful and modern aesthetic, I felt like I was back home in Venice. I ordered a coffee and a migas taco, both of which did not disappoint. Next time I'm in town I'll definitely be rolling through here for a morning pick me up.  
 
@@ -40,13 +40,13 @@ We hit up a bunch of bars all throughout the night, most of them were pretty cro
 > "My overall reaction to a weekend in Austin: it has a lot happening at all hours of the day."
 
 
-#Sunday
+# Sunday
 
 Go slow Sunday in full effect. After a full night of partying, we needed to sleep it off, but we quickly rallied and headed into town for some morning java. On the way, we stopped by the famed Graffitti park at Castle Hills. There were a few people actually tagging certain areas of the park while we were there, which was pretty cool. I honestly wish more cities had something like this, where folks can run wild in a controlled environment as opposed to defacing city property. The coffee shop we ended up stopping by is a place called Picnik, which is a coffee shop built inside a shipping container. Their hot ticket item is the grass-fed butter coffee w/ triglyceride oil for that extra punch of protein. I'm not typically a fan of anything other than BLACK, but this was pretty tasty.
 
 Before our flight back home, we gathered the troops and headed straight to a great mexican restaurant called Baby Acapulco. We sat outside under the blue tarp and stuffed our faces with the best Queso, Guac and mole of the weekend. The Migas
 
-#Recommendations
+# Recommendations
 
 Live Heart
 Rating: &#10047; &#10047; &#10047; &#10047; out of 5  
