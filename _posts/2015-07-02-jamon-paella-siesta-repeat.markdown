@@ -10,7 +10,7 @@ tags:
 feature-img: DSCF3619.JPG
 img: DSCF3619.JPG
 author: Peter Hironaka
-dept: "#AF66F2"
+dept: "#FFE950"
 ---
 
 Before I return to normal California programming, I have to share about our memorable trip to Barcelona!
