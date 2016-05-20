@@ -20,6 +20,6 @@ defaults:
   values:
     layout: page
 url: http://miru.world
-permalink: pretty
+permalink: ":/title"
 description: Miru World is a travel journal curated by a young adventurous couple.
   Venice, CA is home.
