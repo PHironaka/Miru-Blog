@@ -69,7 +69,7 @@
 // id "example1". Also automatically hyperlinks URLS and user mentions and
 // hashtags.
 var config1 = {
-  "id": '608353168158826496',
+  "id": '733307937905512448',
   "domId": 'ph-tweets',
   "maxTweets": 3,
   "enableLinks": true
@@ -88,7 +88,7 @@ twitterFetcher.fetch(config1);
 // A simple example to get latest 5 tweets for #API tag and shows any images
 // attached to tweets.
 var config3 = {
-  "id": '608353168158826496',
+  "id": '733307937905512448',
   "domId": 'example3',
   "maxTweets": 5,
   "enableLinks": true,
@@ -103,7 +103,7 @@ twitterFetcher.fetch(config3);
 // custom format to display the date/time of the post, and does not show
 // retweets.
 var config4 = {
-  "id": '608353168158826496',
+  "id": '733307937905512448',
   "domId": 'my-tweets',
   "maxTweets": 3,
   "enableLinks": true,
@@ -131,7 +131,7 @@ twitterFetcher.fetch(config4);
 // if you need full control over the output.
 
 var config5 = {
-  "id": '608353168158826496',
+  "id": '733307937905512448',
   "domId": '',
   "maxTweets": 3,
   "enableLinks": true,
@@ -165,7 +165,7 @@ twitterFetcher.fetch(config5);
 // alternative custom format with moment.js to display the age of the post,
 // and does not show retweets.
 var config6 = {
-  "id": '608353168158826496',
+  "id": '733307937905512448',
   "domId": 'example6',
   "maxTweets": 3,
   "enableLinks": true,
@@ -228,7 +228,7 @@ require(['twitter-fetcher'], function (fetcher) {
 // to populate a template for example.
 
 var config8 = {
-  "id": '502160051226681344',
+  "id": '733307937905512448',
   "dataOnly": true,
   "customCallback": populateTpl
 };

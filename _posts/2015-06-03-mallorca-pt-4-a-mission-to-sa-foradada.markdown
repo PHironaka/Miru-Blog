@@ -1,5 +1,5 @@
 ---
-title: 'Mallorca Pt 4: A Mission to Sa Foradada'
+title: 'Mallorca: A Mission to Sa Foradada'
 date: 2015-06-03 08:27:00 Z
 categories:
 - blog
@@ -7,7 +7,7 @@ tags:
 - food
 - spain
 - abroad
-dept: "#AF66F2"
+dept: "#FFE950"
 author: Peter Hironaka
 home: list
 feature-img: bar-safradada.jpg
@@ -34,5 +34,6 @@ After about an hour of hiking, we finally made it to sea level, where it was jus
 
 Sa Foradada has been in business for over 40 years, and during that time, not a whole lot has changed about the place. It's still a family run restaurant, owned by the great Emilio Fernández and his daughter, Lidia. The paella is cooked over an open fire, and all the fish is caught fresh locally in the surrounding Mallorcan sea. That's it. There's no fancy equipment or anything really. Just fire, ingredients and pots and pans. Oh and in case you were wondering, the food was fabulous. In true Hironaka fashion, we ordered not one but two large family style seafood paella dishes for the six of us. Even though we were all starving after the hike, the salty dishes filled us up to the brim and we were set for the next few hours. Well, at least until we made it back to our cars which was another 2 miles straight back up the mountain!
 
-
-<figure> <img src="/uploads/DSCF4084.JPG" alt="DSCF3996.JPG"> </figure>
+![dogtown.jpg](/uploads/DSCF4084.JPG)
+![dogtown.jpg](/uploads/IMG_2859.jpg)
+![dogtown.jpg](/uploads/IMG_2861.jpg)

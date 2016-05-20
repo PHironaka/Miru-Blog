@@ -1,6 +1,7 @@
 ---
 title: Find Your Happy Place
 date: 2015-05-07 08:39:00 Z
+layout: post
 categories:
 - blog
 tags:

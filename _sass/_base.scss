@@ -109,9 +109,9 @@ aside {
   @include omega();
     margin-top: 0;
     line-height: 1.8em;
-    border-top: 1px solid #eee;
     margin-top: 1em;
-    padding: 0 1em;
+
+    background: rgba(238, 238, 238, 0.18);
 
       @media screen and (max-width: $break-large) {
       display:none;
@@ -120,12 +120,14 @@ aside {
 
 
     ul {
-      padding: 0;
+      padding: 0 1em;
     }
 
       li {
         margin: 1em 0;
-        border-bottom: 1px solid rgba(206, 206, 206, 0.43);
+        background-color: white;
+        padding: 10px;
+        border-radius: 10px;
         list-style: none;
       }
 
@@ -138,6 +140,8 @@ aside {
         margin: 1em 0;
         font-weight: 500;
         text-transform: uppercase;
+        text-align: center;
+        padding: 10px 0;
       }
 
       h3 {
@@ -198,8 +202,7 @@ article, header, nav, section {
 
 .about-list {
   @include outer-container;
-  border-top: 1px solid #eee;
-  margin-top: 2em;
+  margin-top: 1em;
 .post-content {
   @include span-columns(8);
   @include shift(3);
@@ -262,10 +265,6 @@ h1.post-title{
     margin: 0;
 
 
-    @media screen and (max-width: $break-large) {
-      text-align: center;
-
-    }
 
     @media screen and (max-width: $break-small) {
       font-size: 1.3em;
@@ -282,10 +281,11 @@ h3 {
 @include span-columns(10);
   a{
     background-color: rgba(242, 242, 242, 0.44);
-padding: 12px 15px;
-display: inline-block;
-border-radius: 17px;
-margin: 10px 0;
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 8px;
+    margin: 10px 0;
+    font-size: .8em;
 
 @media screen and (max-width: $break-small) {
   display: block;
@@ -435,10 +435,10 @@ a:hover {
 margin-bottom: 1em;
     .feature-banner {
       vertical-align: middle;
-    min-height: 450px;
-    height: 50vh;
-    width: 100%;
-    max-height: 750px;
+      min-height: 406px;
+  height: 44vh;
+  width: 100%;
+  max-height: 742px;
     background-position: center center;
     background-size: cover;
     vertical-align: middle;
@@ -565,6 +565,14 @@ border-bottom: 1px solid #eee;
     margin: 1em 0;
   }
 
+  .archive-posts {
+    @include span-columns(10);
+    @media screen and (max-width: $break-small) {
+      width: 100%;
+
+    }
+  }
+
     .list-content {
       @include span-columns(7);
       @media screen and (max-width: $break-small) {
@@ -594,6 +602,41 @@ border-bottom: 1px solid #eee;
           }
       }
     }
+
+    .archive-list {
+display: inline-block;
+padding: 1em;
+width: 48.82117%;
+margin: 1em 0;
+vertical-align: top;
+      @media screen and (max-width: $break-small) {
+        width: 100%;
+
+      }
+        h3 {
+          text-align: left;
+          font-size:.7em;
+          margin: 0;
+        }
+      .title {
+        font-size: 1.3em;
+            line-height: 1;
+      }
+      .more {
+        margin: 23px 0;
+          a {
+            padding: 7px;
+    background-color: #b5b4a7;
+    color: white;
+    text-transform: uppercase;
+    font-size: 14px;
+          }
+         a:hover {
+            background-color: #000;
+          }
+      }
+    }
+
   	.list-img {
       @include span-columns(5);
       @media screen and (max-width: $break-small) {

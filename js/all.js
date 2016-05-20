@@ -384,33 +384,21 @@ if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c
                   '</div>';
             }
             op += '<p class="tweet">' + strip(tweets[n].innerHTML) + '</p>';
-            if (printTime) {
-              if (permalinks) {
-                op += '<p class="timePosted"><a href="' + permalinksURL[n] +
-                   '">' + times[n].getAttribute('aria-label') + '</a></p>';
-              } else {
-                op += '<p class="timePosted">' +
-                    times[n].getAttribute('aria-label') + '</p>';
-              }
-            }
+
           } else {
             if (tweets[n].innerText) {
               if (printUser) {
                 op += '<p class="user">' + authors[n].innerText + '</p>';
               }
               op += '<p class="tweet">' +  tweets[n].innerText + '</p>';
-              if (printTime) {
-                op += '<p class="timePosted">' + times[n].innerText + '</p>';
-              }
+              
 
             } else {
               if (printUser) {
                 op += '<p class="user">' + authors[n].textContent + '</p>';
               }
               op += '<p class="tweet">' +  tweets[n].textContent + '</p>';
-              if (printTime) {
-                op += '<p class="timePosted">' + times[n].textContent + '</p>';
-              }
+
             }
           }
           if (showInteractionLinks) {
@@ -455,7 +443,7 @@ if(k&&j[k]&&(e||j[k].data)||void 0!==d||"string"!=typeof b)return k||(k=i?a[h]=c
 
 
 var config8 = {
-  "id": '345170787868762112',
+  "id": '733307937905512448',
   "dataOnly": true,
   "customCallback": populateTpl
 };

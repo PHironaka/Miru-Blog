@@ -6,16 +6,15 @@ layout: page
 
 # General Inquiries
 
-If you're interested in contributing to Miru, or just wanna say hey, please direct all inquiries to peterhironaka@mac.com.
+If you're interested in contributing to Miru, or just wanna say hey, please direct all inquiries to [mirutravel@gmail.com](mailto:mirutravel@gmail.com).
 
 # Social
 
-If all this magnificant content isn't enough for you, feel free to follow us on Social media. We'll try to make it interesting and share little tid bits and tips we gather along the way:
+If all this magnificant content isn't enough for you, feel free to follow us on Social media. For all intents and purposes, it will likely serve as our b-roll and generic updates, but we'll do our best try to make it interesting. Your timelines will be filled with little tid bits and tips we gather along the way:
 
-- Twitter
-- Instagram
-- Facebook
+- [Twitter](https://twitter.com/miru_travel)
+- [Instagram](https://www.instagram.com/miru_travel)
 
 # Advertising
 
-For all advertising inquiries, please reach out to miru-info@gmail.com.
+If you would like to inquire about potential advertising opportunities, please reach out to [mirutravel@gmail.com](mailto:mirutravel@gmail.com).

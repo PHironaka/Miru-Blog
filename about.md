@@ -14,12 +14,12 @@ Welcome to Miru, our quaint little corner of the internet we call home. Ray Brad
 
 Miru is curated, updated, and coagulated by the dynamic duo of Kamauri Yeh and Peter Hironaka. That's us! We're in love and we love to travel the world with each other. Venice has been our home for nearly two years now, which has been an incredibly inspirational place to rest our heads.
 
-As we continue to develop Miru, we're always on the lookout to collaborate with like minded folks. If you think you have an interesting (and relevant) story to share, or there's some hidden cave in the South of France you're dying to share photos of, please feel free to get in touch.
+As we continue to develop Miru, we're always on the lookout to collaborate with like-minded folks. If you think you have an interesting (and relevant) story to share, or there's some hidden cave in the South of France you're dying to share photos of, feel free to drop us a line and get in touch.
 
 # Our Goal
 
-To have fun with this! We're not setting out to create a News publication churning out hundreds of posts a week. That would be scary. We want to share our journeys with people who appreciate similar things.
+We're not setting out to create a media publication churning out hundreds of posts a week. We're not writers. And we have full time jobs, that would just be scary. We simply want to share our journeys with people who appreciate similar experiences.
 
 # Miru?  
 
-We wanted to choose a name that confused people. In truth, Miru in Japanese means 'see', which is appra po of our content strategy :)
+Miru in Japanese means 'see', which is appra po of our content strategy and overall objective. We also just wanted to confuse the hell out of people :) 

@@ -7,15 +7,11 @@ gem 'kramdown'
 gem 'rack'
 gem 'siteleaf'
 gem 'racksh'
-
 gem 'compass-normalize'
 gem 'susy'
-
 gem 'guard-coffeescript'
 gem 'guard-jammit'
-
 gem 'jekyll-sass-converter'
 gem 'jekyll-watch'
-gem 'jekyll'
-
+gem 'jekyll', '~> 3.0', '>= 3.0.3'
 gem 'rubyzip', require: 'zip/zip'

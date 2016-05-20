@@ -1,2 +1,0 @@
-# boardwalk
-Venice Beach brah

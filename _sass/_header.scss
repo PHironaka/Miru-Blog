@@ -9,7 +9,7 @@ margin-left: auto;
 margin-right: auto;
 position: relative;
 display: block;
-background-color: #FF5050;
+    border-bottom: 1px solid #eee;
   }
 
 .navigation {
@@ -21,7 +21,7 @@ background-color: #FF5050;
 padding: 0 0 0 7em;
 text-align: right;
 
-@media screen and (max-width: $break-large) {
+@media screen and (max-width: $break-small) {
   float: none;
 width: 100%;
 margin: 0;
@@ -33,7 +33,7 @@ text-align: center;
       display: inline;
           margin: 0 .7em;
 
-          @media screen and (max-width: $break-large) {
+          @media screen and (max-width: $break-small) {
           display: block;
           margin: 1em 0;
 
@@ -43,8 +43,6 @@ text-align: center;
       a {
         font-size: .9em;
         text-transform: uppercase;
-        color: white;
-        font-weight: 500;
           img {
             vertical-align: middle;
             width: 27px;
@@ -69,7 +67,7 @@ text-align: center;
     margin:0 ;
         padding: 0 2em 0 0px;
 
-        @media screen and (max-width: $break-large) {
+        @media screen and (max-width: $break-small) {
           float: none;
 display: block;
   width: 100%;
@@ -81,7 +79,7 @@ padding:0px;
 
 
       a {
-        color: white;
+        color: #FF5050;
       }
 }
 
