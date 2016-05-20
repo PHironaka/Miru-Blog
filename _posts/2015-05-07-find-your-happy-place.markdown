@@ -1,13 +1,13 @@
 ---
 title: Find Your Happy Place
 date: 2015-05-07 08:39:00 Z
-layout: post
 categories:
 - blog
 tags:
 - weekend trips
 - CA
 - Ojai
+layout: post
 feature-img: img_7559.jpg
 img: img_7559.jpg
 author: Peter Hironaka
