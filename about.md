@@ -22,4 +22,4 @@ We're not setting out to create a media publication churning out hundreds of pos
 
 # Miru?  
 
-Miru in Japanese means 'see', which is appra po of our content strategy and overall objective. We also just wanted to confuse the hell out of people :) 
+Miru in Japanese means 'see', which is appra po of our content strategy and overall objective. We also just wanted to confuse the hell out of people :)
