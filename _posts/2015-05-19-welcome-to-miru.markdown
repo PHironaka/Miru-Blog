@@ -25,13 +25,13 @@ Our pension for travel has been an important element of our lives, and with this
 
 As you can probably tell, we've started out posting about a few archived trips here and there which should give you an idea of a. our current writing prowess (yikes) and b. the style of storytelling we're currently zoned in on. We're by no means locked in on any set formula, but given our current geo location and how we like to plan for upcoming trips, we'll probably be covering these areas in the months to come:
 
-#LA Living
+# LA Living
 This is our home. We live in Venice, CA and are constantly in awe of its beauty. The great thing about LA is that it's a huge city with endless amounts of fun to be had.
 
-#Weekend Trips
+# Weekend Trips
 Another benefit of living in LA and California for that matter is the proximity to cool places. Palm Springs, San Diego, Santa Barbara, Vegas, Ojai. All within a 4hr drive.
 
-#Domestic
+# Domestic
 Wheels up time. We have about a handful of upcoming trips across the country, which should make for some good times and excellent adventures. 
 
 #Global Crusades
