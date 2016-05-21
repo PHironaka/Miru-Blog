@@ -11,6 +11,9 @@ collections:
   kamauri:
     title: kamauri
     output: true
+  peter:
+    title: peter
+    output: true
 defaults:
 - scope:
     path: ''
