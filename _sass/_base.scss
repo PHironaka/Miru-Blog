@@ -645,3 +645,17 @@ vertical-align: top;
       }
     }
 }
+
+.error {
+@include outer-container;
+display: block;
+margin: 45% 0;
+
+  h1{
+    font-family: $headerFont;
+    font-size: 4em;
+    text-align: center;
+  }
+
+
+}
