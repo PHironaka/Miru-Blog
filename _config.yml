@@ -11,9 +11,6 @@ collections:
   authors:
     title: authors
     output: true
-  kamauri:
-    title: kamauri
-    output: true
   peter:
     title: peter
     output: true
