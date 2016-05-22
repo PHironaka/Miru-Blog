@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  authors:
+    title: authors
+    output: true
   kamauri:
     title: kamauri
     output: true
