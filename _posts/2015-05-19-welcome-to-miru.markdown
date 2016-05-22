@@ -34,7 +34,7 @@ Another benefit of living in LA and California for that matter is the proximity 
 # Domestic
 Wheels up time. We have about a handful of upcoming trips across the country, which should make for some good times and excellent adventures. 
 
-#Global Crusades
+# Global Crusades
 The possibilities are endless 🌎
 
 And with that, we begin...
