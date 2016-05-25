@@ -17,4 +17,4 @@ If all this magnificant content isn't enough for you, feel free to follow us on 
 
 # Advertising
 
-If you would like to inquire about potential advertising opportunities, please reach out to [mirutravel@gmail.com](mailto:mirutravel@gmail.com).
+I know I know, we gotta get our page views up first. If you would like to inquire about potential advertising opportunities, please reach out to [mirutravel@gmail.com](mailto:mirutravel@gmail.com).
