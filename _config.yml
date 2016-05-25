@@ -11,6 +11,9 @@ collections:
   authors:
     title: authors
     output: true
+  tags:
+    title: tags
+    output: true
 defaults:
 - scope:
     path: ''
