@@ -17,4 +17,4 @@ If all this magnificant content isn't enough for you, feel free to follow us on 
 
 # Advertising
 
-I know I know, we gotta get our page views up first. If you would like to inquire about potential advertising opportunities, please reach out to [mirutravel@gmail.com](mailto:mirutravel@gmail.com).
+I know I know, we gotta get our page views up first. As veterans of the digital advertising industry, we're all too familiar with exciting things like click through rates, impressions, page views. If you would like to inquire about potential advertising opportunities, please reach out to [mirutravel@gmail.com](mailto:mirutravel@gmail.com).
