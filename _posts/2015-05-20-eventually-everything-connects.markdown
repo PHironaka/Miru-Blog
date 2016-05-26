@@ -1,6 +1,9 @@
 ---
 title: Eventually Everything Connects
 date: 2015-05-20 08:39:00 Z
+collections:
+  authors:
+    Peter Hironaka
 categories:
 - blog
 tags:
