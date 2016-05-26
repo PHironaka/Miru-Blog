@@ -1,15 +1,14 @@
 ---
 title: Eventually Everything Connects
 date: 2015-05-20 08:39:00 Z
-collections:
-  authors:
-    Peter Hironaka
 categories:
 - blog
 tags:
 - LA
 - day trips
 - eames
+collections:
+  authors: Peter Hironaka
 feature-img: DSCF3335-a.jpg
 img: DSCF3335-a.jpg
 author: Peter Hironaka
