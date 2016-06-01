@@ -8,7 +8,7 @@ tags:
 - weekend adventures
 feature-img: parker-kam.JPG
 img: parker-kam.JPG
-author: Peter Hironaka
+author: Kamauri Yeh
 dept: "#AF66F2"
 ---
 

@@ -9,7 +9,7 @@ tags:
 - Trips
 feature-img: DSCF3619.JPG
 img: DSCF3619.JPG
-author: Peter Hironaka
+author: Kamauri Yeh
 dept: "#FFE950"
 ---
 

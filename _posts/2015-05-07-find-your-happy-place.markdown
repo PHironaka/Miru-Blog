@@ -10,7 +10,7 @@ tags:
 layout: post
 feature-img: img_7559.jpg
 img: img_7559.jpg
-author: Peter Hironaka
+author: Kamauri Yeh
 dept: "#AF66F2"
 ---
 

@@ -9,7 +9,7 @@ tags:
 - eames
 feature-img: DSCF3335-a.jpg
 img: DSCF3335-a.jpg
-author: Peter Hironaka
+author: Kamauri Yeh
 dept: "#66f2b2"
 ---
 
