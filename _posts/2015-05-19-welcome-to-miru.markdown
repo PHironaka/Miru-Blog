@@ -9,7 +9,7 @@ tags:
 - miru
 img: ngappy.jpg
 area: "#66f2b2"
-author: Kamauri Yeh 
+author: Kamauri Yeh
 assets: "/uploads/ngappy.jpg"
 dept: "#66f2b2"
 layout: post
