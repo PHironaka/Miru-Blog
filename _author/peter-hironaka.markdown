@@ -1,6 +1,8 @@
 ---
 title: Peter Hironaka
 date: 2016-06-01 16:03:00 Z
+Field name: thumbnail
+layout: author
 ---
 
 ---
