@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-  authors:
+  author:
     title: authors
     output: true
   tag:
