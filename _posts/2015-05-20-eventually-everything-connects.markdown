@@ -7,6 +7,8 @@ tags:
 - LA
 - day trips
 - eames
+collections:
+  authors: Peter Hironaka
 feature-img: DSCF3335-a.jpg
 img: DSCF3335-a.jpg
 author: Kamauri Yeh
