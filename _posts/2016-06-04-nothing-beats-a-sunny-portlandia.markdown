@@ -32,7 +32,7 @@ On Saturday, we got to drive around St. Johns neighborhood, including the Univer
 ![DSCF6899.JPG](/uploads/DSCF6899.JPG)
 
 
-# Floyds
+# Floyds Coffee Shop
 
 On Saturday, we got to drive around St. Johns neighborhood, including the University of Portland campus. Kam's old stomping grounds. We drove by her old house she lived in when she was a member of the UP Pilot Track and Field team. If you're in the area and in need of some spicey Thai food, look no further than Thai Ginger. Easily the best Pad Thai in Portland.  
 
