@@ -34,6 +34,6 @@ On Saturday, we got to drive around St. Johns neighborhood, including the Univer
 
 # Floyds Coffee Shop
 
-This was my neighborhood coffee shop. First and foremost: the coffee is great.  
+This was my neighborhood coffee shop in SE Portland. First and foremost: the coffee is great.  
 
 ![DSCF6938.JPG](/uploads/DSCF6938.JPG)
