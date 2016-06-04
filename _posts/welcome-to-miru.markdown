@@ -5,6 +5,7 @@ tags:
 - travel
 - miru
 name: peter-hironaka
+author: Peter Hironaka
 ---
 
 ![dogtown.jpg](/uploads/ngappy.jpg)
