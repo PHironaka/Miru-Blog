@@ -18,7 +18,7 @@ It was my first time in Portlandia since I made the move to LA, and I was instan
 
 Everyone remembers their first visit to the NES. I can still recall the anticipation of making my maiden voyage to Nikeland. I had just moved out to Portland to start work at Wieden + Kennedy and was chomping at the bit to make the short drive over to Beaverton. 
 
-While the allure of the experience has faded in recent years, it's still has its special place in my Sneakerhead's heart. Like Highlander, there can only be one. Employee.Store. 
+While the allure of the experience has faded in recent years, it's still has its special place in my sneakerhead's heart. Like Highlander, there can only be one. Employee.Store. 
 
 ![DSCF6930.JPG](/uploads/DSCF6930.JPG)
 
