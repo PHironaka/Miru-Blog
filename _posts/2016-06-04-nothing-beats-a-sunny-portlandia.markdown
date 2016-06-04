@@ -34,6 +34,6 @@ On Saturday, we got to drive around St. Johns neighborhood, including the Univer
 
 # Floyds Coffee Shop
 
-This was my neighborhood coffee shop in SE Portland. There's nothing really hip or special about the place, which is kind of why I loved it so much. The coffee is great too, and it's a just a few blocks up the street from my old apartment.  
+This was my neighborhood coffee shop in SE Portland. There's nothing really hip or special about the place, which is kind of why I loved it so much. The coffee is great too, and it's a just a few blocks up the street from my old apartment. We were joined 
 
 ![DSCF6938.JPG](/uploads/DSCF6938.JPG)
