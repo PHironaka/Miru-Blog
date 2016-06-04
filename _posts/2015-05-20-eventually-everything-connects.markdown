@@ -11,8 +11,9 @@ collections:
   authors: Peter Hironaka
 feature-img: DSCF3335-a.jpg
 img: DSCF3335-a.jpg
-author: Kamauri-Yeh
+author: Kamauri Yeh
 dept: "#66f2b2"
+name: kamauri-yeh
 ---
 
 As I get older, something that I have become more passionate about is architecture and home design. If you follow me on Pinterest, you’ll know that I particularly love modern and mid-century design. This past weekend, Peter and I had some friends in town and decided to take our guests to see the historic Eames House.
