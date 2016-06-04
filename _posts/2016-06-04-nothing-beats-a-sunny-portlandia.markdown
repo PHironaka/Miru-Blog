@@ -20,4 +20,4 @@ Everyone remembers their first visit to the NES. I can still recall the anticipa
 
 While the allure of the experience has faded in recent years, it's still has its special quality. Like Highlander, there can only be one. Employee.Store. 
 
-[DSCF6899.JPG](/uploads/DSCF6899.JPG)
+![DSCF6899.JPG](/uploads/DSCF6899.JPG)
