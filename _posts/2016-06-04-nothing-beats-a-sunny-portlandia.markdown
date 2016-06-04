@@ -16,6 +16,8 @@ It was my first time in Portlandia since I made the move to LA, and I was instan
 
 ## Nike Employee Store
 
-Everyone remembers their first visit to the NES. I can recall the anticipation of making my maiden voyage to Nikeland. I had just moved out to Portland to start work at Wieden + Kennedy and was chomping at the bit to make the short drive over to Beaverton. 
+Everyone remembers their first visit to the NES. I can still recall the anticipation of making my maiden voyage to Nikeland. I had just moved out to Portland to start work at Wieden + Kennedy and was chomping at the bit to make the short drive over to Beaverton. 
+
+While the allure of the experience has faded in recent years, it's still has its special quality. Like Highlander, there can only be one. Employee.Store. 
 
 [Flowers](/uploads/DSCF6899.JPG)
