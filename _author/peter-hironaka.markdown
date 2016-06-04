@@ -1,6 +1,6 @@
 ---
 title: Peter Hironaka
-img: "/img/kam.jpg"
+img: 
 layout: author
 ---
 
