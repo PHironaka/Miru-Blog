@@ -9,4 +9,4 @@ name: peter-hironaka
 Field name: 
 ---
 
- Sunshine has a profound effect on people's moods and outlook on the world. As a resident of Venice for over 1 1/2 years, I've become spoiled by countless days of sunshine and perfect 75 degree weather. It's true, I'm soft :( Anything under 65 degrees frightens me to the point where I have second thoughts of leaving my temperature controlled home. And anytime I venture outside my little bubble,
+ Sunshine has a profound effect on people's moods and outlook on the world. As a resident of Venice for over 1 1/2 years, I've become spoiled by countless days of sunshine and perfect 75 degree weather. It's true, I'm soft. And anytime I venture outside my little bubble,
