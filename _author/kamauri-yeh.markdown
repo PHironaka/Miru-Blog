@@ -1,7 +1,7 @@
 ---
 title: Kamauri Yeh
 date: 2016-06-01 16:03:00 Z
-Field name:
+Field name: 
 thumbnail:
 - "/img/kam.jpg"
 twitter:
