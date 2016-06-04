@@ -2,7 +2,7 @@
 title: 36 Hours in Austin
 date: 2016-05-01 08:27:00 Z
 categories:
-- feature
+- blog
 tags:
 - Austin
 - LA
