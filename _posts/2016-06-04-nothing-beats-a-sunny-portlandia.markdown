@@ -9,3 +9,4 @@ name: peter-hironaka
 Field name: 
 ---
 
+As a resident of Venice for over 1 1/2 years, I've become spoiled by countless days of sunshine and perfect 75 degree weather. 
