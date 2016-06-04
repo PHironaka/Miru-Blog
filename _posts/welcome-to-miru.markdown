@@ -4,6 +4,7 @@ tags:
 - first post
 - travel
 - miru
+name: peter-hironaka
 ---
 
 ![dogtown.jpg](/uploads/ngappy.jpg)
