@@ -1,5 +1,7 @@
 ---
 title: Welcome To Miru World
+categories:
+- feature
 tags:
 - first post
 - travel
