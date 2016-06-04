@@ -1,5 +1,5 @@
 ---
-title: 2015 05 19 Welcome To Miru
+title: Welcome To Miru World
 tags:
 - first post
 - travel
