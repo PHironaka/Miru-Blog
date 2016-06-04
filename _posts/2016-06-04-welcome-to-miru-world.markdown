@@ -7,7 +7,9 @@ tags:
 - miru
 - travel
 - first post
-Key: 
+author: Peter Hironaka
+name: peter-hironaka
+assets: "/uploads/ngappy.jpg"
 ---
 
 ![dogtown.jpg](/uploads/ngappy.jpg)
