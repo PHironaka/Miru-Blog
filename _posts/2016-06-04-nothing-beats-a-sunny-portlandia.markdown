@@ -36,6 +36,4 @@ On Saturday, we got to drive around St. Johns neighborhood, including the Univer
 
 This was my neighborhood coffee shop. 
 
-![DSCF6915.JPG](/uploads/DSCF6915.JPG)
-![DSCF6889.JPG](/uploads/DSCF6889.JPG)
-![DSCF6899.JPG](/uploads/DSCF6899.JPG)
+![DSCF6938.JPG](/uploads/DSCF6938.JPG)
