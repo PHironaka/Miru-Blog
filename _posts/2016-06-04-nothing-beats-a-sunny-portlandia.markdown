@@ -14,7 +14,7 @@ Sunshine has a profound effect on people's moods and outlook on the world. As a 
 
 It was my first time in Portlandia since I made the move to LA, and I was instantly reminded why I loved living there so much. The great food, friends, and small town vibe permeating at every corner. Here's a few things we were able to check out:
 
-## Nike Employee Store
+# Nike Employee Store
 
 Everyone remembers their first visit to the NES. I can still recall the anticipation of making my maiden voyage to Nikeland. I had just moved out to Portland to start work at Wieden + Kennedy and was chomping at the bit to make the short drive over to Beaverton. 
 
