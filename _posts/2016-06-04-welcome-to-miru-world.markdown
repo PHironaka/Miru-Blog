@@ -3,15 +3,11 @@ title: Welcome to Miru World
 date: 2016-06-04 18:49:00 Z
 categories:
 - feature
----
-
----
-title: Welcome to Miru World
-date: 2016-04-25 08:27:00 Z
 tags:
-- first post
-- travel
 - miru
+- travel
+- first post
+Key: 
 ---
 
 ![dogtown.jpg](/uploads/ngappy.jpg)
