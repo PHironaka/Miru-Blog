@@ -25,6 +25,6 @@ While the allure of the experience has faded in recent years, it's still has its
 
 # St. Johns and UP Campus
 
-On Saturday, we got to drive around St. Johns neighborhood, including the University of Portland campus. 
+On Saturday, we got to drive around St. Johns neighborhood, including the University of Portland campus. Kam's old stomping grounds. 
 
 ![DSCF6930.JPG](/uploads/DSCF6930.JPG)
