@@ -19,43 +19,21 @@ layout: default
 
   <div class="author-posts">
 
-
-
-
-        {% if type == "post" %}
-          {% comment %} Show tagsets if this is a post {% endcomment %}
-
-          {% for tagset in taxonomy %}
-            <strong>{{tagset.key}} ({{tagset | size}} tags)</strong>
-            <ul>
-              {% for tag in tagset %}
-                <li><a href="{{tag.url}}">{{tag.value}}</a></li>
-              {% endfor %}
-            </ul>
-          {% endfor %}
-
-        {% else %}
-          {% comment %} Loop through any posts and show an excerpt {% endcomment %}
-
-
-
           {% for post in site.posts %}
-          {% if post.author contains 'Peter Hironaka' limit:6 %}
-            <article class="post-preview-list">
-            <div class="list-content">
-             <a href="{{post.url}}" class="title">{{post.title}}</a>
-             <h3> {{post.date | date: "%m. %d. %Y"}}</h3>
-              
-
+          {% if post.author == {{page.title}}  %}
+            <div class="list">
+             <h1><a href="{{post.url}}" class="title">{{post.title}}</a></h1>
+             <p>{{post.content | strip_html | truncatewords: 30}}</p>
+             <a class="more-button"href="{{post.url}}" class="title">Read More</a>
           </div>
 
-            </article>
               {% endif %}
+
+
           {% endfor %}
 
 
 
-        {% endif %}
        </div>
   </div>
 </article>

@@ -9,7 +9,7 @@ tags:
 - Trips
 feature-img: DSCF3619.JPG
 img: DSCF3619.JPG
-author: Kamauri Yeh
+author: Kamauri-Yeh
 dept: "#FFE950"
 ---
 

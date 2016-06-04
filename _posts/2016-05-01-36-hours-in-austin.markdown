@@ -9,6 +9,7 @@ tags:
 - Weekend Adventure
 dept: "#AF66F2"
 author: Peter Hironaka
+name: peter-hironaka
 home: list
 feature-img: austin-header.JPG
 img: austin-header.JPG

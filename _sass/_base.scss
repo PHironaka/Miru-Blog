@@ -80,9 +80,8 @@ html {
   box-sizing: inherit;
 }
 
-hr {
-border: 1px solid #eee;
-}
+
+
 
 h4 {
   margin: 0 0 1em ;
@@ -124,6 +123,36 @@ aside.about, aside.author {
         }
     }
 
+.author-posts {
+  @include outer-container;
+  margin: 1em 0;
+      .list {
+          @include outer-container;
+          border-top: 1px solid #eee;
+          padding: 20px 0;
+
+          h1 {
+            font-size: 1.2em;
+            text-transform: uppercase;
+          }
+
+          h3 {
+            font-size: .9em;
+            text-align: left;
+          }
+
+          a.more-button {
+            background-color: rgba(242, 242, 242, 0.44);
+            padding: 9px;
+border-radius: 13px;
+              &:hover {
+                background-color: #DEE7E2;
+      color: black;
+              }
+          }
+      }
+
+}
 
 
 aside {
@@ -196,6 +225,10 @@ img, video, object{ max-width: 100% }
 
 article, header, nav, section {
     display: block;
+}
+
+.twitter {
+  color: #55acee;
 }
 
 /* Layout
@@ -326,16 +359,27 @@ h3 {
   @include span-columns(8);
   @include shift(2);
 padding: 2em 0;
+
+@media screen and (max-width: $break-small) {
+@include outer-container;
+  display: inline;
+  width: 100%;
+      padding: 2em 0;
+  margin-left: 0;
+
+
+}
+
+
   a{
     background-color: rgba(242, 242, 242, 0.44);
 padding: 12px 15px;
 display: inline;
 border-radius: 17px;
 @media screen and (max-width: $break-small) {
-  display: block;
-  @include span-columns(5);
-padding: 10px;
-margin: 16px 0;
+  display: inline;
+  width: 100%;
+  float: none;
 
 }
     &:hover {

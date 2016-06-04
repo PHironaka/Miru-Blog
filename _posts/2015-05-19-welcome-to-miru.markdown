@@ -1,5 +1,5 @@
 ---
-title: Welcome to Miru!
+title: Welcome to Miru World!
 date: 2015-05-19 19:58:00 Z
 categories:
 - feature
@@ -9,7 +9,7 @@ tags:
 - miru
 img: ngappy.jpg
 area: "#66f2b2"
-author: Kamauri Yeh 
+author: Kamauri-Yeh
 assets: "/uploads/ngappy.jpg"
 dept: "#66f2b2"
 layout: post

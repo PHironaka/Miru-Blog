@@ -24,14 +24,18 @@ layout: default
 </li>
 
   <li>
-  <h3 > {{page.date | date: "%b %d. %Y. %T"}}</h3>
+  <h3 > {{page.date | date: "%b %d. %Y. %T"}}  | </h3>
+  </li>
+
+  <li>
+  <a class="twitter"href="https://twitter.com/share" target="_blank">  TWEET</a>
   </li>
 
   </ul>
 
   <h1 class="post-title">{{ page.title }}
   </h1>
-
+<h2>By <a href="/author/{{page.name}}"> {{page.author}}</a></h2>
 
 
   <div class="post-content">
@@ -74,6 +78,7 @@ layout: default
       </div>
 
   </div>
+
 
 
 

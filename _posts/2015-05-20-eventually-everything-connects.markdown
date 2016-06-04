@@ -11,7 +11,7 @@ collections:
   authors: Peter Hironaka
 feature-img: DSCF3335-a.jpg
 img: DSCF3335-a.jpg
-author: Kamauri Yeh
+author: Kamauri-Yeh
 dept: "#66f2b2"
 ---
 
