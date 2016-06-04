@@ -16,3 +16,4 @@ Sunshine has a profound effect on people's moods and outlook on the world. As a 
 
 Once the sun comes out in Portland, it's game over. There are few places in the world as beautiful as Portland is on a sunny day. And the best part: everyone is happy. 
 
+[Flowers](/uploads/DSCF6899.JPG)
