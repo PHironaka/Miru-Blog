@@ -10,6 +10,7 @@ tags:
 author: Peter Hironaka
 name: peter-hironaka
 assets: "/uploads/ngappy.jpg"
+img: ngappy.jpg
 ---
 
 ![dogtown.jpg](/uploads/ngappy.jpg)
