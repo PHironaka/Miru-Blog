@@ -4,8 +4,6 @@ date: 2016-06-04 19:01:00 Z
 categories:
 - blog
 tags:
-- portland
-- friends
 - weekend trips
 author: Peter Hironaka
 name: peter-hironaka
