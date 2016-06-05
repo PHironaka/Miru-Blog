@@ -8,12 +8,14 @@ tags:
 - review
 - Another Kind of Sunrise
 - venice
-img: IMG_8425.JPG
+img: anotherkind.jpg
 author: Peter Hironaka
 dept: "#66f2b2"
 ---
 
 At this stage in the game, it's pretty uncommon to stumble across a 'hidden gem' in Venice. All the good spots fairly widely publicized and tagged across all social media platforms, almost guaranteeing big crowds and long waits. For some reason, coffee shop Another Kind of Sunrise is a bit of an anomaly. It's located on one of the busiest streets in America, Abbott Kinney. The coffee is great, the snacks are phenomenal, yet every time I swing by, there aren't more than two customers waiting for their treats to be served. Then again, there's nothing traditional about AKOS.
+
+![anotherkind.JPG](/uploads/anotherkind.JPG)
 
 Founded in 2013 by Visual Artist Diana Garcia and musician Gregory Rogove, AKOS is described as a cereal-centric takeaway cafe. Cereal? Hell yeah, but it's not your typical bowl of Corn Flakes. They offer a variety of options to choose from, all of which are healthy and organic. My personal favorite is the Peanut Butter bowl. Another one of their specialties is the Buttery Brew, which is essentially a combination of raw organic coconut oil, grass fed ghee, and freshly roasted organic coffee. I'll be completely frank in saying this special brew isn't for everyone. Truth be told, I'm more of a black coffee guy, so I've never personally been a fan. Thank goodness the regular coffee is superb!
 
