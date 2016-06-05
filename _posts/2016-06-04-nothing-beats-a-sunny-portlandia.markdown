@@ -9,7 +9,7 @@ tags:
 - weekend trips
 author: Peter Hironaka
 name: peter-hironaka
-Field name: 
+img: DSCF6938.JPG
 ---
 
 Sunshine has a profound effect on people's moods and outlook on the world. As a resident of Venice for over 1 1/2 years, I've become spoiled by countless days of sunshine and perfect 75 degree weather. It's true, I'm soft. And anytime I venture outside my little bubble, like say this past weekend when I went to Portland, I'm reminded of the emotional and spiritual impact good weather can bring a community. Once the sun comes out in Portland, it's game over. There are few places in the world as beautiful as Portland is on a sunny day. And the best part: everyone is happy. 
@@ -40,6 +40,5 @@ This was my neighborhood coffee shop in SE Portland. There's nothing really hip 
 
 ![DSCF6938.JPG](/uploads/DSCF6938.JPG)
 ![DSCF6941.JPG](/uploads/DSCF6941.JPG)
-![DSCF6942.JPG](/uploads/DSCF6942.JPG)
-![DSCF6945.JPG](/uploads/DSCF6945.JPG)
+
 
