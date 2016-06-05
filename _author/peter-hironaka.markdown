@@ -4,9 +4,8 @@ thumbnail: "/uploads/space-pic.jpg"
 location: |2-
 
   Venice, CA
-bio: |-
-  Welcome to Miru, our quaint little corner of the internet we call home. Ray Bradbury
-    once said, “Stuff your eyes with wonder,
+bio: 'Peter is currently a Digital Producer and Freelance Front End Web Developer.
+  If he''s not at his computer, you can probably find him in the ocean. '
 twitter: <a href="http://peterhironaka.com" target="_blank">peterhironaka.com</a>
 layout: author
 ---
