@@ -39,3 +39,7 @@ On Saturday, we got to drive around St. Johns neighborhood, including the Univer
 This was my neighborhood coffee shop in SE Portland. There's nothing really hip or special about the place, which is kind of why I loved it so much. The coffee is really good too, and it's a just a few blocks up the street from my old apartment. We were joined by a few good friends as we enjoyed the morning sunshine and good conversation.  
 
 ![DSCF6938.JPG](/uploads/DSCF6938.JPG)
+![DSCF6941.JPG](/uploads/DSCF6941.JPG)
+![DSCF6942.JPG](/uploads/DSCF6942.JPG)
+![DSCF6945.JPG](/uploads/DSCF6945.JPG)
+
