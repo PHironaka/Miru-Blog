@@ -1,0 +1,47 @@
+---
+title: Archives
+layout: default
+---
+
+<div class="hero-banner-post">
+
+<img src="/img/archives-2.jpg">
+</div>
+
+<div class="wrap">
+   {% if type == "post" %}
+      {% comment %} Show tagsets if this is a post {% endcomment %}
+
+      {% for tagset in taxonomy %}
+        <strong>{{tagset.key}} ({{tagset | size}} tags)</strong>
+        <ul>
+          {% for tag in tagset %}
+            <li><a href="{{tag.url}}">{{tag.value}}</a></li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+
+    {% else %}
+      {% comment %} Loop through any posts and show an excerpt {% endcomment %}
+
+
+<article class="post-preview-list">
+      {% for post in site.posts %}
+      {% if post.categories contains 'blog' limit:25 %}
+
+        <div class="archive-list">
+          <div class="post-color-blog" style=" background:{{post.dept}};"></div>
+<h3 > {{post.date | date: "%m. %d. %Y"}}</h3>
+         <a href="{{post.url}}" class="title">{{post.title}}</a>
+         <p>{{post.content | strip_html | truncatewords: 50}}</p>
+
+      </div>
+
+
+          {% endif %}
+      {% endfor %}
+  </article>
+
+
+    {% endif %}
+ </div></div>
