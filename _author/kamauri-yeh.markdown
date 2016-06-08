@@ -5,7 +5,7 @@ Field name:
 thumbnail:
 - "/img/kam.jpg"
 twitter:
-- <a href="http://peterhironaka.com" target="_blank">peterhironaka.com</a>
+- <a href="https://twitter.com/yehwho" target="_blank">@yehwho</a>
 bio:
 - Supporting movers, makers, hustlers, & shakers |  Nike West Digital Director | Formerly
   @Twitter
