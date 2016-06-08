@@ -154,12 +154,12 @@ aside.about, aside.author {
     @include span-columns(12);
     padding: 2em 1em;
     margin: 0 0 1em;
-    border-bottom: 1px solid #eee;
     display: block;
     img {
       max-width: 250px;
       float: left;
       margin-right: 2em;
+          border-radius: 129px;
     }
 
     p {
@@ -190,9 +190,13 @@ aside.about, aside.author {
 
 .author-posts {
   @include outer-container;
-  margin: 1em 0;
-  border-top: 1px solid #eee;
-  padding: 20px 0;
+
+  @media screen and (max-width: $break-large) {
+    margin: 1em 0;
+    border-top: 1px solid #eee;
+    padding: 20px 0;
+
+    }
 
       .list {
           @include outer-container;
