@@ -84,6 +84,10 @@ html {
 
 
 h4 {
+<<<<<<< HEAD
+=======
+  margin: 0 0 1em ;
+>>>>>>> origin/master
   font-size: .9em;
 }
 
@@ -104,6 +108,7 @@ color: #333;
 h1 {
   font-size: 1.5em;
 }
+<<<<<<< HEAD
 
 aside.about {
   margin-top: 2em;
@@ -169,11 +174,32 @@ aside.about, aside.author {
    }
 }
 
+=======
+aside.about, aside.author {
+      float: left;
+      margin-top: 2em;
+      padding: 0 2em 0 0;
+
+        img {
+              border-radius: 100px;
+        }
+
+        h2 {
+          text-align: left;
+          margin: 0;
+          font-weight: 300;
+          text-transform: none;
+          padding: 0;
+        }
+    }
+
+>>>>>>> origin/master
 .author-posts {
   @include outer-container;
   margin: 1em 0;
       .list {
           @include outer-container;
+<<<<<<< HEAD
           border-bottom: 1px solid #eee;
           padding: 20px 0;
 
@@ -182,12 +208,25 @@ aside.about, aside.author {
           }
 
 
+=======
+          border-top: 1px solid #eee;
+          padding: 20px 0;
+
+          h1 {
+            font-size: 1.2em;
+            text-transform: uppercase;
+          }
+
+>>>>>>> origin/master
           h3 {
             font-size: .9em;
             text-align: left;
           }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> origin/master
           a.more-button {
             background-color: rgba(242, 242, 242, 0.44);
             padding: 9px;
@@ -208,7 +247,14 @@ aside {
     margin-top: 0;
     line-height: 1.8em;
     margin-top: 1em;
+<<<<<<< HEAD
 
+=======
+      @media screen and (max-width: $break-large) {
+      display:none;
+
+    }
+>>>>>>> origin/master
 
 
     ul {
