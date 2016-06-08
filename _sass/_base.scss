@@ -191,6 +191,9 @@ aside.about, aside.author {
 .author-posts {
   @include outer-container;
   margin: 1em 0;
+  border-top: 1px solid #eee;
+  padding: 20px 0;
+
       .list {
           @include outer-container;
           border-bottom: 1px solid #eee;
@@ -200,13 +203,8 @@ aside.about, aside.author {
             border-bottom: none;
           }
 
-
-          border-top: 1px solid #eee;
-          padding: 20px 0;
-
           h1 {
             font-size: 1.2em;
-            text-transform: uppercase;
           }
 
           h3 {
