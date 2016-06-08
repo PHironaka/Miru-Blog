@@ -9,7 +9,6 @@ bio: 'Peter is currently a Digital Producer and Freelance Front End Web Develope
 twitter: <a href="http://peterhironaka.com" target="_blank">peterhironaka.com</a>
 layout: author
 countries: 12
-
 ---
 
 Peter grew up in New England, went to high school and college in the Bay Area, started his career in Portland, and currently resides by the beach in Venice, CA.
