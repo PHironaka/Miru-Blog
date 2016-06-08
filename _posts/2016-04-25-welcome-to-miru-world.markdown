@@ -1,18 +1,10 @@
 ---
-title: Welcome to Miru!
-date: 2015-05-19 19:58:00 Z
-categories:
-- feature
+title: Welcome to Miru World
+date: 2016-04-25 08:27:00 Z
 tags:
 - first post
 - travel
 - miru
-img: ngappy.jpg
-area: "#66f2b2"
-author: Peter Hironaka first and foremost is authenticity.
-assets: "/uploads/ngappy.jpg"
-dept: "#66f2b2"
-layout: post
 ---
 
 ![dogtown.jpg](/uploads/ngappy.jpg)
@@ -32,7 +24,7 @@ This is our home. We live in Venice, CA and are constantly in awe of its beauty.
 Another benefit of living in LA and California for that matter is the proximity to cool places. Palm Springs, San Diego, Santa Barbara, Vegas, Ojai. All within a 4hr drive.
 
 # Domestic
-Wheels up time. We have about a handful of upcoming trips across the country, which should make for some good times and excellent adventures. 
+Wheels up time. We have about a handful of upcoming trips across the country, which should make for some good times and excellent adventures.
 
 # Global Crusades
 The possibilities are endless 🌎

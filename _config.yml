@@ -8,10 +8,10 @@ collections:
   uploads:
     title: Uploads
     output: true
-  authors:
+  author:
     title: authors
     output: true
-  tags:
+  tag:
     title: tags
     output: true
 defaults:

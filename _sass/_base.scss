@@ -80,6 +80,13 @@ html {
   box-sizing: inherit;
 }
 
+
+
+
+h4 {
+  font-size: .9em;
+}
+
 body{
 
   font-family: $defaultFont;
@@ -97,11 +104,102 @@ color: #333;
 h1 {
   font-size: 1.5em;
 }
+
 aside.about {
+  margin-top: 2em;
+  padding: 0 2em 0 0;
+
+  p {
+    font-size: .8em;
+    line-height: 1.5em;
+  }
+
+  @media screen and (max-width: $break-large) {
+  display:none;
+
+}
+
+}
+aside.about, aside.author {
       float: left;
-      margin-top: 2em;
-      padding: 0 2em 0 0;
+
+
+        img {
+              border-radius: 100px;
+        }
+
+        h2 {
+          text-align: left;
+          margin: 0;
+          font-weight: 300;
+          text-transform: none;
+          padding: 0;
+        }
+
+        p.countries {
+          margin: 0 0 1em ;
+
+        }
     }
+
+.author {
+  p {
+    font-size: .8em;
+    line-height: 1.5em;
+  }
+
+  @media screen and (max-width: $break-large) {
+      @include outer-container;
+    @include span-columns(12);
+    padding: 2em 1em;
+    margin: 0 0 1em;
+    border-bottom: 1px solid #eee;
+    display: block;
+    img {
+      max-width: 250px;
+      float: left;
+      margin-right: 2em;
+    }
+
+    p {
+      font-size: 1em;
+      line-height: 1.5em;
+    }
+
+   }
+}
+
+.author-posts {
+  @include outer-container;
+  margin: 1em 0;
+      .list {
+          @include outer-container;
+          border-bottom: 1px solid #eee;
+          padding: 20px 0;
+
+          &:last-child {
+            border-bottom: none;
+          }
+
+
+          h3 {
+            font-size: .9em;
+            text-align: left;
+          }
+
+
+          a.more-button {
+            background-color: rgba(242, 242, 242, 0.44);
+            padding: 9px;
+border-radius: 13px;
+              &:hover {
+                background-color: #DEE7E2;
+      color: black;
+              }
+          }
+      }
+
+}
 
 
 aside {
@@ -111,12 +209,6 @@ aside {
     line-height: 1.8em;
     margin-top: 1em;
 
-    background: rgba(238, 238, 238, 0.18);
-
-      @media screen and (max-width: $break-large) {
-      display:none;
-
-    }
 
 
     ul {
@@ -151,10 +243,7 @@ aside {
 
       }
 
-      p {
-        font-size: .8em;
-        line-height: 1.5em;
-      }
+
     p.interact {
 
       font-size: .8em;
@@ -177,6 +266,10 @@ img, video, object{ max-width: 100% }
 
 article, header, nav, section {
     display: block;
+}
+
+.twitter {
+  color: #55acee;
 }
 
 /* Layout
@@ -207,7 +300,7 @@ article, header, nav, section {
   @include span-columns(8);
   @include shift(3);
 margin: 0 0 1em;
-padding:0.5em 0 2em 0;
+padding:0.5em 0em 2em 2em;
 
 @media screen and (max-width: $break-large) {
   width:100%;
@@ -307,16 +400,27 @@ h3 {
   @include span-columns(8);
   @include shift(2);
 padding: 2em 0;
+
+@media screen and (max-width: $break-small) {
+@include outer-container;
+  display: inline;
+  width: 100%;
+      padding: 2em 0;
+  margin-left: 0;
+
+
+}
+
+
   a{
     background-color: rgba(242, 242, 242, 0.44);
 padding: 12px 15px;
 display: inline;
 border-radius: 17px;
 @media screen and (max-width: $break-small) {
-  display: block;
-  @include span-columns(5);
-padding: 10px;
-margin: 16px 0;
+  display: inline;
+  width: 100%;
+  float: none;
 
 }
     &:hover {
@@ -352,7 +456,7 @@ margin: 16px 0;
 
 	    padding: 1em 0 ;
 		  line-height: 1.8em;
-      color: rgb(90, 90, 90);
+      color: #333333;
 
 			@media screen and (max-width: $break-large) {
 			  	width: 100%;
