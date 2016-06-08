@@ -10,6 +10,7 @@ tags:
 - venice
 img: anotherkind.jpg
 author: Peter Hironaka
+name: peter-hironaka
 dept: "#66f2b2"
 ---
 
