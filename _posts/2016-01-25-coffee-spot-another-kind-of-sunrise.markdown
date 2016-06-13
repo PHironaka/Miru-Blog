@@ -3,6 +3,7 @@ title: 'Coffee Spot: Another Kind of Sunrise'
 date: 2016-01-25 08:39:00 Z
 categories:
 - blog
+- hero
 tags:
 - coffee
 - review
