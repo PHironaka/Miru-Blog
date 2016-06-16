@@ -13,8 +13,6 @@ assets: "/uploads/ngappy.jpg"
 img: ngappy.jpg
 ---
 
-![dogtown.jpg](/uploads/ngappy.jpg)
-
 Hello folks, and welcome to Miru!
 
 We just dropped the welcome mat on our new internet abode, and we couldn't be more excited to share our travel adventures and experiences with the world. If you're anything like us, then you know how important it is to travel outside of your comfort zone. To find the road less traveled, and to experiences different parts of the world you don't often see. That, in a nutshell, is what we strive for in Miru.
