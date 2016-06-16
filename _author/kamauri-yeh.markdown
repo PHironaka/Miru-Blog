@@ -13,7 +13,3 @@ location:
 - Venice, CA
 layout: author
 ---
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/master
