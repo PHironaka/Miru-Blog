@@ -71,7 +71,7 @@
 var config1 = {
   "id": '733307937905512448',
   "domId": 'ph-tweets',
-  "maxTweets": 3,
+  "maxTweets": 6,
   "enableLinks": true
 };
 twitterFetcher.fetch(config1);
