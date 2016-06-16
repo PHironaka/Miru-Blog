@@ -240,18 +240,6 @@ aside.about {
 
   }
 
-  @media screen and (max-width: $break-large) {
-      @include outer-container;
-    @include span-columns(12);
-    padding: 2em 1em;
-    margin: 0 0 1em;
-    display: block;
-    img {
-      max-width: 250px;
-      float: left;
-      margin-right: 2em;
-          border-radius: 129px;
-    }
 
 
 }
@@ -467,7 +455,8 @@ border-bottom: 1px solid #eee;
       margin-bottom: 3em;
 
       .archive-list {
-        margin: 3em 0;
+
+        margin: 2em 0
       }
 
 @media screen and (max-width: $break-large) {
