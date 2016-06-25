@@ -3,7 +3,7 @@ title: Kamauri Yeh
 date: 2016-06-01 16:03:00 Z
 Field name: 
 thumbnail:
-- "/img/kam.jpg"
+- "/img/kly.JPG"
 twitter:
 - <a href="https://twitter.com/yehwho" target="_blank">https://twitter.com/yehwho</a>
 bio:

@@ -2,7 +2,7 @@
 title: Welcome to Miru World
 date: 2016-01-04 18:49:00 Z
 categories:
-- feature
+- blog
 tags:
 - miru
 - travel
@@ -12,8 +12,6 @@ name: peter-hironaka
 assets: "/uploads/ngappy.jpg"
 img: ngappy.jpg
 ---
-
-![dogtown.jpg](/uploads/ngappy.jpg)
 
 Hello folks, and welcome to Miru!
 

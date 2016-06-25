@@ -1,6 +1,6 @@
 ---
 title: Peter Hironaka
-thumbnail: "/uploads/space-pic.jpg"
+thumbnail: "/img/pjh-2.JPG"
 location: |2-
 
   Venice, CA

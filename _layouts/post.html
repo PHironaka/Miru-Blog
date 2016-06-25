@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+
 <div class="hero-banner-post">
 
 
@@ -18,7 +19,7 @@ layout: default
 <div class="post">
   <ul class="post-credits">
   <li >
-    {% for category in page.categories %}
+    {% for category in page.categories limit:1 | first %}
   <a href="/tag/{{category}}"><h3>Miru/ {{category}}</h3></a>
     {% endfor %}
 </li>
