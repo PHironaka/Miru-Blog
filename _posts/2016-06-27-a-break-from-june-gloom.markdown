@@ -16,3 +16,13 @@ Last Monday was the first week of Summer, and with that, our first glimmer of ho
 Here are a few snaps from our fun in the sun. Can't wait for all the fun adventures that are ahead this summer: 
 
 ![DSCF7024.JPG](/uploads/DSCF7024.JPG)
+
+![DSCF7033.JPG](/uploads/DSCF7033.JPG)
+
+![DSCF7049.JPG](/uploads/DSCF7049.JPG)
+
+![DSCF7056.JPG](/uploads/DSCF7056.JPG)
+
+![DSCF7084.JPG](/uploads/DSCF7084.JPG)
+
+![DSCF7083.JPG](/uploads/DSCF7083.JPG)
