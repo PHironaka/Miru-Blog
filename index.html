@@ -3,8 +3,6 @@ title: Home
 layout: default
 ---
 
-
-
 <div class="wrap">
 
   <div class="intro">
@@ -53,7 +51,7 @@ layout: default
 
 
    {% for post in site.posts %}
-   {% if post.categories contains 'blog' limit:6 %}
+   {% if post.categories contains 'miru' limit:6 %}
      <article class="post-preview-list">
      <div class="list-content">
        <h3> {{post.date | date: "%m. %d. %Y"}}</h3>
