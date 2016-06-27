@@ -172,6 +172,7 @@ html {
 
 
 
+
 h4 {
   margin: 0 0 1em ;
   font-size: .9em;
@@ -214,13 +215,20 @@ aside.about {
 
 
 .author {
-  @include span-columns(9);
-    @include shift(1);
+  @include span-columns(12);
+    border-bottom: 1px solid #eee;
   padding: 2em 1em;
   display: block;
 
+  @media screen and (max-width: $break-large) {
+    margin: 1em 0;
+    padding: 2em 0;
+
+    }
+
+
   img {
-    max-width: 250px;
+    max-width: 252px;
     float: left;
     margin-right: 2em;
         border-radius: 129px;
@@ -267,7 +275,6 @@ aside.about, aside.author {
 
   @media screen and (max-width: $break-large) {
     margin: 1em 0;
-    border-top: 1px solid #eee;
     padding: 20px 0;
 
     }
@@ -453,11 +460,6 @@ border-bottom: 1px solid #eee;
   @include span-columns(8);
   @include shift(2);
       margin-bottom: 3em;
-
-      .archive-list {
-
-        margin: 2em 0
-      }
 
 @media screen and (max-width: $break-large) {
   width:100%;

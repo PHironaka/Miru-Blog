@@ -7,12 +7,11 @@ tags:
 - weekend trips
 - CA
 - Ojai
+layout: post
 feature-img: img_7559.jpg
 img: img_7559.jpg
-author: Kamauri Yeh
+author: Kamauri-Yeh
 dept: "#AF66F2"
-name: kamauri-yeh
-layout: post
 ---
 
 If you’ve met or talked to me in the last six months since I’ve move to California, I can guarantee I’ve talked to you about Ojai. Every now and then in life you find a place that makes your heart happy and soul feel good. That place for me is Ojai Valley Inn & Spa.
