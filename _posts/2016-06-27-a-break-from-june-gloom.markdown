@@ -4,6 +4,7 @@ date: 2016-06-27 14:58:00 Z
 categories:
 - post
 - hero
+- blog
 tags:
 - weekend adventures
 - LA
