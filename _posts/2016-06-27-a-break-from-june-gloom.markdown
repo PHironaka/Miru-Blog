@@ -7,4 +7,4 @@ This is the one time during the calendar year Angelenos are allowed to complain 
 
 Last Monday was the first week of Summer, and with that, our first glimmer of hope. Temperatures reached into the 80s, and with that, we decided to head outdoors for some fun in the sun. 
 
-[DSCF7024.JPG](/uploads/DSCF7024.JPG)
+![DSCF7024.JPG](/uploads/DSCF7024.JPG)
