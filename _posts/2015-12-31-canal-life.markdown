@@ -3,6 +3,7 @@ title: Canal Life
 date: 2015-12-31 07:38:00 Z
 categories:
 - blog
+- miru
 tags:
 - Venice Canals
 - the tree
