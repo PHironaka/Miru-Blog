@@ -3,6 +3,7 @@ title: Welcome to Miru World
 date: 2016-01-04 18:49:00 Z
 categories:
 - blog
+- miru
 tags:
 - miru
 - travel
