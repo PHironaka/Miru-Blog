@@ -13,6 +13,6 @@ This is the one time during the calendar year Angelenos are allowed to complain 
 
 Last Monday was the first week of Summer, and with that, our first glimmer of hope. Temperatures reached into the 80s, and with that, we decided to head outdoors for some fun in the sun. Weekend activities included a 7-mile hike along the Los Liones Trailhead in Pacific Palisades, an afternoon dip in the ocean, and a few hours at LACMA to close out the weekend.
 
-Here are a few snaps from our fun in the sun. Can't wait for all the fun adventures that are ahead this summer. 
+Here are a few snaps from our fun in the sun. Can't wait for all the fun adventures that are ahead this summer: 
 
 ![DSCF7024.JPG](/uploads/DSCF7024.JPG)
