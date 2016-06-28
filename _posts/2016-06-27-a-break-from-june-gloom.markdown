@@ -10,7 +10,7 @@ tags:
 - LA
 author: Peter Hironaka
 name: peter-hironaka
-img: DSCF7024.JPG
+img: DSCF7084.JPG
 dept: "#66f2b2"
 ---
 
