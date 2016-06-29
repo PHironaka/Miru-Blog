@@ -6,7 +6,7 @@ categories:
 - miru
 tags:
 - Austin
-- weekend trips
+- weekend adventures
 dept: "#AF66F2"
 author: Peter Hironaka
 name: peter-hironaka
