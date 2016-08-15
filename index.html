@@ -3,6 +3,39 @@ title: Home
 layout: default
 ---
 
+<<<<<<< Updated upstream
+=======
+<div class="hero-banner-post">
+  {% if type == "post" %}
+    {% comment %} Show tagsets if this is a post {% endcomment %}
+
+
+
+  {% else %}
+    {% comment %} Loop through any posts and show an excerpt {% endcomment %}
+
+
+        {% for post in site.posts %}
+         {% if post.categories contains 'home' limit:1 %}
+         <div class="feature-banner" style="background-image: url('/uploads/{{post.img}}');">
+  <div class="wrap">
+          <div class="feature-copy">
+
+          <h2><a href="{{post.url}}">{{post.title}}</a></h2>
+          <p>{{post.content | strip_html | truncatewords: 10}}</p>
+          <div class="more"><a href="{{post.url}}">Read More</a></div>
+</div>
+      </div>
+         </div>
+
+
+
+        {% endif %}
+    {% endfor %}
+    {% endif %}
+</div>
+
+>>>>>>> Stashed changes
 <div class="wrap">
 
   <div class="intro">
@@ -24,10 +57,20 @@ layout: default
 
     {% else %}
       {% comment %} Loop through any posts and show an excerpt {% endcomment %}
+  <article class="post-preview">
+      {% for post in site.posts limit:3 %}
+      <div class="list-thumbnail"><a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a>
+<a href="{{post.url}}" class="title">{{post.title}}</a>
+      </div>
+
+
+      {% endfor %}
+</article>
 
 
 
       {% for post in site.posts %}
+<<<<<<< Updated upstream
       {% if post.categories contains 'hero' limit:3 %}
         <article class="post-preview">
 <div class="top-img"><a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a></div>
@@ -36,9 +79,17 @@ layout: default
          <h3> {{post.date | date: "%m. %d. %Y"}}</h3>
           <p>{{post.content | strip_html | truncatewords: 40}}</p>
 
+=======
+      {% if post.categories contains 'blog' limit:6 %}
+        <article class="post-preview-list">
+          <div class="list-content">
+         <h1><a href="{{post.url}}" class="title">{{post.title}}</a></h1>
+         <h3> {{post.date | date: "%m. %d. %Y"}}</h3>
+>>>>>>> Stashed changes
 
-      </div>
+          <p>{{post.content | strip_html | truncatewords: 30}}</p>
 
+</div>
         </article>
           {% endif %}
 
@@ -64,6 +115,7 @@ layout: default
 
    </div>
 
+<<<<<<< Updated upstream
      </article>
        {% endif %}
    {% endfor %}
@@ -83,3 +135,6 @@ layout: default
 
 
   </div><!-- /wrap -->
+=======
+ </div>  </div><!-- /wrap -->
+>>>>>>> Stashed changes

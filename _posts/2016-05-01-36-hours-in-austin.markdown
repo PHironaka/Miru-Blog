@@ -3,10 +3,17 @@ title: 36 Hours in Austin
 date: 2016-05-01 08:27:00 Z
 categories:
 - post
+<<<<<<< Updated upstream
 - miru
 tags:
 - Austin
 - weekend adventures
+=======
+
+tags:
+- Austin
+- weekend trips
+>>>>>>> Stashed changes
 dept: "#AF66F2"
 author: Peter Hironaka
 name: peter-hironaka

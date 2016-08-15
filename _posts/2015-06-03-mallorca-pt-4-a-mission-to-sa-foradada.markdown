@@ -3,7 +3,11 @@ title: 'Mallorca: A Mission to Sa Foradada'
 date: 2015-06-03 08:27:00 Z
 categories:
 - blog
+<<<<<<< Updated upstream
 - miru
+=======
+- home
+>>>>>>> Stashed changes
 tags:
 - food
 - spain

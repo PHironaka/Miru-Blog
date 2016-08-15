@@ -1,22 +1,22 @@
 ---
 layout: default
 ---
+<<<<<<< Updated upstream
 
 <div class="hero-banner-post">
 
 
+=======
+>>>>>>> Stashed changes
 
-
-
-   {% if page.feature-img %}
-   <div class="feature-banner" style="background-image: url('/uploads/{{page.feature-img}}');">
-       </div>
-{% endif %}
- </div>
-
-
-<div class="wrap">
 <div class="post">
+  <div class="wrap">
+
+
+
+  <h1 class="post-title">{{ page.title }}
+  </h1>
+
   <ul class="post-credits">
   <li >
     {% for category in page.categories limit:1 | first %}
@@ -29,16 +29,11 @@ layout: default
   </li>
 
   <li>
-  <a class="twitter"href="https://twitter.com/share" target="_blank">  TWEET</a>
+  <a class="twitter"href="https://twitter.com/share?text={{page.title}}"  data-text="screen_name" target="_blank"> <img src="/img/twitter-blue.svg"></a>
   </li>
 
   </ul>
-
-  <h1 class="post-title">{{ page.title }}
-  </h1>
-<h2>By <a href="/author/{{page.name}}"> {{page.author}}</a></h2>
-
-
+  <h2>By <a href="/author/{{page.name}}"> {{page.author}}</a></h2>
   <div class="post-content">
 
     {{ content }}
@@ -53,53 +48,22 @@ layout: default
 
 
 
-
-          <div id="disqus_thread"></div>
-    <script>
-    /**
-    * RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    * LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
-    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-
-    s.src = '//miruworld.disqus.com/embed.js';
-
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+      <article class="related-posts">
+        <ul>
+      {% for post in site.related_posts %}
+        <li>
+        <div class="related-asset">
+        <div class="post-color" style=" background:{{post.dept}};"></div>
+        <h3> {{post.date | date: "%b %d, %Y"}}</h3>
+        <a href="{{post.url}}">{{post.title}}</a>
       </div>
+        <p>{{post.content | strip_html | truncatewords: 40}}</p>
+        </li>
+        {% if forloop.index == 3 %}{% break %}{% endif %}
+        {% endfor %}
+        </ul>
 
-  </div>
+      </article>
 
 
-
-
-
-
-  <article class="related-posts">
-    <ul>
-  {% for post in site.related_posts %}
-    <li>
-    <div class="related-asset">
-    <div class="post-color" style=" background:{{post.dept}};"></div>
-    <h3> {{post.date | date: "%b %d, %Y"}}</h3>
-    <a href="{{post.url}}">{{post.title}}</a>
-    <a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a>
-  </div>
-    <p>{{post.content | strip_html | truncatewords: 40}}</p>
-    </li>
-    {% if forloop.index == 3 %}{% break %}{% endif %}
-    {% endfor %}
-    </ul>
-
-  </article>
 </div></div>

@@ -3,29 +3,89 @@ title: Archives
 layout: default
 ---
 
+<<<<<<< Updated upstream
 <div class="wrap page">
 
 
 <div class="about-list">
 
+=======
+<article class="post">
+<div class="wrap">
+   {% if type == "post" %}
+      {% comment %} Show tagsets if this is a post {% endcomment %}
+
+      {% for tagset in taxonomy %}
+        <strong>{{tagset.key}} ({{tagset | size}} tags)</strong>
+        <ul>
+          {% for tag in tagset %}
+            <li><a href="{{tag.url}}">{{tag.value}}</a></li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+>>>>>>> Stashed changes
 
 
 
+<<<<<<< Updated upstream
   <article class="post-content">
+=======
+<div class="post-category">
+  <div class="post-color-blog" style=" background:#AF66F2;"></div>
+
+>>>>>>> Stashed changes
       {% for post in site.posts %}
-      {% if post.categories contains 'blog' limit:25 %}
+      {% if post.dept  == '#AF66F2' %}
 
         <div class="archive-list">
+<<<<<<< Updated upstream
           <div class="post-color-blog" style=" background:{{post.dept}};"></div>
         <h1> <a href="{{post.url}}" class="title">{{post.title}}</a></h1>
          <p>{{post.content | strip_html | truncatewords: 30}}</p>
 
+=======
+         <a href="{{post.url}}" class="title">{{post.title}}</a>
+         <h3 > {{post.date | date: "%m. %d. %Y"}}</h3>
+         <p>{{post.content | strip_html | truncatewords: 30}}</p>
+         <div class="post-tag">
+           {% for tag in post.tags %}
+           <a href="/tag/{{ tag }}">{{ tag }}</a>
+           {% endfor %}
+         </div>
+>>>>>>> Stashed changes
       </div>
 
 
           {% endif %}
       {% endfor %}
-  </article>
+  </div>
+      <div class="post-category">
+      <div class="post-color-blog" style=" background:#66f2b2;"></div>
+
+        {% for post in site.posts %}
+        {% if post.dept  == '#66f2b2' %}
+
+          <div class="archive-list">
+           <a href="{{post.url}}" class="title">{{post.title}}</a>
+           <h3 > {{post.date | date: "%m. %d. %Y"}}</h3>
+           <p>{{post.content | strip_html | truncatewords: 30}}</p>
+           <div class="post-tag">
+           {% for tag in post.tags %}
+           <a href="/tag/{{ tag }}">{{ tag }}</a>
+           {% endfor %}
+           </div>
+        </div>
 
 
+            {% endif %}
+        {% endfor %}
+          </div>
+    </article>
+
+
+<<<<<<< Updated upstream
  </div></div>
+=======
+    {% endif %}
+ </div>
+>>>>>>> Stashed changes

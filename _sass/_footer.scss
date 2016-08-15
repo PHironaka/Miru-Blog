@@ -17,12 +17,13 @@ h2.related {
   font-size:.6em;
 
   }
+ ul {
+@include outer-container;
 
 
 	li {
-@include outer-container;
+  float: left;
 padding: 1em 0;
-border-top: 1px solid #eee;
 
 			@media screen and (max-width: $break-small) {
 			   margin-right: 0;
@@ -32,9 +33,11 @@ border-top: 1px solid #eee;
 			 }
 
        .related-asset {
-         @include span-columns(5);
+         @include span-columns(8);
+         @include shift(2);
+
          @media screen and (max-width: $break-small) {
-            margin-right: 0;
+            margin-left: 0;
             width: 100%;
             padding: 15px 0;
             max-height:none;
@@ -42,8 +45,7 @@ border-top: 1px solid #eee;
        }
 
          p {
-           @include span-columns(7);
-               margin: 3em 0;
+
                @media screen and (max-width: $break-small) {
                   margin-right: 0;
                   width: 100%;
@@ -56,10 +58,9 @@ border-top: 1px solid #eee;
        a {
          font-size: 1.1em;
        }
-			img {
-			margin: 1em 0 0;
-			}
+
 	}
+   }
 
 }
 
@@ -74,7 +75,6 @@ border-top: 1px solid #eee;
 	width: 10px;
 	height: 10px;
   margin: 1px 5px 0 0;
-  float: left;
 }
 
 
@@ -108,14 +108,33 @@ margin: 2em 0 0;
 }
 
 footer {
+<<<<<<< Updated upstream
   background-color: rgba(181, 180, 167, 0.05);
+=======
+>>>>>>> Stashed changes
   margin:  0;
   padding: 2em 0;
 
+ @include direction-context(right-to-left){
+.footer-right {
+    @include span-columns(4);
+    text-align: right;
+  ul li {
+display: inline;
+    margin: 1.8em 0;
+padding: 0 1em;
 
 
+    img {
+      width: 20px;
+    }
+  }
+}
+}
 		h3{
-		text-align:center;
+      @include span-columns(8);
+		text-align:left;
+    padding: 0 1em;
 		}
 
 

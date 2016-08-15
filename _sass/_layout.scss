@@ -40,14 +40,7 @@ margin: 2em 0 0 0;
 padding: 0 1em;
 }
 
-.content{
-@include span-columns(12);
-  margin-top: 2em;
-  	@media screen and (max-width: $break-large) {
-  	  width:100%;
 
-  	}
-}
 
 h1.post-title{
 	  font-size: 2em;
@@ -260,6 +253,7 @@ overflow: hidden;
   	}
   }
 }
+
 
 .post-preview-list{
   @include outer-container;

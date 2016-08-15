@@ -4,7 +4,10 @@ date: 2016-06-04 19:01:00 Z
 categories:
 - post
 - hero
+<<<<<<< Updated upstream
 - blog
+=======
+>>>>>>> Stashed changes
 tags:
 - weekend trips
 author: Peter Hironaka
