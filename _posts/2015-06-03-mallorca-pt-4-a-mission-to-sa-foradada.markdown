@@ -7,7 +7,7 @@ tags:
 - food
 - spain
 - abroad
-image: "/uploads/bar-safradada.jpg"
+header-image: "/uploads/bar-safradada.jpg"
 author: Peter Hironaka
 ---
 
