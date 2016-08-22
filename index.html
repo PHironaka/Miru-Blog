@@ -1,16 +1,10 @@
 ---
 title: Home
 layout: default
+feature: miru
 ---
 
 <div class="hero-banner-post">
-  {% if type == "post" %}
-    {% comment %} Show tagsets if this is a post {% endcomment %}
-
-
-
-  {% else %}
-    {% comment %} Loop through any posts and show an excerpt {% endcomment %}
 
 
         {% for post in site.posts %}
@@ -30,64 +24,37 @@ layout: default
 
         {% endif %}
     {% endfor %}
-    {% endif %}
 </div>
 
 <div class="wrap">
 
   <div class="intro">
-  <h1>{{site.description}}</h1>
 
-  </div>
 
-  
   <article class="post-preview">
+
+    <h2> Recent Posts </h2>
+
       {% for post in site.posts limit:3 %}
       <div class="list-thumbnail"><a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a>
 <a href="{{post.url}}" class="title">{{post.title}}</a>
       </div>
-
 
       {% endfor %}
 </article>
 
 
 
-      {% for post in site.posts %}
-      {% if post.categories contains 'hero' limit:3 %}
-        <article class="post-preview">
-<div class="top-img"><a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a></div>
-        <div class="top-post">
-          <h1>  <a href="{{post.url}}" class="title">{{post.title}}</a>   </h1>
-         <h3> {{post.date | date: "%m. %d. %Y"}}</h3>
-          <p>{{post.content | strip_html | truncatewords: 40}}</p>
-
-      {% if post.categories contains 'blog' limit:6 %}
-        <article class="post-preview-list">
-          <div class="list-content">
-         <h1><a href="{{post.url}}" class="title">{{post.title}}</a></h1>
-         <h3> {{post.date | date: "%m. %d. %Y"}}</h3>
-
-          <p>{{post.content | strip_html | truncatewords: 30}}</p>
-
-</div>
-        </article>
-          {% endif %}
 
 
-      {% endfor %}
-
-
-
-    {% endif %}
-
-
-   {% for post in site.posts %}
-   {% if post.categories contains 'miru' limit:6 %}
+{% for post in site.posts %}
+   {% if post.categories contains 'blog' limit:6 %}
      <article class="post-preview-list">
      <div class="list-content">
-       <h3> {{post.date | date: "%m. %d. %Y"}}</h3>
     <h1> <a href="{{post.url}}" class="title">{{post.title}}</a></h1>
+    <h3> {{post.date | date: "%m. %d. %Y"}}</h3>
+
+    <p>{{post.content | strip_html | truncatewords: 30}}</p>
        <div class="index-tag">
        {% for tag in post.tags %}
        <a href="/tag/{{ tag }}">{{ tag }}</a>

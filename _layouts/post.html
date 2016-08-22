@@ -26,7 +26,7 @@ layout: default
   </li>
 
   </ul>
-  <h2>By <a href="/author/{{page.name}}"> {{page.author}}</a></h2>
+  <h2>By <a href="/author/{{ page.author | slugify: 'pretty' }}  "> {{page.author}}</a></h2>
   <div class="post-content">
 
     {{ content }}
@@ -48,9 +48,10 @@ layout: default
         <div class="related-asset">
         <div class="post-color" style=" background:{{post.dept}};"></div>
         <h3> {{post.date | date: "%b %d, %Y"}}</h3>
-        <a href="{{post.url}}">{{post.title}}</a>
-      </div>
+        <a href="{{post.url }} ">{{post.title}}</a>
         <p>{{post.content | strip_html | truncatewords: 40}}</p>
+
+      </div>
         </li>
         {% if forloop.index == 3 %}{% break %}{% endif %}
         {% endfor %}

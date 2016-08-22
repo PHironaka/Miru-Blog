@@ -1,8 +1,9 @@
 ---
 layout: default
 ---
-
+<div class="post">
 <div class="wrap">
+  <div class="about-list">
   <div class="author">
 <img src="{{page.thumbnail}}">
 <div class="bio-stats">
@@ -12,11 +13,8 @@ layout: default
 <p class="countries">Countries Visited: {{page.countries}}</p>
 
 <p>{{page.bio}}</p>
-<<<<<<< Updated upstream
-  </div>
-=======
+ </div>
   </div>  </div>
->>>>>>> Stashed changes
 
 <div class="about-list">
   <article class="post-content">
@@ -30,7 +28,6 @@ layout: default
             <div class="list">
              <h1><a href="{{post.url}}" class="title">{{post.title}}</a></h1>
              <p>{{post.content | strip_html | truncatewords: 30}}</p>
-             <a class="more-button"href="{{post.url}}" class="title">Read More</a>
           </div>
 
               {% endif %}

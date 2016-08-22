@@ -1,10 +1,13 @@
 ---
-title: 2016 01 25 Coffee Spot Another Kind Of Sunrise
+title: Coffee Spot Another Kind Of Sunrise
 tags:
 - coffee
 - review
 - Another Kind of Sunrise
 - venice
+author: Peter Hironaka
+dept: "#66f2b2"
+name: peter-hironaka
 ---
 
 At this stage in the game, it's pretty uncommon to stumble across a 'hidden gem' in Venice. All the good spots fairly widely publicized and tagged across all social media platforms, almost guaranteeing big crowds and long waits. For some reason, coffee shop Another Kind of Sunrise is a bit of an anomaly. It's located on one of the busiest streets in America, Abbott Kinney. The coffee is great, the snacks are phenomenal, yet every time I swing by, there aren't more than two customers waiting for their treats to be served. Then again, there's nothing traditional about AKOS.

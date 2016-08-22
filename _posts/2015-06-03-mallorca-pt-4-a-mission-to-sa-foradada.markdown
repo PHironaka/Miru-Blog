@@ -1,5 +1,9 @@
 ---
-title: 2015 06 03 Mallorca Pt 4 A Mission To Sa Foradada
+title: Mallorca Pt 4 A Mission To Sa Foradada
+categories:
+- home
+img: DSCF3619.JPG
+author: Peter Hironaka
 tags:
 - food
 - spain
