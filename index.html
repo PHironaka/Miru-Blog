@@ -33,13 +33,14 @@ feature: miru
 
   <article class="post-preview">
 
-    <h2> Recent Posts </h2>
+    <h2> Recent Trips </h2>
 
       {% for post in site.posts limit:3 %}
+      {% if post.dept  == '#FFE950' %}
       <div class="list-thumbnail"><a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a>
 <a href="{{post.url}}" class="title">{{post.title}}</a>
       </div>
-
+ {% endif %}
       {% endfor %}
 </article>
 
