@@ -9,7 +9,7 @@ feature: miru
 
         {% for post in site.posts %}
          {% if post.categories contains 'home' limit:1 %}
-         <div class="feature-banner" style="background-image: url('/{{post.image}}');">
+         <div class="feature-banner" style="background-image: url('{{post.header-image}}');">
   <div class="wrap">
           <div class="feature-copy">
 
