@@ -54,6 +54,27 @@ layout: default
  </div>
  </div>
 
+ <div class="post-category">
+   <div class="post-category-header">
 
+    {% for post in site.posts %}
+    {% if post.dept  == '#FFE950' %}
+
+      <div class="archive-list">
+        <div class="post-color-blog" style=" background:{{post.dept}};"></div>
+      <h2> <a href="{{post.url}}" class="title">{{post.title}}</a></h2>
+
+       <div class="archive-post-tag">
+         {% for tag in post.tags %}
+         <a href="/tag/{{ tag }}">{{ tag }}</a>
+         {% endfor %}
+       </div>
+    </div>
+
+
+        {% endif %}
+    {% endfor %}
+</div>
+</div>
 
  </div></div>

@@ -9,7 +9,7 @@ feature: miru
 
         {% for post in site.posts %}
          {% if post.categories contains 'home' limit:1 %}
-         <div class="feature-banner" style="background-image: url('/uploads/{{post.img}}');">
+         <div class="feature-banner" style="background-image: url('/{{post.image}}');">
   <div class="wrap">
           <div class="feature-copy">
 
@@ -35,8 +35,8 @@ feature: miru
 
     <h2> Recent Trips </h2>
 
-      {% for post in site.posts limit:3 %}
-      {% if post.dept  == '#FFE950' %}
+      {% for post in site.posts  %}
+      {% if post.dept  == '#FFE950' limit:3 %}
       <div class="list-thumbnail"><a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a>
 <a href="{{post.url}}" class="title">{{post.title}}</a>
       </div>
