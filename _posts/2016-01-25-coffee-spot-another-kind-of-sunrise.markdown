@@ -1,5 +1,6 @@
 ---
 title: Coffee Spot Another Kind Of Sunrise
+date: 2016-01-25 00:00:00 Z
 tags:
 - coffee
 - review

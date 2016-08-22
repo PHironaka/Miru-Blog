@@ -1,13 +1,14 @@
 ---
 title: Mallorca Pt 4 A Mission To Sa Foradada
+date: 2015-06-03 00:00:00 Z
 categories:
 - home
-img: DSCF3619.JPG
-author: Peter Hironaka
 tags:
 - food
 - spain
 - abroad
+img: DSCF3619.JPG
+author: Peter Hironaka
 ---
 
 Once we finished our morning walk through town, it was on to the next activity: lunch. We got in our cars and headed north along the coast with our destination being between Valldemossa and Deia. The name of the restaurant is Sa Foradada, which has recently risen to fame due to high praise from the likes of The New York Times and [The Selby](http://tmagazine.blogs.nytimes.com/2012/05/18/edible-selby-fire-island/?_r=0). For those of you who aren't too familiar with Sa Foradada, it's not the the type of restaurant you can just stroll into, order paella and einsemada and be on your merry way. Arriving at the place is half the battle, it's an adventure. Patrons have two ways of arrival: by sail or by foot. We definitely didn't have a boat, so we hoofed it down the steep trail all the way to the restaurant. It ended up taking about an hour each way, approximately two miles with a 1,400ft elevation change from start to finish. Good thing we all packed running shoes!

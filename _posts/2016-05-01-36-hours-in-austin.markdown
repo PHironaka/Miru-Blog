@@ -1,12 +1,13 @@
 ---
 title: 36 Hours In Austin
-img: DSCF3619.JPG
+date: 2016-05-01 00:00:00 Z
 categories:
 - blog
 - miru
 tags:
 - Austin
 - weekend adventures
+img: DSCF3619.JPG
 author: Peter Hironaka
 dept: "#AF66F2"
 name: peter-hironaka

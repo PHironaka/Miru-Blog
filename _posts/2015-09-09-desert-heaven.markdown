@@ -3,7 +3,6 @@ title: Desert Heaven
 date: 2015-09-09 08:39:00 Z
 categories:
 - blog
-
 tags:
 - Palm Springs
 - weekend adventures
