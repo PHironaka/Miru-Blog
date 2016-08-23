@@ -31,6 +31,7 @@ margin: 0;
       display: inline-block;
           margin: 0 1em ;
           border-top: 2px solid #222;
+          padding-top: 12px;
 
 
 
@@ -43,7 +44,6 @@ margin: 0;
 
 
       a {
-
 
           img {
             vertical-align: middle;
@@ -134,7 +134,7 @@ color:black;
        }
        a {color: white;
          border-top: 2px solid #fff;
-padding-top: 10px;
+          padding-top: 12px;
 
          @media screen and (max-width: $break-small) {
          color: black;
