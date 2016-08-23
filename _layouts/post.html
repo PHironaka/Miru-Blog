@@ -33,7 +33,7 @@ layout: default
 
       <div class="post-tag">
       {% for tag in page.tags %}
-      <a href="/tag/{{ tag }}">{{ tag }}</a>
+      <a href="/tag/{{ tag  | slugify: 'pretty' }}">{{ tag }}</a>
       {% endfor %}
       </div>
 
