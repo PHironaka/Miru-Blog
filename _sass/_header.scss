@@ -18,25 +18,26 @@ display: block;
 
   ul {
     @include span-columns(6);
-    margin: 1.8em 0;
+    margin: 1em 0;
 padding: 0 0 0 7em;
 text-align: right;
 
 @media screen and (max-width: $break-small) {
-text-align: center;
 padding: 0 0 1em 0;
 margin: 0;
-width: 100%;
  }
 
     li {
-      display: inline;
+      display: inline-block;
           margin: 0 1em ;
           border-top: 2px solid #222;
-          padding-top: 10px;
+
+
+
 
           @media screen and (max-width: $break-small) {
-          margin: 1em;
+            padding-top: 6px;
+              margin: 0 1em;
           border-top: none;
            }
 
@@ -71,13 +72,10 @@ width: 100%;
         padding: 0 2em 0 0px;
 
         @media screen and (max-width: $break-small) {
-          float: none;
 display: block;
-  width: 100%;
 margin: 0;
 padding:0px;
 color:black;
-  text-align: center;
          }
 
 
