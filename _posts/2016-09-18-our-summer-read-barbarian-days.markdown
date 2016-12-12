@@ -1,6 +1,7 @@
 ---
 title: 'Our Summer Read: Barbarian Days'
 date: 2016-09-18 02:41:00 Z
+author: Peter Hironaka
 ---
 
 OK, so it's been a hot minute or so since we last updated the blog. My apologies for that. I could give you the litany of bs as to why you haven't heard a peep in 3 months, but that would just be a waste of your time. One thing that's for certain is we packed in a couple great trips in the past few weeks, looking forward to sharing that with you in the coming days. But first, I wanted to acknowledge our favorite book from the summer. 
