@@ -8,4 +8,4 @@ OK, so it's been a hot minute or so since we last updated the blog. My apologies
 William Finnegan has been a staff writer for the New Yorker magazine for over 20 years, and with a lifetime of reporting experience, it's no surprise that his memoir "Barbarian Days: A Surfing life" is a great book. Storie
 
 "Barbarian Days: A Surfing life", written by William Finnegan, is a  
-[DSCF5653.JPG](/uploads/DSCF5653.JPG)
+![DSCF5653.JPG](/uploads/DSCF5653.JPG)
