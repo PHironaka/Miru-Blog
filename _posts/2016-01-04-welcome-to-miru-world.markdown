@@ -12,6 +12,7 @@ author: Peter Hironaka
 name: peter-hironaka
 assets: "/uploads/ngappy.jpg"
 img: ngappy.jpg
+dept: "#66f2b2"
 ---
 
 Hello folks, and welcome to Miru!
