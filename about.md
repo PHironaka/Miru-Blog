@@ -6,6 +6,7 @@ description: |+
 
   As we continue to develop Miru, we're always on the lookout to collaborate with like-minded folks. If you think you have an interesting (and relevant) story to share, or there's some hidden cave in the South of France you're dying to share photos of, feel free to drop us a line and get in touch.
 
+image: "/uploads/15232319_10155488030867306_7190793645958405850_n.jpg"
 layout: page
 ---
 
