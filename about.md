@@ -1,6 +1,11 @@
 ---
 title: About
 permalink: "/about/"
+homepage: |+
+  Miru is curated, updated, and coagulated by the dynamic duo of Kamauri Yeh and Peter Hironaka. That's us! We're in love and we love to travel the world with each other. Venice has been our home for nearly two years now, which has been an incredibly inspirational place to rest our heads.
+
+  As we continue to develop Miru, we're always on the lookout to collaborate with like-minded folks. If you think you have an interesting (and relevant) story to share, or there's some hidden cave in the South of France you're dying to share photos of, feel free to drop us a line and get in touch.
+
 layout: page
 ---
 
