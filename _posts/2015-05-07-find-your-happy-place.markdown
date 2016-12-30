@@ -11,7 +11,7 @@ tags:
 feature-img: img_7559.jpg
 img: img_7559.jpg
 author: Kamauri-Yeh
-dept: 66f2b2
+dept: "#66f2b2"
 layout: post
 ---
 
