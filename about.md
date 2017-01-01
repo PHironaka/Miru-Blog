@@ -7,6 +7,7 @@ description: "Miru is curated, updated, and coagulated by the dynamic duo of Kam
   an incredibly inspirational place to rest our heads.\n\nAs we continue to develop
   Miru, we're always on the lookout to collaborate with like-minded folks. \n\n"
 image: "/uploads/15232319_10155488030867306_7190793645958405850_n.jpg"
+asset: "/uploads/11101641_10155521431790142_7106176997064101043_o.jpg"
 layout: page
 ---
 
