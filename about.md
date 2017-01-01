@@ -18,7 +18,6 @@ Welcome to Miru, our quaint little corner of the internet we call home. Ray Brad
 
 # The Crew
 
-![11101641_10155521431790142_7106176997064101043_o.jpg](/uploads/11101641_10155521431790142_7106176997064101043_o.jpg)
 
 ###### Photo by Dinesh Dave
 
