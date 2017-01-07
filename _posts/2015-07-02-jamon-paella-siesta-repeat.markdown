@@ -1,6 +1,8 @@
 ---
 title: Jamon. Paella. Siesta. Repeat.
 date: 2015-07-02 08:39:00 Z
+categories:
+- international
 tags:
 - spain
 - Abroad
