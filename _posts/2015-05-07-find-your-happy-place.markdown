@@ -1,9 +1,6 @@
 ---
 title: Find Your Happy Place
 date: 2015-05-07 08:39:00 Z
-categories:
-- blog
-- miru
 tags:
 - weekend trips
 - CA
