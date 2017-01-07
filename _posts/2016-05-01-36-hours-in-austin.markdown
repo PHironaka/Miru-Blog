@@ -2,8 +2,7 @@
 title: 36 Hours In Austin
 date: 2016-05-01 00:00:00 Z
 categories:
-- blog
-- miru
+- us
 tags:
 - Austin
 - weekend adventures
