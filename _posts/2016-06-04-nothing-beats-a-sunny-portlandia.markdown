@@ -2,7 +2,7 @@
 title: Nothing Beats A Sunny Portlandia
 date: 2016-06-04 00:00:00 Z
 categories:
-- us
+- Weekend Trip
 tags:
 - weekend adventures
 - miru
