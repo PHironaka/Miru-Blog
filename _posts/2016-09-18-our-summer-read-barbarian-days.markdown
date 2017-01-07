@@ -1,6 +1,8 @@
 ---
 title: 'Our Summer Read: Barbarian Days'
 date: 2016-09-18 02:41:00 Z
+categories:
+- international
 author: Peter Hironaka
 ---
 
