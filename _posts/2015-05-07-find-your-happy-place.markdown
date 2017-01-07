@@ -2,7 +2,7 @@
 title: Find Your Happy Place
 date: 2015-05-07 08:39:00 Z
 categories:
-- weekend trip
+- day trip
 tags:
 - weekend trips
 - CA
