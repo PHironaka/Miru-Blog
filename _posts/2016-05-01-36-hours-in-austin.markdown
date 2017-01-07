@@ -2,7 +2,7 @@
 title: 36 Hours In Austin
 date: 2016-05-01 00:00:00 Z
 categories:
-- us
+- Weekend Trip
 tags:
 - Austin
 - weekend adventures
