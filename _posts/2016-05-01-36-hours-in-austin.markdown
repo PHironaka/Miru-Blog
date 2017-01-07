@@ -16,7 +16,8 @@ Our inaugural Austin adventure began at approximately 12:30am, which is around t
 
 We were lucky enough to have a car all weekend, which is really the only way to get around Austin, I couldn't imagine how it would've been without one. My overall reaction to a weekend in Austin: it has a lot happening at all hours of the day. Beyond the internationally famed SXSW festival, there's tons of fun stuff to do. And best of all: everything is affordable! Here's a quick breakdown of everything we got to experience:
 
-<figure> <img src="/uploads/austin-river.JPG" class="row-2" alt="superba.jpg"> <img src="/uploads/austin-fleet-coffee.jpg" class="row-2" alt="superba.jpg"></figure>
+![Austin River](/uploads/austin-river.JPG)
+![Austin River](/uploads/austin-fleet-coffee.jpg)
 
 # Saturday
 
