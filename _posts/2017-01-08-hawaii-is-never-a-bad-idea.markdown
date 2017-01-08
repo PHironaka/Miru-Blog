@@ -1,6 +1,11 @@
 ---
 title: Hawaii is never a bad idea
 date: 2017-01-08 17:36:00 Z
+tags:
+- Hanalei
+- Hawaii
+- Thanksgiving
+- Family
 author: Kamauri Yeh
 img: DSCF8870.JPG
 ---
