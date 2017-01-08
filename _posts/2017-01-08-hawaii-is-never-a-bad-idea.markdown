@@ -16,7 +16,7 @@ WHERE: Kauai, Hanalei Bay, Hawaii
 
 WHEN: November 2016 
 
-STAY: Hanalei Tiki Home
+STAY: [Hanalei Tiki Home](https://www.vrbo.com/290843)
  
 MIRU MOMENT: Secret Beach
 
