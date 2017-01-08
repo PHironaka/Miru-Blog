@@ -2,7 +2,7 @@
 title: All about Ojai
 date: 2017-01-08 00:15:00 Z
 img: DSCF9079.JPG
-Field name: 
+author: Kamauri Yeh
 ---
 
 WHERE: Ojai, California
