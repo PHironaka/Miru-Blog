@@ -29,6 +29,6 @@ MIRU ITINERARY
 * Enjoy a spa treatment at the Ojai Valley Inn
 * Dinner at Nocciola (reservation encouraged
 
-![DSCF8870.JPG](/uploads/DSCF8870.JPG)
+![DSCF8870.JPG](/uploads/[DSCF8877.JPG](/uploads/DSCF8877.JPG))
 ![DSCF8886.JPG](/uploads/DSCF8886.JPG)
 ![DSCF8870.JPG](/uploads/DSCF8870.JPG)
