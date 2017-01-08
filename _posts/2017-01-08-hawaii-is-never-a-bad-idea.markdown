@@ -13,8 +13,6 @@ MIRU MOMENT: Secret Beach
 
 This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hawaii. 
 
-
-
 MIRU ITINERARY 
 * Check In at Ojai Valley Inn & Spa (for the best rates, check Jetsetter) 
 * Lunch at KNEAD Baking Company 
