@@ -1,6 +1,8 @@
 ---
 title: All about Ojai
 date: 2017-01-08 00:15:00 Z
+categories:
+- Weekend Trip
 tags:
 - california
 - ojai
