@@ -5,7 +5,8 @@ Field name:
 thumbnail:
 - "/img/kly.JPG"
 twitter:
-- <a href="http://peterhironaka.com" target="_blank">peterhironaka.com</a>
+- <a href="https://exp.nike.com/us/en_us/e/cities/losangeles" target="_blank">Nike
+  Los Angeles</a>
 bio:
 - Supporting movers, makers, hustlers, & shakers |  Nike West Digital Director | Formerly
   @Twitter
