@@ -5,22 +5,143 @@ z-index: 100;
 max-width: 100%;
 margin-left: auto;
 margin-right: auto;
-position: relative;
+    display: block;
+    top: 0;
+
+
+  .logo {
+    display: block;
+    font-family: "EB Garamond", serif;
+    font-size: 1.6em;
+    text-align: left;
+    margin: 1em 0;
+    float: left;
+
+        a:hover {
+          color: #333;
+        }
+
+        @media screen and (max-width: $break-small) {
 display: block;
+margin: 0;
+padding:0px;
+color:black;
+         }
+
+
+
+}
 
 
  }
+
+ button {
+  width: 36px;
+  height: 29px;
+  background: transparent;
+  border: 0;
+  text-indent: -888em;
+  position: absolute;
+  top: 40px;
+  right: 48px;
+  cursor: pointer;
+  z-index: 1;
+  
+  border-bottom: 2px solid #ccc;
+  
+  transition: all 500ms ease 0s;
+  
+  &:before,
+  &:after {
+    width: 36px;
+    position: relative;
+    left: -6px;
+    height: 2px;
+    background: #ccc;
+    content: '';
+    display: block;
+    
+    transition: all 500ms ease 0s;
+  }
+  
+  &:after {
+    top: 6px;
+  }
+  
+  &:focus {
+    outline: 0;
+  }
+  
+  &.on {
+    border-bottom: 10px solid #ff0066;
+    
+    &:before,
+    &:after {
+      background: #ff0066; 
+    }
+  }
+}
+
+
+
+nav {
+    float: right;
+    margin: 2em 0 0;
+    display: inline;
+
+    @media screen and (max-width: $break-small) {
+            float: none;
+            display: block;
+           }
+
+
+    ul {
+
+    @media screen and (max-width: $break-small) {
+            margin: 0 0 1em 0;
+            
+           }
+
+        li {
+            margin: 0 1em;
+            display: inline-block;
+
+
+                a {
+    text-decoration: none;
+    margin-right: 100px;
+    position: relative;
+    font-family: $headerFont;
+            font-weight: 400;
+
+    
+  
+    
+    
+    &:last-child {
+      margin-right: 0;
+    }
+  }
+                @media screen and (max-width: $break-small) {
+            margin: 0 1em 0 0;
+           }
+        }
+    }
+
+  
+  
+  
+}
 
 
 
 .navigation {
 @include outer-container;
+font-family: $headerFont;
 
   ul {
-    @include span-columns(6);
-    margin: 1em 0;
-padding: 0 0 0 7em;
-text-align: right;
+    margin: 0 0 2em;
+text-align: center;
 
 @media screen and (max-width: $break-small) {
 padding: 0 0 1em 0;
@@ -30,7 +151,6 @@ margin: 0;
     li {
       display: inline-block;
           margin: 0 1em ;
-          border-top: 2px solid #222;
           padding-top: 10px;
 
 
@@ -63,24 +183,6 @@ margin: 0;
 
 
 
-  .logo {
-    font-family:$headerFont;
-    font-size: 1.5em;
-    @include span-columns(6);
-    font-weight: $headTitle;
-    margin:.5em 0;
-        padding: 0 2em 0 0px;
-
-        @media screen and (max-width: $break-small) {
-display: block;
-margin: 0;
-padding:0px;
-color:black;
-         }
-
-
-
-}
 
 
 
@@ -105,7 +207,6 @@ color:black;
 }
 
 
-/* Header */
 
 .site-header-lighter {
   position: absolute;
@@ -146,3 +247,96 @@ color:black;
 
 
 }
+
+@include direction-context(right-to-left) {
+aside.post-intro {
+    padding: 0 1em ;
+    margin: 2em 0;
+    @include span-columns(4);
+    border-left: 1px solid #eee; 
+    font-family: $headerFont;  
+    font-weight: 400; 
+    font-size: .9em;
+
+    @media screen and (max-width: $break-small) {
+         display: none;
+          }
+
+      .post-intro__credits {
+      padding: 0 0 1em 0;
+
+       h2 {
+  margin: 0 0 2em;
+  font-size: 1em;
+  text-align:left;
+  border: none;
+  padding: 0;
+  }
+
+             ul {
+margin:0;
+padding: 0;
+
+
+   li {
+   padding: 10px 0 0;
+
+    font-weight: 400;
+    vertical-align: middle;
+    a {
+
+      vertical-align: middle;
+
+    }
+      img {
+        max-width: 15px;
+        padding-top: 5px;
+      }
+   }
+
+
+ 
+ 
+}
+      }
+}
+}
+    .post-tag {
+  @include outer-container;
+padding: 2em 0;
+
+@media screen and (max-width: $break-small) {
+@include outer-container;
+  display: inline;
+  width: 100%;
+      padding: 2em 0;
+  margin-left: 0;
+
+
+}
+
+
+  a{
+    background-color: #eee;
+    padding: 5px 11px;
+        display: inline-table;
+    margin: 0 6px 12px 0;
+    font-family: $headerFont;
+@media screen and (max-width: $break-small) {
+  display: inline;
+  width: 100%;
+  float: none;
+
+}
+    &:hover {
+        background-color: #DEE7E2;
+        color: black;
+    }
+}
+
+}
+
+
+
+
+

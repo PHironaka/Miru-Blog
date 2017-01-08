@@ -8,6 +8,7 @@ body{
   background-color:#F0EFE4;
 }
 
+
 .cloth {
 	background: url(/img/japanesecloth.jpg) repeat-x;
 	 width: 100% !important;
@@ -42,6 +43,7 @@ padding: 0 1em;
 
 
 
+
 h1.post-title{
 	  font-size: 2em;
     font-family: $headerFont;
@@ -71,65 +73,6 @@ padding: 10px;
     }
 }
 
-}
-
-.post-content {
-	@include outer-container;
-
-    aside {
-      float: right;
-        display: block;
-        margin-right: 2.35765%;
-        width: 27.23176%;
-        margin-top: 1.3em;
-        line-height: 1.8em;
-        background-color: #e7e6de;
-        padding: 33px 23px 33px 23px;
-
-          @media screen and (max-width: $break-large) {
-          display:none;
-
-        }
-
-          li {
-            margin: 1em 0;
-            border-bottom: 1px solid #CECECE;
-
-          }
-
-          a {
-            font-size: 1.1em;
-          }
-
-          h2 {
-            font-family: $headerFont;
-            margin: 1em 0;
-          }
-
-          h3 {
-            text-align: left;
-            font-size: .7em;
-            color: #909090;
-          }
-    }
-		p {
-		@include span-columns(8);
-		margin-top: 1.3em;
-		  line-height: 1.8em;
-
-			@media screen and (max-width: $break-large) {
-			  	width: 100%;
-			   margin-left: 0%;
-			   margin-top: 1em;
-			   font-size: 1.1em;
-			 }
-		}
-
-		p:first-child:first-letter  {
-		  font-size: 4.3em;
-		  font-weight: $headWeight;
-		  padding-top:2em;
-		}
 }
 
 #disqus_thread {
@@ -203,93 +146,5 @@ a:hover {
   margin: 0 0 0.5em;
 }
 
-.post-preview{
-  margin: 0 0 1em;
-  padding: 0 0 3em;
-border-bottom: 3px solid #e7e6de;
-  	h2 {
-  		font-size: 1.3em;
-  		font-weight: 700;
-  	}
-
-    .top-img {
-position: relative;
-overflow: hidden;
-
-    }
-
-    .top-post {
-      width: 500px;
-  z-index: 2;
-  position: absolute;
-  float: left;
-  margin: 0;
-  bottom: 0;
-  padding: 15px 0 0 0;
-  left: 0;
-  text-align: left;
-  background-color: #F0EFE4;
-  @media screen and (max-width: $break-small) {
-    position: relative;
-
-  }
 
 
-      h3 {
-        text-align: left;
-        font-size: .9em
-      }
-}
-}
-
-.blog-tag {
-  article {
-    @include span-columns(6);
-    @media screen and (max-width: $break-small) {
-  		display: block;
-  		width: 100%;
-  		margin: 0;
-
-  	}
-  }
-}
-
-
-.post-preview-list{
-  @include outer-container;
-  margin: 0 0 1em;
-  padding: 1em 0;
-
-    .list-content {
-      @include span-columns(7);
-      @media screen and (max-width: $break-small) {
-        width: 100%;
-
-      }
-        h3 {
-          text-align: left;
-          font-size:.88em;
-        }
-      .title {
-        font-size: 1.2em;
-      }
-      .more {
-        margin: 4em 0;
-          a {
-            padding: 10px;
-background-color: #b5b4a7;
-color: white;
-          }
-         a:hover {
-            background-color: #000;
-          }
-      }
-    }
-  	.list-img {
-      @include span-columns(5);
-      @media screen and (max-width: $break-small) {
-        width: 100%;
-
-      }
-    }
-}

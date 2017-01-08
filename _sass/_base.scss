@@ -47,6 +47,40 @@ a img {
   border: none;
 }
 
+
+aside.index-intro {
+      padding: 0 1em 0 0 ;
+      @include span-columns(4);
+      text-align: center;
+
+      @media screen and (max-width: $break-small) {
+         width: 100%;
+        text-align: left;
+       }
+
+      .local-news {
+        margin: 1em 0;
+        border-top: 1px solid #e4e4e4;
+
+        h2 {
+        font-family: $headerFont; 
+        padding: 20px 0 0px;
+        font-weight: $headWeight;
+        }
+      }
+
+     .sidebar__info {
+    height: 100vh;
+    width: 260px;
+    margin-bottom: 30px;
+    position: relative;
+    overflow-y: scroll;
+}
+
+}
+
+
+
 article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
   display: block;
 }
@@ -71,6 +105,10 @@ h4 {
   font-size: .9em;
 }
 
+.index {
+  @include outer-container;
+}
+
 body{
 
   font-family: $defaultFont;
@@ -87,8 +125,7 @@ color: $primaryColor;
 
 h1 {
   font-family: $headerFont;
-  font-size: 1.3em;
-  font-weight: 300;
+  font-size: 1.1em;
 
   @media screen and (max-width: $break-small) {
     font-size: 1.2em;
@@ -135,9 +172,21 @@ float: left;
 }
 
 .author-posts {
+
+    @media screen and (max-width: $break-small) {
+         width: 100%;
+          margin: 1em 0 0;
+         max-height:none;
+       }
+       
   .list {
+    @include span-columns(12);
+
+         padding: 1em 0 0 ;
+      p {
+         @include outer-container;
+      }
     a {
-      @include span-columns(8);
       @media screen and (max-width: $break-large) {
          width: 100%;
           margin: 0;
@@ -148,9 +197,9 @@ float: left;
   }
 }
 .author {
-  @include span-columns(8);
-    @include shift(2);
-    border-bottom: 1px solid #eee;
+
+ @include span-columns(4);
+  
     @media screen and (max-width: $break-small) {
        width: 100%;
        margin: 0;
@@ -159,7 +208,6 @@ float: left;
 
 
   img {
-    @include span-columns(5);
         padding: 0 0 1em 0;
 
     @media screen and (max-width: $break-small) {
@@ -169,20 +217,7 @@ float: left;
      }
   }
 
-  .bio-stats {
-    @include span-columns(7);
-    padding: 0 1em;
-    @media screen and (max-width: $break-small) {
-       width: 100%;
-       margin: 0;
-       padding: 0;
-       max-height:none;
-     }
 
-    h2 {
-      text-align: left;
-    }
-  }
 
 
   h2 {
@@ -203,37 +238,27 @@ float: left;
 
 .about-list {
   @include outer-container;
-  margin-top: 1em;
-    padding: 1em 0;
-    .intro {
-      @include span-columns(8);
-        @include shift(2);
-
-        @media screen and (max-width: $break-small) {
-            width: 100%;
-            margin: 0;
-        }
-
-        &:after {
-          height: 2px;
-          background-color:#222;
-          width: 10em;
-        }
+    
+  .bio-stats {
+  @include span-columns(8);
       h1 {
-        font-size: 2em;
-    margin:  0;
-    text-align: center;
-    padding: .5em 0 1em;
-    border-bottom: 1px solid #eee;
+      font-weight: 400;
+      }
 
     @media screen and (max-width: $break-small) {
-        margin: 0;
-        text-align: left;
-        font-size: 1.5em;
-    }
-      }
-    }
+       width: 100%;
+       margin: 0;
+       padding: 0;
+       max-height:none;
+     }
 
+
+
+    h2 {
+      text-align: left;
+      padding: 0;
+    }
+  }
 
 }
 
@@ -244,66 +269,6 @@ float: left;
   	  width:100%;
 
   	}
-
-}
-
-ul.post-credits {
-font-size:.7em;
-margin:0;
-padding: 0;
-text-align: center;
-@media screen and (max-width: $break-small) {
-  text-align: left;
-
-}
-
-	 li {
-	 display: inline-block;
-	 padding: 0 .5em;
-    font-weight: 400;
-    vertical-align: middle;
-    a {
-
-      vertical-align: middle;
-
-    }
-      img {
-        max-width: 15px;
-        padding-top: 5px;
-      }
-	 }
-   h3 {
-     text-transform: uppercase;
-     color: #ccc;
-   }
-}
-
-h1.post-title{
-	  font-size: 2em;
-    margin: 0;
-
-    text-align: center;
-
-    @media screen and (max-width: $break-small) {
-      text-align: left;
-      font-size:1.4em;
-    }
-
-}
-
-.post-content {
-  p, h1, h6 {
-    @include span-columns(8);
-    @include shift(2);
-
-    @media screen and (max-width: $break-small) {
-      width: 100%;
-      margin: .5em 0;
-    }
-
-  }
-
-
 
 }
 
@@ -362,46 +327,12 @@ h1.post-title{
 
 }
 
-.post-tag {
-  @include span-columns(8);
-  @include shift(2);
-padding: 2em 0;
 
-@media screen and (max-width: $break-small) {
-@include outer-container;
-  display: inline;
-  width: 100%;
-      padding: 2em 0;
-  margin-left: 0;
-
-
-}
-
-
-  a{
-    background-color: #f2f2f2;
-    padding: 5px 11px;
-    display: inline;
-    font-size: .9em;
-    margin: 0 6px 0 0;
-@media screen and (max-width: $break-small) {
-  display: inline;
-  width: 100%;
-  float: none;
-
-}
-    &:hover {
-        background-color: #DEE7E2;
-        color: black;
-    }
-}
-
-}
 
 .post {
 	@include outer-container;
+  margin: 1em 0;
   h2 {
-  text-align: center;
   margin:10px 0;
 
   @media screen and (max-width: $break-small) {
@@ -409,7 +340,123 @@ padding: 2em 0;
 
       }
 }
+
+
+
+
+
+h1.post-title{
+    font-size: 2em;
+    margin: 0 0 1em;
+    font-family: $defaultFont;
+
+    @media screen and (max-width: $break-small) {
+      text-align: left;
+      font-size:1.4em;
+    }
+
 }
+
+}
+
+
+.post-content {
+  @include outer-container;
+
+    p, h1{
+     @include span-columns(8);
+    }
+
+    h1 {
+    font-weight: $headWeight;
+    }
+
+    &__post {
+ @include span-columns(8);
+
+        ul {
+         list-style-type: square;
+          li {
+              margin: 0 2em;
+          }
+        }
+
+ @media screen and (max-width: $break-small) {
+         width: 100%;
+         margin-left: 0%;
+          }
+
+       h1 {
+   font-weight: $headWeight;
+    margin-top: 1.3em;
+      line-height: 1.8em;
+
+      @media screen and (max-width: $break-small) {
+          width: 100%;
+         margin-left: 0%;
+         margin-top: 1em;
+         font-size: 1.1em;
+       }
+    }
+    }
+
+    aside {
+      float: right;
+        display: block;
+        margin-right: 2.35765%;
+        width: 27.23176%;
+        margin-top: 1.3em;
+        line-height: 1.8em;
+        background-color: #e7e6de;
+        padding: 33px 23px 33px 23px;
+
+          @media screen and (max-width: $break-large) {
+          display:none;
+
+        }
+
+          li {
+            margin: 1em 0;
+            border-bottom: 1px solid #CECECE;
+
+          }
+
+          a {
+            font-size: 1.1em;
+          }
+
+          h2 {
+            font-family: $headerFont;
+            margin: 1em 0;
+          }
+
+          h3 {
+            text-align: left;
+            font-size: .7em;
+            color: #909090;
+          }
+    }
+    p {
+    margin-top: 1.3em;
+      line-height: 1.8em;
+
+      @media screen and (max-width: $break-small) {
+          width: 100%;
+         margin-left: 0%;
+         margin-top: 1em;
+         font-size: 1.1em;
+       }
+    }
+
+    p:first-child:first-letter  {
+      font-size: 4.3em;
+      font-weight: $headWeight;
+      padding-top:2em;
+    }
+}
+
+
+
  /* Text
 ================================ */
 
@@ -506,30 +553,50 @@ color: white;
 }
 
 
-
+@include direction-context(right-to-left) {
 .post-preview {
-    @include outer-container;
-  margin: 0 0 1em;
-  padding:1em 0;
+   @include span-columns(8);
+  margin: 0 0 .5em;
+  padding: 0;
 
-    h2 {
-      font-size: 1.1em;
-padding: .5em 0 1em;
-width: 96px;
-border-top: 2px solid #222;
-color: black;
-    }
-
-      .list-thumbnail {
-@include span-columns(4);
-@media screen and (max-width: $break-small) {
+  @media screen and (max-width: $break-small) {
   margin: 1em 0;
   font-size: 1.2em;
   width: 100%;
 }
-      }
+    h1 {
+    font-weight: $headWeight;
+    }
+
+    h2 {
+padding: .5em 0 1em;
+border-top: 1px solid #eee;
+font-family: $headerFont;
+font-weight: $headWeight;
+    }
  }
 
+ }
+      .list-thumbnail {
+@include span-columns(6);
+@include omega(3n);
+  
+  h2 {
+    padding: .5em 0 0;
+    border-top: none;
+    font-family: $headerFont;
+  }
+
+  @media screen and (max-width: $break-small) {
+  margin: 1em 0;
+  font-size: 1.2em;
+  width: 100%;
+}
+
+
+      }
+
+ 
 
 
 
@@ -540,8 +607,7 @@ color: black;
 
     .list-content {
 
-        @include span-columns(8);
-        @include shift(2);
+        @include span-columns(12);
         padding: 0 0 3em 0;
 
       @media screen and (max-width: $break-small) {

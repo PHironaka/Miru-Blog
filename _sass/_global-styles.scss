@@ -9,7 +9,6 @@ margin-bottom: 1em;
 
 .homepage-archives {
 	@include span-columns(8);
-		@include shift(2);
 
 		@media screen and (max-width: $break-small) {
 			margin: 0;
@@ -34,10 +33,7 @@ margin-bottom: 1em;
 blockquote {
   font-size: 2em;
   float: left;
-  text-align: center;
-  margin-right: 2.35765%;
-  width: 65.88078%;
-  margin-left: 17.05961%;
+
 
     p{
       line-height: 1.5em;
@@ -82,7 +78,6 @@ padding: 0 1em 0 0em;
 
 }
 h2.title {
-	text-align: center;
 	margin: 1em 0;
 	font-size: 2em;
 }

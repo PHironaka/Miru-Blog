@@ -1,8 +1,6 @@
 
-h2.related {
-  text-align: center;
-  font-size: 1.3em;
-  border-bottom:  1px solid #eee;
+h2 {
+
    padding: 2em 0 1em;
 }
 
@@ -10,19 +8,25 @@ h2.related {
 	@include outer-container;
   padding: 3em 0;
 
-
+  h1 {
+    text-align: center;
+    margin: 2em 0;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+  }
   h3 {
-  text-transform:uppercase;
-  text-align:left;
-  font-size:.6em;
+  font-size:.8em;
+  font-family: $headerFont;
 
   }
+  
  ul {
 @include outer-container;
 
 
 	li {
-  float: left;
+  @include span-columns(6);
+  @include omega(2n);
 padding: 1em 0;
 			@media screen and (max-width: $break-small) {
 			   margin-right: 0;
@@ -32,8 +36,16 @@ padding: 1em 0;
 			 }
 
        .related-asset {
-         @include span-columns(8);
-         @include shift(2);
+       
+         padding-top: 2em;
+
+         h2 {
+         margin: 2em 0;
+         border-bottom: 1px solid #f84141;
+         text-align: left;
+    position: relative;
+    display: inline-block;
+}
 
          @media screen and (max-width: $break-small) {
             margin-left: 0;
@@ -43,7 +55,7 @@ padding: 1em 0;
           }
 
           p {
-          margin-left: 0;
+          margin:1em 0 0;
           width: 100%
           }
        }
@@ -60,7 +72,10 @@ padding: 1em 0;
          }
 
        a {
-         font-size: 1.1em;
+         font-family: $headerFont;
+         font-weight: $headWeight;
+         display: block;
+
        }
 
 	}
@@ -69,10 +84,10 @@ padding: 1em 0;
 }
 
 .post-color {
-	width: 10px;
-	height: 10px;
-	float: left;
-  margin: 1px 5px 0 0;
+	    width: 13px;
+    height: 13px;
+    float: left;
+    margin: 5px 5px 0 0;
 }
 
 .post-color-blog {
@@ -112,7 +127,8 @@ margin: 2em 0 0;
 }
 
 footer {
-
+@include outer-container;
+  border-top: 1px solid #eee;
   margin:  0;
   padding: 2em 0;
 

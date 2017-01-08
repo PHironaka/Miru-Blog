@@ -1,63 +1,70 @@
 ---
 layout: default
 ---
-
-<div class="post">
-  <div class="wrap">
+<div class="wrap">
 
 
+<aside class="post-intro">
 
-  <h1 class="post-title">{{ page.title }}
-  </h1>
+<div class="post-intro__credits">
+<h2>By <a href="/author/{{ page.author | slugify: 'pretty' }}  "> {{page.author}}</a></h2>
 
-  <ul class="post-credits">
-  <li >
-    {% for category in page.categories limit:1 | first %}
-  <a href="/tag/{{category}}"><h3>Miru/ {{category}}</h3></a>
-    {% endfor %}
+<ul>
+<li>
+<h3> {{page.date | date: "%b %d. %Y"}}  </h3>
+</li>
+<li>
+{% for category in page.categories limit:1 %}
+<a href="/tag/{{category}}"><h3>Miru/ {{category}}</h3></a>
+{% endfor %}
 </li>
 
-  <li>
-  <h3 > {{page.date | date: "%b %d. %Y. %T"}}  | </h3>
-  </li>
 
-  <li>
-  <a class="twitter"href="https://twitter.com/share?text={{page.title}}"  data-text="screen_name" target="_blank"> <img src="/img/twitter-blue.svg"></a>
-  </li>
+<li>
+<a class="twitter"href="https://twitter.com/share?text={{page.title}}" data-text="screen_name" target="_blank"> <img src="/img/twitter-blue.svg"></a>
+</li>
+</ul>
 
-  </ul>
-  <h2>By <a href="/author/{{ page.author | slugify: 'pretty' }}  "> {{page.author}}</a></h2>
-  <div class="post-content">
+</div>
 
-    {{ content }}
-
-      <div class="post-tag">
-      {% for tag in page.tags %}
-      <a href="/tag/{{ tag  | slugify: 'pretty' }}">{{ tag }}</a>
-      {% endfor %}
-      </div>
+<div class="post-tag">
+{% for tag in page.tags %}
+<a href="/tag/{{ tag  | slugify: 'pretty' }}">{{ tag }}</a>
+{% endfor %}
+</div>
 
 
+</aside>
 
 
+<div class="post">
+<h1 class="post-title">{{ page.title }}
+</h1>
 
-      <article class="related-posts">
-        <ul>
-      {% for post in site.related_posts %}
-        <li>
-        <div class="related-asset">
-        <div class="post-color" style=" background:{{post.dept}};"></div>
-        <h3> {{post.date | date: "%b %d, %Y"}}</h3>
-        <a href="{{post.url }} ">{{post.title}}</a>
-        <p>{{post.content | strip_html | truncatewords: 40}}</p>
+<div class="post-content__post">
+{{ content }}
 
-      </div>
-        </li>
-        {% if forloop.index == 3 %}{% break %}{% endif %}
-        {% endfor %}
-        </ul>
-
-      </article>
+</div>
+</div>
 
 
-</div></div>
+<article class="related-posts">
+<h1>Related Posts</h1>
+<ul>
+{% for post in site.related_posts %}
+<li>
+<div class="related-asset">
+<img src="/uploads/{{post.img}}">
+{% for category in page.categories %}
+<a href=" {{ category}} }}">{{ tag }}</a>
+{% endfor %}
+<a href="{{post.url }} ">{{post.title}}</a>
+<h3> {{post.date | date: "%b %d, %Y"}}</h3>
+<p>{{post.content | strip_html | truncatewords: 40}}</p>
+</div>
+</li>
+{% if forloop.index == 3 %}{% break %}{% endif %}
+{% endfor %}
+</ul>
+</article>
+
