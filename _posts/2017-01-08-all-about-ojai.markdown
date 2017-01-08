@@ -1,6 +1,12 @@
 ---
 title: All about Ojai
 date: 2017-01-08 00:15:00 Z
+tags:
+- california
+- ojai
+- oh hai
+- weekend adventures
+- anniversary
 img: DSCF9079.JPG
 author: Kamauri Yeh
 ---
