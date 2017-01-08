@@ -1,7 +1,8 @@
 ---
 title: All about Ojai
 date: 2017-01-08 00:15:00 Z
-img: 
+img: DSCF9079.JPG
+Field name: 
 ---
 
 WHERE: Ojai, California
