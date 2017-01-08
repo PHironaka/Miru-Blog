@@ -1,12 +1,15 @@
 ---
 title: All about Ojai
 date: 2017-01-08 00:15:00 Z
-img: DSCF9079.JPG
+img: 
 ---
 
-WHERE: Ojai, California 
+WHERE: Ojai, California
+ 
 WHEN: December 2016
+
 STAY: Ojai Valley Inn & Spa 
+
 MIRU MOMENT: Dinner at Nocciola 
 
 After moving to California a few years ago, Ojai has quickly become one of our favorite weekend getaways. From the “pink” sunsets to incredible spa, there isn’t any other place like it. 
