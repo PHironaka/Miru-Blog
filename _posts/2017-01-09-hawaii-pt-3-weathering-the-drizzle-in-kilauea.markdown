@@ -1,6 +1,8 @@
 ---
 title: 'Hawaii Pt. 3: Weathering the drizzle in Kilauea'
 date: 2017-01-09 06:03:00 Z
+categories:
+- us
 tags:
 - Kilauea
 - Fish Market
