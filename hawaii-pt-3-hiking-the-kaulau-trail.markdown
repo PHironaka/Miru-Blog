@@ -1,5 +1,5 @@
 ---
-title: 'Hawaii Pt. 3: Hiking the Kalalau Trail'
+title: 'Hawaii Pt. 3: Weathering the drizzle in Kilauea'
 date: 2017-01-09 03:14:00 Z
 ---
 
