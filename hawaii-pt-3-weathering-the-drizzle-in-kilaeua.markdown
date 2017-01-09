@@ -1,6 +1,8 @@
 ---
 title: 'Hawaii Pt. 3: Weathering the drizzle in Kilauea'
 date: 2017-01-09 03:14:00 Z
+author: Peter Hironaka
+img: DSCF8421.JPG
 ---
 
 This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hawaii.
