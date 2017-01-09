@@ -24,6 +24,5 @@ MIRU ITINERARY
 * Dinner at Nocciola (reservation encouraged
 
 ![hanalei-bay.JPG](/uploads/hanalei-bay.JPG)
-![DSCF8363.JPG](/uploads/DSCF8363.JPG)
 ![hanalei.JPG](/uploads/hanalei.JPG)
-![DSCF8748.JPG](/uploads/DSCF8748.JPG)
+![DSCF8363.JPG](/uploads/DSCF8363.JPG)
