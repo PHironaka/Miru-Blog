@@ -20,3 +20,4 @@ MIRU ITINERARY
 * Walk around or bike Ojai Ave and check out the local shops
 * Enjoy a spa treatment at the Ojai Valley Inn
 * Dinner at Nocciola (reservation encouraged
+
