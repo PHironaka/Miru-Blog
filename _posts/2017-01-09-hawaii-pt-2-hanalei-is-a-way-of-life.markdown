@@ -3,6 +3,8 @@ title: 'Hawaii Pt. 2: Hanalei is a way of life'
 date: 2017-01-09 02:30:00 Z
 ---
 
+This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hawaii.
+
 WHERE: Kauai, Hanalei Bay, Hawaii
 
 WHEN: November 2016
@@ -10,8 +12,6 @@ WHEN: November 2016
 STAY: Hanalei Tiki Home
 
 MIRU MOMENT: Secret Beach
-
-This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hawaii.
 
 MIRU ITINERARY
 
