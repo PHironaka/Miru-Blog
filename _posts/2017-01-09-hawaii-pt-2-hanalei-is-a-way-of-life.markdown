@@ -23,7 +23,7 @@ MIRU ITINERARY
 * Enjoy a spa treatment at the Ojai Valley Inn
 * Dinner at Nocciola (reservation encouraged
 
-[hanalei-bay.JPG](/uploads/hanalei-bay.JPG)
+![hanalei-bay.JPG](/uploads/hanalei-bay.JPG)
 ![hanalei.JPG](/uploads/hanalei.JPG)
 ![DSCF8748.JPG](/uploads/DSCF8748.JPG)
 ![DSCF8363.JPG](/uploads/DSCF8363.JPG)
