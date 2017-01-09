@@ -1,6 +1,8 @@
 ---
 title: 'Hawaii Pt. 2: Hanalei is a way of life'
 date: 2017-01-09 02:30:00 Z
+img: DSCF8707.JPG
+author: Peter Hironaka
 ---
 
 This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hawaii.
