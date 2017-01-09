@@ -1,5 +1,5 @@
 ---
-title: 'Pt.1: Hawaii is never a bad idea'
+title: 'Hawaii Pt. 1: Thanksgiving at the Tiki House'
 date: 2017-01-08 17:36:00 Z
 categories:
 - us
