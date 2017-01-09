@@ -1,7 +1,7 @@
 ---
 title: 'Hawaii Pt. 2: Hanalei is a way of life'
 date: 2017-01-09 02:30:00 Z
-img: DSCF8359.JPG
+img: DSCF8359
 author: Peter Hironaka
 ---
 
@@ -24,6 +24,7 @@ MIRU ITINERARY
 * Dinner at Nocciola (reservation encouraged
 
 ![DSCF8359.JPG](/uploads/DSCF8359.JPG)
+![DSCF8707-98364b.JPG](/uploads/DSCF8707-98364b.JPG)
 ![DSCF8707.JPG](/uploads/DSCF8707.JPG)
 ![DSCF8720.JPG](/uploads/DSCF8720.JPG)
 ![DSCF8363.JPG](/uploads/DSCF8363.JPG)
