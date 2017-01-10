@@ -1,6 +1,12 @@
 ---
 title: The Holidays aren't complete without a visit to 17 Mile Drive
 date: 2017-01-10 06:02:00 Z
+tags:
+- Spyglass Hill
+- 17 Mile Drive
+- Pebble Beach
+- Family Vacation
+- Golf
 ---
 
 This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hawaii.
