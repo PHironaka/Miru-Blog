@@ -11,6 +11,7 @@ tags:
 - anniversary
 img: DSCF9079.JPG
 author: Kamauri Yeh
+region: west
 ---
 
 WHERE: Ojai, California
