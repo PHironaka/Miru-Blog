@@ -7,6 +7,8 @@ tags:
 - Pebble Beach
 - Family Vacation
 - Golf
+author: Peter Hironaka
+img: DSCF9163.JPG
 ---
 
 This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hawaii.
