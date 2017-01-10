@@ -11,7 +11,7 @@ img: parker-kam.JPG
 author: Kamauri Yeh
 dept: "#AF66F2"
 name: kamauri-yeh
-region: wwest
+region: west
 ---
 
 Alright friends, I’ve been absolutely awful at keeping up with this blog! However, I decided that summer needed to bow out with a little post about The Parker.
