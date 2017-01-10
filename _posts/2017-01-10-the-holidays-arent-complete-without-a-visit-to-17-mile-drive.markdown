@@ -26,7 +26,6 @@ Lunch at KNEAD Baking Company Walk around or bike Ojai * Ave and check out the l
 Enjoy a spa treatment at the Ojai Valley Inn Dinner at Nocciola (reservation encouraged
 
 ![DSCF9150.JPG](/uploads/DSCF9150.JPG)
-![DSCF9153.JPG](/uploads/DSCF9153.JPG)
 ![DSCF9163.JPG](/uploads/DSCF9163.JPG)
 ![DSCF9159.JPG](/uploads/DSCF9159.JPG)
 ![DSCF9163.JPG](/uploads/DSCF9163.JPG)
