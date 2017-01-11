@@ -1,6 +1,13 @@
 ---
 title: East Hampton in September
 date: 2017-01-11 06:55:00 Z
+tags:
+- East Hampton
+- NY
+- East Coast
+- September
+- Kam's Birthday
+- Love
 author: Kamauri Yeh
 img: DSCF7878.JPG
 ---
