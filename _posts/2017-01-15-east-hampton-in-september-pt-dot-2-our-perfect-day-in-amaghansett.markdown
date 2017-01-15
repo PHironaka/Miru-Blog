@@ -2,7 +2,7 @@
 title: 'East Hampton in September Pt.2: Our perfect day in Amaghansett'
 date: 2017-01-15 18:00:00 Z
 author: Peter Hironaka
-Field name: 
+img: DSCF7913.JPG
 ---
 
 
