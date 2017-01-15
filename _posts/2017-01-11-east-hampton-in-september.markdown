@@ -1,5 +1,5 @@
 ---
-title: East Hampton in September
+title: 'East Hampton in September Pt.1: A stroll through Main Street'
 date: 2017-01-11 06:55:00 Z
 tags:
 - East Hampton
