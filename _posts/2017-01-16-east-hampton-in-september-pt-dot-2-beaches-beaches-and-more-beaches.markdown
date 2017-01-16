@@ -14,7 +14,6 @@ Check In at Ojai Valley Inn & Spa (for the best rates, * check Jetsetter) Lunch 
 
 ![DSCF7861.JPG](/uploads/DSCF7861.JPG)
 ![DSCF8080.JPG](/uploads/DSCF8080.JPG)
-![DSCF8083.JPG](/uploads/DSCF8083.JPG)
 ![DSCF7850.JPG](/uploads/DSCF7850.JPG)
 
 
