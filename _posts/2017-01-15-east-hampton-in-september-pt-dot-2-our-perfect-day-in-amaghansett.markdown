@@ -8,7 +8,7 @@ tags:
 - Amaghansett
 - Beaches
 author: Peter Hironaka
-img: DSCF7898.JPG
+img: DSCF7885.JPG
 ---
 
 
