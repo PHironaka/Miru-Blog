@@ -21,7 +21,9 @@ Check In at Ojai Valley Inn & Spa (for the best rates, * check Jetsetter) Lunch 
 
 Check In at Ojai Valley Inn & Spa (for the best rates, * check Jetsetter) Lunch at KNEAD Baking Company Walk around or bike Ojai * Ave and check out the local shops Enjoy a spa treatment at the Ojai Valley Inn Dinner at Nocciola (reservation encouraged
 
+![2016-09-09 10.05.50.jpg](/uploads/2016-09-09%2010.05.50.jpg)
 ![DSCF7827.JPG](/uploads/DSCF7827.JPG)
+![2016-09-09 10.24.12.jpg](/uploads/2016-09-09%2010.24.12.jpg)
 
 # Main Beach
 
