@@ -29,8 +29,9 @@ layout: default
           {% for post in site.posts %}
             {% if post.author == page.title %}
             <div class="list">
+            <img src="/uploads/{{post.img}}">
              <h1><a href="{{post.url}}" class="title">{{post.title}}</a></h1>
-             <p>{{post.content | strip_html | truncatewords: 30}}</p>
+             <p>{{post.content | strip_html | truncatewords: 10}}</p>
             
           </div>
 

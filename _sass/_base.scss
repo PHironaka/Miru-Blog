@@ -172,7 +172,7 @@ float: left;
 }
 
 .author-posts {
-
+@include outer-container;
     @media screen and (max-width: $break-small) {
          width: 100%;
           margin: 1em 0 0;
@@ -180,7 +180,8 @@ float: left;
        }
        
   .list {
-    @include span-columns(12);
+   @include span-columns(6);
+    @include omega(2n);
 
          padding: 1em 0 0 ;
       p {
@@ -449,9 +450,9 @@ h1.post-title{
     }
 
     p:first-child:first-letter  {
-      font-size: 4.3em;
-      font-weight: $headWeight;
+      font-size: 3.3em;
       padding-top:2em;
+      margin: 0 6px 0 0;
     }
 }
 
@@ -598,7 +599,33 @@ font-weight: $headWeight;
 
  
 
+ .archive_list {
+  @include outer-container;
+    li {
+      @include span-columns(6);
+      @include omega(1n);
 
+      @media screen and (max-width: $break-small) {
+        width: 100%;
+        margin: 1em 0;
+      }
+
+      }
+
+      li:nth-child(even) {
+        @include span-columns(6);
+        @include omega();
+      }
+
+  h2 {
+      @include span-columns(12);
+    margin: 0;
+    font-size: 1.5em;
+    padding: 0 0 1em;
+  }
+
+
+}
 
 
   p {
@@ -620,50 +647,6 @@ font-weight: $headWeight;
           }
       }
 
-
-
-    .archive-list {
-      @include span-columns(10);
-      @media screen and (max-width: $break-small) {
-        width: 100%;
-        margin: 1em 0;
-      }
-
-      h2 {
-        text-align: left;
-        @include span-columns(10);
-        margin: 0;
-        font-weight: 300;
-
-      }
-
-        h3 {
-          text-align: left;
-          font-size:.7em;
-          margin: 0;
-        }
-      .title {
-            font-family: "Roboto", sans-serif;
-        font-size: 1.5em;
-            line-height: 1;
-            @media screen and (max-width: $break-small) {
-                font-size: 1.3em;
-            }
-      }
-
-      .post-color-blog {
-            margin: 6px 15px 0 0;
-            float: left;
-      }
-
-      .more {
-        margin: 23px 0;
-          a {
-vertical-align: top;
-      }
-    }
-
-}
 
   	.list-img {
       @include span-columns(5);

@@ -17,7 +17,7 @@ feature: miru
 {% endfor %}
 
 <h2> Venice </h2>
-{% for post in site.posts limit:7 %}
+{% for post in site.posts offset:3 %}
 {% if post.dept == '#66f2b2' %}
 <div class="local-news">
 <h2><a href="{{post.url}}" class="title">{{post.title}}</a></h2>
@@ -30,8 +30,8 @@ feature: miru
 
 
 <article class="post-preview">
-{% for post in site.posts limit:3 %}
-{% if post.dept == '#66f2b2' %}
+{% for post in site.posts limit:1 %}
+{% if forloop.first %}
 <img src="/uploads/{{post.img}}">
 <h1><a href="{{post.url}}" class="title">{{post.title}}</a></h1>
 <p> {{ post.content | strip_html | truncatewords:25}} </p>
@@ -40,20 +40,21 @@ feature: miru
 </article>
 
 <article class="post-preview">
-<h2> International </h2>
-{% for post in site.posts  limit:7%}
-{% if post.dept == '#66f2b2' %}
+<h2> West Coast </h2>
+{% for post in site.posts %}
+{% if post.region == 'west' %}
 <div class="list-thumbnail"><a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a>
 <h2><a href="{{post.url}}" class="title">{{post.title}}</a></h2>
 <p> {{ post.content | strip_html | truncatewords:15}} </p>
 </div>
 {% endif %}
 {% endfor %}
+
 </article>
 
 <article class="post-preview">
 <h2> International </h2>
-{% for post in site.posts limit:7%}
+{% for post in site.posts %}
 {% if post.dept == '#66f2b2' %}
 <div class="list-thumbnail"><a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a>
 <h2><a href="{{post.url}}" class="title">{{post.title}}</a></h2>

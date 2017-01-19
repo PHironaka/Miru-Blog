@@ -3,17 +3,41 @@ layout: default
 ---
 
 <div class="wrap page">
-
-
+{% if page.title == 'About' %}
 <div class="about-list">
-
   <div class="intro">
   <img src="{{page.asset}}">
   <h6> {{ page.photo-cred }} </h6>
-
   </div>
   <article class="post-content">
     {{ content }}
   </article>
-
 </div>
+{% endif %}
+
+{% if page.title == 'Venice' %}
+<article class="post-venice">
+{% for post in site.posts %}
+{% if post.dept == '#66f2b2' %}
+<div>
+<img src="/uploads/{{post.img}}">
+<h1><a href="{{post.url}}" class="title">{{post.title}}</a></h1>
+<p> {{ post.content | strip_html | truncatewords:25}} </p>
+</div>
+{% endif %}
+{% endfor %}
+</article>
+{% endif %}
+
+
+{% if page.title == 'Archives' %}
+<article class="post-venice">
+{% for post in site.posts %}
+<div>
+<img src="/uploads/{{post.img}}">
+<h1><a href="{{post.url}}" class="title">{{post.title}}</a></h1>
+<p> {{ post.content | strip_html | truncatewords:25}} </p>
+</div>
+{% endfor %}
+</article>
+{% endif %}
