@@ -6,6 +6,7 @@ categories:
 tags:
 - Venice Canals
 - the tree
+- california
 related-post: 
 img: canal2.jpg
 dept: "#66f2b2"
