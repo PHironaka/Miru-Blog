@@ -8,6 +8,7 @@ tags:
 - review
 - Another Kind of Sunrise
 - venice
+- california
 author: Peter Hironaka
 dept: "#66f2b2"
 name: peter-hironaka
