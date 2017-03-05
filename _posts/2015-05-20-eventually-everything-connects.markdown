@@ -7,6 +7,7 @@ tags:
 - LA
 - day trips
 - eames
+- california
 collections:
   authors: Peter Hironaka
 feature-img: DSCF3335-a.jpg
