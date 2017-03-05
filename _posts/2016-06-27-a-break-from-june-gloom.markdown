@@ -6,6 +6,7 @@ categories:
 tags:
 - weekend adventures
 - LA
+- california
 author: Peter Hironaka
 name: peter-hironaka
 img: DSCF7084.JPG
