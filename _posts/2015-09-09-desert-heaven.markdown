@@ -6,6 +6,7 @@ categories:
 tags:
 - Palm Springs
 - weekend adventures
+- california
 feature-img: parker-kam.JPG
 img: parker-kam.JPG
 author: Kamauri Yeh
