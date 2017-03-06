@@ -1,6 +1,8 @@
 ---
 title: 'East Hampton in September Pt.2: Our perfect day in Amaghansett'
 date: 2017-01-15 18:00:00 Z
+categories:
+- us
 tags:
 - East End
 - Long Island
