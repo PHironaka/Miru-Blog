@@ -10,7 +10,6 @@ tags:
 author: Peter Hironaka
 name: peter-hironaka
 img: DSCF7084.JPG
-dept: "#66f2b2"
 region: west
 ---
 
