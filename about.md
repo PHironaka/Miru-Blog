@@ -9,9 +9,9 @@ description: |-
 
   Miru is curated, updated, and coagulated by the dynamic duo of Kamauri Yeh and Peter Hironaka. That's us! We're in love and we love to travel the world with each other.
 follow-link:
-- Twitter:
-    link: https://twitter.com
-    text: Twitter
+- url:
+  - https://facebook.com
+  text: Facebook
 - Facebook:
     link: https://facebook.com
     text: Facebook
