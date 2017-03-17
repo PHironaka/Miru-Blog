@@ -14,6 +14,8 @@ follow-link:
 - url:
   - https://twitter.com
   text: Twitter
+- url: https://instagram.com
+  text: Instagram
 layout: page
 ---
 
