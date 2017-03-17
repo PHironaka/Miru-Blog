@@ -8,10 +8,13 @@ description: |-
   General Inquiries
 
   Miru is curated, updated, and coagulated by the dynamic duo of Kamauri Yeh and Peter Hironaka. That's us! We're in love and we love to travel the world with each other.
-follow-links:
-- Twitter: https://twitter.com
-- Facebook: https://twitter.com
-- Instagram: http://instagram.com
+follow-link:
+- Twitter:
+    link: https://twitter.com
+    text: Twitter
+- Facebook:
+    link: https://facebook.com
+    text: Facebook
 layout: page
 ---
 
