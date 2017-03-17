@@ -12,9 +12,9 @@ follow-link:
 - url:
   - https://facebook.com
   text: Facebook
-- Facebook:
-    link: https://facebook.com
-    text: Facebook
+- url:
+  - https://twitter.com
+  text: Twitter
 layout: page
 ---
 
