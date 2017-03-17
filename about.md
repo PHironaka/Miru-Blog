@@ -9,9 +9,9 @@ asset: "/uploads/11101641_10155521431790142_7106176997064101043_o.jpg"
 photo-cred: Photo by Dinesh Dave
 general-description: "#General Inquiries\n\nMiru is curated, updated, and coagulated
   by the dynamic duo of Kamauri Yeh and Peter Hironaka. That's us! We're in love and
-  we love to travel the world with each other. \n\n#Follow Us \n\nMiru is curated,
-  updated, and coagulated by the dynamic duo of Kamauri Yeh and Peter Hironaka. That's
-  us! We're in love and we love to travel the world with each other. "
+  we love to travel the world with each other. \n\n1. * ****#Follow Us \n\nMiru is
+  curated, updated, and coagulated by the dynamic duo of Kamauri Yeh and Peter Hironaka.
+  That's us! We're in love and we love to travel the world with each other. "
 layout: page
 ---
 
