@@ -15,6 +15,7 @@ follow-link:
   text: Twitter
 - url: https://instagram.com
   text: Instagram
+  intro-text: objective. We also just wanted to confuse the hell out of people :)
 layout: page
 ---
 
