@@ -15,10 +15,8 @@ follow-link:
   - https://twitter.com
   text: Twitter
 - url:
-  - 
-  text: 
-  Key: 
-Field name: 
+  - https://instagram.com
+  text: Instagram
 layout: page
 ---
 
