@@ -12,8 +12,8 @@ follow-link:
   - https://facebook.com
   text: Facebook
 - url:
-  - https://twitter.com
-  text: Twitter
+  - https://instagram.com
+  text: Instagram
 layout: page
 ---
 
