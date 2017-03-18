@@ -7,10 +7,10 @@ photo-cred: Photo by Dinesh Dave
 description: Miru in Japanese means ‘see’, which is appra po of our content strategy
   and overall objective. We also just wanted to confuse the hell out of people :)
 follow-link:
-- url:
+- intro-text: objective. We also just wanted to confuse the hell out of people :)
+  url:
   - https://facebook.com
   text: Facebook
-  intro-text: objective. We also just wanted to confuse the hell out of people :)
 - url:
   - https://twitter.com
   text: Twitter
