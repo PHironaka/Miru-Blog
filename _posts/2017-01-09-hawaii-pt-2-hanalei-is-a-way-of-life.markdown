@@ -29,9 +29,9 @@ MIRU ITINERARY
 
 * Cocktail at Tahiti Nui
 
-* 
+* Drive through the Rice Fields
 
-* Dinner at Nocciola (reservation encouraged
+* Spam Musubi at L&L Hawaiian BBQ 
 
 ![hanalei-bay.JPG](/uploads/hanalei-bay.JPG)
 ![hanalei.JPG](/uploads/hanalei.JPG)
