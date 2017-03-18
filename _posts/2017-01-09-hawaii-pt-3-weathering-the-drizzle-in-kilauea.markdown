@@ -14,6 +14,8 @@ img: DSCF8421.JPG
 
 Kilauea is about a 20 minute drive from Hanalei, just up the 56. Its most famous attraction, from which Kauai is most known for, is the Kilauea Lighthouse.  Our first stop of the day was food. The Kilauea Fish Market has great lunch options. Just thinking about the ahi tuna is making my stomach grumble.
 
+There was a pretty substantial downpour while we were eating lunch. Once the rain stopped, our parents drove back to Hanalei, while us kids went on our next stop in Kilauea: Secret Beach. 
+
 WHERE: Kauai, Hanalei Bay, Hawaii
 
 WHEN: November 2016
