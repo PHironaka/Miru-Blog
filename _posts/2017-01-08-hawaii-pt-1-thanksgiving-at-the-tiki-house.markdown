@@ -22,18 +22,6 @@ WHEN: November 2016
 
 STAY: [Hanalei Tiki Home](https://www.vrbo.com/290843)
 
-CHECKLIST ITEMS
-
-* Buy all ingredients at CostCo. Their selection has a local flavor if you wanted to stray from traditional dishes.
-
-* Lunch at KNEAD Baking Company
-
-* Walk around or bike Ojai Ave and check out the local shops
-
-* Enjoy a spa treatment at the Ojai Valley Inn
-
-* Dinner at Nocciola (reservation encouraged
-
 ![DSCF8870.JPG](/uploads/DSCF8870.JPG)
 ![DSCF8877.JPG](/uploads/DSCF8877.JPG)
 ![DSCF8886.JPG](/uploads/DSCF8886.JPG)
