@@ -12,7 +12,7 @@ author: Peter Hironaka
 img: DSCF8421.JPG
 ---
 
-Kilauea is about a 20 minute drive from Hanalei, just up the 56. Its most famous attraction, from which Kauai is most known for, is the Kilauea Lighthouse. 
+Kilauea is about a 20 minute drive from Hanalei, just up the 56. Its most famous attraction, from which Kauai is most known for, is the Kilauea Lighthouse.  Our first stop of the day was food. The Kilauea Fish Market has great lunch options. Just thinking about the ahi tuna is making my stomach grumble.
 
 WHERE: Kauai, Hanalei Bay, Hawaii
 
