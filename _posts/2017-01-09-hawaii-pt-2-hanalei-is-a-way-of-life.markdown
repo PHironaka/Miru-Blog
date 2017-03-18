@@ -11,7 +11,7 @@ img: hanalei-bay.JPG
 author: Peter Hironaka
 ---
 
-Anyone who's visited Hanalei can attest to how special of a place it truely is. And it's not even about the amount of activities you can do. There's a pace to Hanalei. 
+There's a pace to Hanalei. It has nothing to do with the amount of activities you can do.  Anyone who's visited Hanalei can attest to how special of a place it truely is. 
 
 WHERE: Kauai, Hanalei Bay, Hawaii
 
