@@ -22,9 +22,9 @@ WHEN: November 2016
 
 STAY: [Hanalei Tiki Home](https://www.vrbo.com/290843)
 
-MIRU ITINERARY
+CHECKLIST ITEMS
 
-* Check In at Ojai Valley Inn & Spa (for the best rates, check Jetsetter)
+* Buy all ingredients at CostCo. Their selection has a local flavor if you wanted to stray from traditional dishes.
 
 * Lunch at KNEAD Baking Company
 
