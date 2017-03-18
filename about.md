@@ -4,8 +4,8 @@ permalink: "/about/"
 image: "/uploads/15232319_10155488030867306_7190793645958405850_n.jpg"
 asset: "/uploads/11101641_10155521431790142_7106176997064101043_o.jpg"
 photo-cred: Photo by Dinesh Dave
-description: If you're interested in contributing to Miru, or just wanna say hey,
-  please direct all inquiries to [mirutravel@gmail.com](mailto:mirutravel@gmail.com).
+description: Miru in Japanese means ‘see’, which is appra po of our content strategy
+  and overall objective. We also just wanted to confuse the hell out of people :)
 follow-link:
 - url:
   - https://facebook.com
