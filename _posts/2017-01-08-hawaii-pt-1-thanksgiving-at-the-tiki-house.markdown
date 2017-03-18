@@ -12,21 +12,26 @@ author: Kamauri Yeh
 img: DSCF8870.JPG
 ---
 
-WHERE: Kauai, Hanalei Bay, Hawaii 
+MIRU MOMENT: Thanksgiving at the Tiki House
 
-WHEN: November 2016 
+This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hanalei at the famed Tiki House. 
+
+WHERE: Kauai, Hanalei Bay, Hawaii
+
+WHEN: November 2016
 
 STAY: [Hanalei Tiki Home](https://www.vrbo.com/290843)
- 
-MIRU MOMENT: Secret Beach
 
-This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hawaii. 
+MIRU ITINERARY
 
-MIRU ITINERARY 
-* Check In at Ojai Valley Inn & Spa (for the best rates, check Jetsetter) 
-* Lunch at KNEAD Baking Company 
-* Walk around or bike Ojai Ave and check out the local shops 
+* Check In at Ojai Valley Inn & Spa (for the best rates, check Jetsetter)
+
+* Lunch at KNEAD Baking Company
+
+* Walk around or bike Ojai Ave and check out the local shops
+
 * Enjoy a spa treatment at the Ojai Valley Inn
+
 * Dinner at Nocciola (reservation encouraged
 
 ![DSCF8870.JPG](/uploads/DSCF8870.JPG)
