@@ -3,6 +3,12 @@ title: 'Our Summer Read: Barbarian Days'
 date: 2016-09-18 02:41:00 Z
 categories:
 - Book Review
+tags:
+- reading
+- books
+- barbarian days
+- myanmar
+- world travel
 author: Peter Hironaka
 img: DSCF5653.JPG
 ---
