@@ -11,13 +11,11 @@ img: hanalei-bay.JPG
 author: Peter Hironaka
 ---
 
-Anyone who's visited Hanalei can attest to how special of a place it truely is.
+Anyone who's visited Hanalei can attest to how special of a place it truely is. And it's not even about the amount of activities you can do. There's a pace to Hanalei. 
 
 WHERE: Kauai, Hanalei Bay, Hawaii
 
 WHEN: November 2016
-
-STAY: Hanalei Tiki Home
 
 MIRU MOMENT: Secret Beach
 
