@@ -10,12 +10,10 @@ follow-link:
 - url:
   - https://facebook.com
   text: Facebook
+  intro-text: objective. We also just wanted to confuse the hell out of people :)
 - url:
   - https://twitter.com
   text: Twitter
-- url: https://instagram.com
-  text: Instagram
-  intro-text: objective. We also just wanted to confuse the hell out of people :)
 layout: page
 ---
 
