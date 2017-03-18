@@ -4,9 +4,14 @@ permalink: "/about/"
 image: "/uploads/15232319_10155488030867306_7190793645958405850_n.jpg"
 asset: "/uploads/11101641_10155521431790142_7106176997064101043_o.jpg"
 photo-cred: Photo by Dinesh Dave
-description: Miru is curated, updated, and coagulated by the dynamic duo of Kamauri
+description: "Miru is curated, updated, and coagulated by the dynamic duo of Kamauri
   Yeh and Peter Hironaka. That's us! We're in love and we love to travel the world
-  with each other.
+  with each other. Venice has been our home for nearly two years now, which has been
+  an incredibly inspirational place to rest our heads.\n\nAs we continue to develop
+  Miru, we're always on the lookout to collaborate with like-minded folks. If you
+  think you have an interesting (and relevant) story to share, or there's some hidden
+  cave in the South of France you're dying to share photos of, feel free to drop us
+  a line and get in touch.\n\n# "
 follow-link:
 - url:
   - https://facebook.com
@@ -23,17 +28,15 @@ Welcome to Miru, our quaint little corner of the internet we call home. Ray Brad
 
 # The Crew
 
-
 Miru is curated, updated, and coagulated by the dynamic duo of Kamauri Yeh and Peter Hironaka. That's us! We're in love and we love to travel the world with each other. Venice has been our home for nearly two years now, which has been an incredibly inspirational place to rest our heads.
 
 As we continue to develop Miru, we're always on the lookout to collaborate with like-minded folks. If you think you have an interesting (and relevant) story to share, or there's some hidden cave in the South of France you're dying to share photos of, feel free to drop us a line and get in touch.
-
 
 # Our Goal
 
 We're not setting out to create a media publication churning out hundreds of posts a week. We're not writers. And we have full time jobs, that would just be scary. We simply want to share our journeys with people who appreciate similar experiences.
 
-# Miru?  
+# Miru?
 
 Miru in Japanese means 'see', which is appra po of our content strategy and overall objective. We also just wanted to confuse the hell out of people :)
 
