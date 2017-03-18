@@ -12,7 +12,7 @@ author: Peter Hironaka
 img: DSCF8421.JPG
 ---
 
-This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hawaii.
+Kilauea is about a 20 minute drive from Hanalei, just up the 56. Its most famous attraction, from which Kauai is most known for, is the Kilauea Lighthouse. 
 
 WHERE: Kauai, Hanalei Bay, Hawaii
 
@@ -36,4 +36,3 @@ Dinner at Nocciola (reservation encouraged
 ![DSCF8413.JPG](/uploads/DSCF8413.JPG)
 ![DSCF8421.JPG](/uploads/DSCF8421.JPG)
 ![DSCF8441.JPG](/uploads/DSCF8441.JPG)
-
