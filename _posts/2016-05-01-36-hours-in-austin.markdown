@@ -6,7 +6,7 @@ categories:
 tags:
 - Austin
 - weekend adventures
-img: DSCF3619.JPG
+img: kam-graffiti.JPG
 author: Peter Hironaka
 dept: "#AF66F2"
 name: peter-hironaka
