@@ -16,7 +16,7 @@ MIRU MOMENT: Thanksgiving at the Tiki House
 
 This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hanalei at the famed Tiki House. It should be noted this was my family's first Thanksgiving away from our home in Northern California. 
 
-WHERE: Kauai, Hanalei Bay, Hawaii
+WHERE: Hanalei Bay, Kauai, Hawaii
 
 WHEN: November 2016
 
