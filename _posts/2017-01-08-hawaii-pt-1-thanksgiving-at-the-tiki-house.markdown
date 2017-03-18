@@ -14,7 +14,7 @@ img: DSCF8870.JPG
 
 MIRU MOMENT: Thanksgiving at the Tiki House
 
-This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hanalei at the famed Tiki House. It should be noted this was my family's first Thanksgiving away from our home in Northern California. 
+This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hanalei at the famed Tiki House. It should be noted this was my family's first Thanksgiving away from our home in Northern California. No complaints though, as Tiki held up to its sterling reputation. The reasons we love this house are: 1. It's huge. 2. It's funky and has tons of character, and 3. It's a mere stones throw away from Hanalei Bay Beach. 
 
 WHERE: Hanalei Bay, Kauai, Hawaii
 
