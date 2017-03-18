@@ -29,10 +29,6 @@ As we continue to develop Miru, we're always on the lookout to collaborate with 
 
 We're not setting out to create a media publication churning out hundreds of posts a week. We're not writers. And we have full time jobs, that would just be scary. We simply want to share our journeys with people who appreciate similar experiences.
 
-# Miru?
-
-Miru in Japanese means 'see', which is appra po of our content strategy and overall objective. We also just wanted to confuse the hell out of people :)
-
 # General Inquiries
 
 If you're interested in contributing to Miru, or just wanna say hey, please direct all inquiries to [mirutravel@gmail.com](mailto:mirutravel@gmail.com).
