@@ -25,9 +25,11 @@ MIRU MOMENT: Secret Beach
 
 MIRU ITINERARY
 
-Check In at Ojai Valley Inn & Spa (for the best rates, * check Jetsetter)
-Lunch at KNEAD Baking Company Walk around or bike Ojai * Ave and check out the local shops
-Enjoy a spa treatment at the Ojai Valley Inn Dinner at Nocciola (reservation encouraged
+* Make sure you get to Ke'e Beach early, around 7:30-8am. The parking lot gets full and you'll be able to avoid foot traffic on the trail.
+
+* At the very least, bring a good pair of sneakers with traction for the hike. You'll run across a few die hards climbing with bare feet: don't be one of these people.
+
+* Bring a nice camera to capture the beautiful surroundings!
 
 ![DSCF9150.JPG](/uploads/DSCF9150.JPG)
 ![DSCF9163.JPG](/uploads/DSCF9163.JPG)
