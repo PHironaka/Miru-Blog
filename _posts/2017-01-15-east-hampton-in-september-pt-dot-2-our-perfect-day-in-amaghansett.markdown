@@ -21,6 +21,10 @@ We worked up enough of an appetite for our next meal: Lobster Roll...
 
 ![DSCF7795.JPG](/uploads/DSCF7795.JPG)
 ![DSCF7801.JPG](/uploads/DSCF7801.JPG)
+
+Buttery goodness everyone should experience at least once in their life. The Lobster Roll at Lobster Roll is a food group onto itself. Truth be told, we ate here a total of 3 times during our 5 days out on the East End. 
+
+
 ![DSCF7955.JPG](/uploads/DSCF7955.JPG)
 ![DSCF7885.JPG](/uploads/DSCF7885.JPG)
 ![DSCF7883.JPG](/uploads/DSCF7883.JPG)
