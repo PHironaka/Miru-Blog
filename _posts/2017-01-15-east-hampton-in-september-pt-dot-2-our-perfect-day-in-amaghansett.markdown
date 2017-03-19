@@ -26,6 +26,10 @@ Buttery goodness everyone should experience at least once in their life. The Lob
 
 
 ![DSCF7955.JPG](/uploads/DSCF7955.JPG)
+
+To close out the afternoon, we headed back into the main downtown (lol) of Amagansett to do a little light shopping. 
+
+
 ![DSCF7885.JPG](/uploads/DSCF7885.JPG)
 ![DSCF7883.JPG](/uploads/DSCF7883.JPG)
 ![DSCF7898.JPG](/uploads/DSCF7898.JPG)
