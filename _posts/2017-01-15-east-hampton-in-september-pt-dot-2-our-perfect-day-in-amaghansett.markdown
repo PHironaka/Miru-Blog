@@ -13,7 +13,7 @@ author: Peter Hironaka
 img: DSCF7885.JPG
 ---
 
- We got an early start in the morning every day order to take full advantage of the flawless weather we were experiencing, which is a rarity on Long Island. We started the day getting egg sandwiches to go from Goldberg's Famous Bagels, which is situated alongside the Montauk Highway on the eastern end of Amaghansett. We quickly headed back into town and made our way to Indian Wells Beach. 
+ We got an early start in the morning every day order to take full advantage of the flawless weather we were experiencing, which is a rarity on Long Island. We started the day getting egg sandwiches to go from Goldberg's Famous Bagels, which is situated alongside the Montauk Highway on the eastern end of Amaghansett. With sandwiches in hand, we quickly headed back into town and made our way to Indian Wells Beach
 
 ![DSCF7795.JPG](/uploads/DSCF7795.JPG)
 ![DSCF7801.JPG](/uploads/DSCF7801.JPG)
