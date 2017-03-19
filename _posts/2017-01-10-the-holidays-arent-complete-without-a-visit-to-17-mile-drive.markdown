@@ -23,11 +23,9 @@ STAY: The Lodge at Pebble Beach
 
 MIRU ITINERARY
 
-* Make sure you get to Ke'e Beach early, around 7:30-8am. The parking lot gets full and you'll be able to avoid foot traffic on the trail.
+* Pebble Beach and Spyglass are both world class golf courses. Make sure to check for special discounts on Pebble Beach's newsletter, as we were able to play Spy at a significantly lower rate. Oh, and bring your A game, you're gonna need it.
 
-* At the very least, bring a good pair of sneakers with traction for the hike. You'll run across a few die hards climbing with bare feet: don't be one of these people.
-
-* Bring a nice camera to capture the beautiful surroundings!
+* Lodge guests have exclusive access to The Beach Club which is a private club complete with a full gym and olympic sized swimming pool. 
 
 ![DSCF9150.JPG](/uploads/DSCF9150.JPG)
 ![DSCF9153.JPG](/uploads/DSCF9153.JPG)
