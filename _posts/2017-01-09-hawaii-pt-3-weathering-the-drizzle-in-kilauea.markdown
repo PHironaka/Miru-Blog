@@ -14,23 +14,9 @@ img: DSCF8421.JPG
 
 Kilauea is about a 20 minute drive from Hanalei, just up the 56. Its most famous attraction, from which Kauai is most known for, is the Kilauea Lighthouse.  Our first stop of the day was food. The Kilauea Fish Market has great lunch options. Just thinking about the ahi tuna is making my stomach grumble.
 
-There was a pretty substantial downpour while we were eating lunch. Once the rain stopped, our parents drove back to Hanalei, while us kids went on our next stop in Kilauea: Secret Beach. The name is fitting, as there are no clear signs for access to the beach, just a dirt path at the end of a cul de sac. 
+There was a pretty substantial downpour while we were eating lunch. Once the rain stopped, our parents drove back to Hanalei, while us kids went on our next stop in Kilauea: Secret Beach. The name is fitting, as there are no clear signs for access to the beach, just a dirt path at the end of a culdesac. The path down to the beach is steep, which is made even more difficult to traverse post rain storm. Pro tip: make sure you at least pack a pair of sneakers. We were all sliding down the muddy hill with nothing but our flip flops on :/  Once we reached the sand, we realized it was all worth it. 
 
-WHERE: Kauai, Hanalei Bay, Hawaii
-
-WHEN: November 2016
-
-STAY: Hanalei Tiki Home
-
-MIRU MOMENT: Secret Beach
-
-MIRU ITINERARY
-
-Check In at Ojai Valley Inn & Spa (for the best rates, check Jetsetter)
-Lunch at KNEAD Baking Company
-Walk around or bike Ojai Ave and check out the local shops
-Enjoy a spa treatment at the Ojai Valley Inn
-Dinner at Nocciola (reservation encouraged
+Once we made our way through the jungle forest, the trees opened up to a wide sprawling beach front, with violently crashing waves breaking at shore. By this time, it was misting rain again, but it didn't matter. Secret Beach is the most beautiful beach I've ever been to.
 
 ![DSCF8388.JPG](/uploads/DSCF8388.JPG)
 ![DSCF8385.JPG](/uploads/DSCF8385.JPG)
