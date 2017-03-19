@@ -33,6 +33,8 @@ To close out the afternoon, we headed back into downtown of Amagansett for a lit
 ![DSCF7885.JPG](/uploads/DSCF7885.JPG)
 
 We drove back to our Airbnb to get cleaned up before dinner. The weather was still so perfect, so before we headed to the restaurant we were going to dine at, we decided to make one more stop at Indian Wells to catch the sunset. As indicated by the photos below, we made the right choice, it was a perfect ending to a perfect day.
+
+
 ![DSCF7898.JPG](/uploads/DSCF7898.JPG)
 ![DSCF7913.JPG](/uploads/DSCF7913.JPG)
 ![DSCF7895.JPG](/uploads/DSCF7895.JPG)
