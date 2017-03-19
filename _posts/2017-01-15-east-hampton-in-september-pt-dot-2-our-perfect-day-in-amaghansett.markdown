@@ -27,7 +27,7 @@ Buttery goodness everyone should experience at least once in their life. The Lob
 
 ![DSCF7955.JPG](/uploads/DSCF7955.JPG)
 
-To close out the afternoon, we headed back into downtown of Amagansett for a little light shopping. 
+To close out the afternoon, we headed back into downtown of Amagansett for a little light shopping. Amagansett Square has a number of great stores. It's basically LA's version of the Brentwood Country Mart. Our favorite store was Pilgrim Surf Supply. All the products they sell are well designed and are of high quality.
 
 
 ![DSCF7885.JPG](/uploads/DSCF7885.JPG)
