@@ -13,13 +13,13 @@ author: Peter Hironaka
 img: DSCF9163.JPG
 ---
 
-This year we were thankful for many things, and to culminate it all, we were able to spend a very special Thanksgiving in Hawaii.
+It has become a tradition in recent years for our family to celebrate my Mom's birthday at Pebble Beach. 
 
-WHERE: Kauai, Hanalei Bay, Hawaii
+WHERE: Pebble Beach, California
 
-WHEN: November 2016
+WHEN: December 2016
 
-STAY: Hanalei Tiki Home
+STAY: The Lodge at Pebble Beach
 
 MIRU MOMENT: Secret Beach
 
