@@ -13,7 +13,7 @@ author: Peter Hironaka
 img: DSCF9163.JPG
 ---
 
-It has become a tradition in recent years for our family to celebrate my Mom's birthday at Pebble Beach. 
+It has become a tradition in recent years for our family to celebrate my Mom's birthday at Pebble Beach. It almost feels like  a
 
 WHERE: Pebble Beach, California
 
