@@ -11,7 +11,7 @@ author: Peter Hironaka
 img: DSCF8500.JPG
 ---
 
-The mud slide continues, this time alongside the majestic Na Pali Coast. Kauai is home to one of the wettest places on the planet, and we just so happened to be visiting during rainy season. Rain \+ dirt = mud. 
+The mud slide continues, this time alongside the majestic Na Pali Coast. Kauai is home to one of the wettest places on the planet, and we just so happened to be visiting during rainy season. Rain \+ dirt = mud, you get the point. The Kalalau Trail is not groomed, either. Their are rocks, creeks, and narrow windy pathways to navigate. And although we got hit with most of the elements mother nature can provide, we still had a hell of a time.
 
 WHERE: Kauai, Na Pali Coast, Hawaii
 
@@ -21,12 +21,11 @@ MIRU MOMENT: Hiking the Kalalau Trail to Hanakapiai Beach
 
 MIRU ITINERARY
 
-* Check In at Ojai Valley Inn & Spa (for the best rates, \* check Jetsetter)
+* Make sure you get to Ke'e Beach early, around 7:30-8am. The parking lot gets full and you'll be able to avoid foot traffic on the trail.
 
-* Lunch at KNEAD Baking Company Walk around or bike Ojai \* Ave and check out the local shops
+* At the very least, bring a good pair of sneakers with traction for the hike. You'll run across a few die hards climbing with bare feet: don't be one of these people. 
 
-* Enjoy a spa treatment at the Ojai Valley Inn
-  Dinner at Nocciola (reservation encouraged
+* Bring a nice camera to capture the beautiful surroundings!
 
 ![DSCF8500.JPG](/uploads/DSCF8500.JPG)
 ![DSCF8585.JPG](/uploads/DSCF8585.JPG)
