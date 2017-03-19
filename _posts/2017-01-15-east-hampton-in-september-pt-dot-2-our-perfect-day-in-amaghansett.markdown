@@ -13,7 +13,7 @@ author: Peter Hironaka
 img: DSCF7885.JPG
 ---
 
- We got an early start in the morning every day order to take full advantage of the flawless weather we were experiencing. 
+ We got an early start in the morning every day order to take full advantage of the flawless weather we were experiencing, which is a rarity on Long Island. 
 
 ![DSCF7795.JPG](/uploads/DSCF7795.JPG)
 ![DSCF7801.JPG](/uploads/DSCF7801.JPG)
