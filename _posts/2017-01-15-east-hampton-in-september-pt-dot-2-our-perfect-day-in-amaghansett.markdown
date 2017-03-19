@@ -13,7 +13,7 @@ author: Peter Hironaka
 img: DSCF7885.JPG
 ---
 
- We got an early start in the morning every day order to take full advantage of the flawless weather we were experiencing, which is a rarity on Long Island. We started the day getting egg sandwiches to go from Goldberg's Famous Bagels, which is situated alongside the Montauk Highway on the eastern end of Amaghansett. With sandwiches in hand, we quickly headed back into town to pick up a coffee to go at Jack Stir Coffee Shop. From there, we make the quick drive down to Indian Wells beach, where we scarfed down our sandwhiches and made our way into the Ocean for some much needed body surfing (or at least I did). 
+ We got an early start in the morning every day order to take full advantage of the flawless weather we were experiencing, which is a rarity on Long Island. We started the day getting egg sandwiches to go from Goldberg's Famous Bagels, which is situated alongside the Montauk Highway on the eastern end of Amaghansett. With sandwiches in hand, we quickly headed back into town to pick up a coffee to go at Jack Stir Coffee Shop. From there, we make the quick drive down to Indian Wells beach, where we scarfed down our sandwiches and made our way into the Ocean for some much needed body surfing (or at least I did). 
 
 There's something so perfect about the beaches in East Hampton. The sand is soft but not too soft. The water in September, which was when we were there, is a perfect temperature. And since we were there a week after Labor Day, we missed all the summer crowds, so basically what I'm saying is that everything was perfect. 
 
