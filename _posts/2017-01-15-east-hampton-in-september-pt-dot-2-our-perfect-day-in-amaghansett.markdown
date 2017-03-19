@@ -17,6 +17,8 @@ img: DSCF7885.JPG
 
 There's something so perfect about the beaches in East Hampton. The sand is soft but not too soft. The water in September, which was when we were there, is a perfect temperature. And since we were there a week after Labor Day, we missed all the summer crowds, so basically what I'm saying is that everything was perfect. 
 
+We worked up enough of an appetite for our next meal: Lobster Roll...
+
 ![DSCF7795.JPG](/uploads/DSCF7795.JPG)
 ![DSCF7801.JPG](/uploads/DSCF7801.JPG)
 ![DSCF7955.JPG](/uploads/DSCF7955.JPG)
