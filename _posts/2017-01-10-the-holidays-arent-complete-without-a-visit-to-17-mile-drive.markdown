@@ -21,8 +21,6 @@ WHEN: December 2016
 
 STAY: The Lodge at Pebble Beach
 
-MIRU MOMENT: Secret Beach
-
 MIRU ITINERARY
 
 * Make sure you get to Ke'e Beach early, around 7:30-8am. The parking lot gets full and you'll be able to avoid foot traffic on the trail.
