@@ -11,15 +11,13 @@ author: Peter Hironaka
 img: DSCF8500.JPG
 ---
 
-The Kauai mud slide continues, this time alongside the majestic Na Pali Coast. 
+The mud slide continues, this time alongside the majestic Na Pali Coast. Kauai is home to one of the wettest places on the planet, and we just so happened to be visiting during rainy season. Rain \+ dirt = mud. 
 
-WHERE: Kauai, Hanalei Bay, Hawaii
+WHERE: Kauai, Na Pali Coast, Hawaii
 
 WHEN: November 2016
 
-STAY: Hanalei Tiki Home
-
-MIRU MOMENT: Secret Beach
+MIRU MOMENT: Hiking the Kalalau Trail to Hanakapiai Beach 
 
 MIRU ITINERARY
 
