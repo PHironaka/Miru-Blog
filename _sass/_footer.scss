@@ -8,17 +8,18 @@ h2 {
 	@include outer-container;
   padding: 3em 0;
 
+     .related {
+          text-transform: uppercase;
+          text-align: center;
+      }
+
   h1 {
-    text-align: center;
-    margin: 2em 0;
-    letter-spacing: 3px;
-    text-transform: uppercase;
-  }
-  h3 {
-  font-size:.8em;
-  font-family: $headerFont;
+    margin: 1em 0;
+    
+    font-size: 1.3em;
 
   }
+
   
  ul {
 @include outer-container;
@@ -72,8 +73,7 @@ padding: 1em 0;
          }
 
        a {
-         font-family: $headerFont;
-         font-weight: $headWeight;
+        
          display: block;
 
        }
@@ -129,12 +129,12 @@ margin: 2em 0 0;
 footer {
 @include outer-container;
   border-top: 1px solid #eee;
-  margin:  0;
-  padding: 2em 0;
+  margin: 2em 0;
+  padding: 1em 0;
 
  @include direction-context(right-to-left){
 .footer-right {
-    @include span-columns(4);
+    @include span-columns(7);
     text-align: right;
   ul li {
 display: inline;
@@ -149,7 +149,7 @@ padding: 0 1em;
 }
 }
 		h3{
-      @include span-columns(8);
+      @include span-columns(5);
 		text-align:left;
 		}
 

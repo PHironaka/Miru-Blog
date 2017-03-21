@@ -115,7 +115,7 @@ body{
   font-size:$font-size;
   font-weight: $defaultWeight;
   line-height: 1.5;
-background-color: #fff;
+background-color: #3f5eb5;
   padding: 0;
 margin: 0;
 -webkit-font-smoothing: antialiased;
@@ -125,10 +125,12 @@ color: $primaryColor;
 
 h1 {
   font-family: $headerFont;
-  font-size: 1.1em;
+  font-size: 2em;
+  line-height: 1.3;
+    margin-top: 1em;
 
   @media screen and (max-width: $break-small) {
-    font-size: 1.2em;
+    font-size: 1.7em;
   }
 }
 
@@ -172,20 +174,30 @@ float: left;
 }
 
 .author-posts {
-@include outer-container;
+@include span-columns(7);
+border-left: 1px solid #eee;
+padding-left: 1.5em;
     @media screen and (max-width: $break-small) {
          width: 100%;
           margin: 1em 0 0;
          max-height:none;
+         padding-left: 0;
+         border-left:0;
        }
        
   .list {
-   @include span-columns(6);
-    @include omega(2n);
+   @include span-columns(12);
+   border-bottom: 1px #fff;
 
-         padding: 1em 0 0 ;
-      p {
-         @include outer-container;
+      @media screen and (max-width: $break-small) {
+          margin: 1em 0 ;
+          border-bottom: 1px solid #fff;
+       }
+
+
+      p, h1{
+         @include span-columns(12);
+         margin: 0 0 1em;
       }
     a {
       @media screen and (max-width: $break-large) {
@@ -199,7 +211,7 @@ float: left;
 }
 .author {
 
- @include span-columns(4);
+ @include span-columns(5);
   
     @media screen and (max-width: $break-small) {
        width: 100%;
@@ -241,7 +253,6 @@ float: left;
   @include outer-container;
     
   .bio-stats {
-  @include span-columns(8);
       h1 {
       font-weight: 400;
       }
@@ -264,9 +275,9 @@ float: left;
 }
 
 .content{
-@include span-columns(9);
+@include span-columns(8);
       padding: 1em 0;
-  	@media screen and (max-width: $break-large) {
+  	@media screen and (max-width: $break-small) {
   	  width:100%;
 
   	}
@@ -347,13 +358,15 @@ float: left;
 
 
 h1.post-title{
-    font-size: 2em;
+       font-size: 2.3em;
     margin: 0 0 1em;
-    font-family: $defaultFont;
+    line-height: 1.3;
+    font-family: $headerFont;
 
     @media screen and (max-width: $break-small) {
       text-align: left;
-      font-size:1.4em;
+      font-size:1.7em;
+      margin: 0;
     }
 
 }
@@ -449,11 +462,7 @@ h1.post-title{
        }
     }
 
-    p:first-child:first-letter  {
-      font-size: 3.3em;
-      padding-top:2em;
-      margin: 0 6px 0 0;
-    }
+
 }
 
 
@@ -462,7 +471,7 @@ h1.post-title{
 ================================ */
 
 a{
-  color: #333;
+  color: $primaryColor;
   text-decoration: none;
   -webkit-transition: all 120ms ease-out;
 -moz-transition: all 120ms ease-out;
@@ -472,7 +481,7 @@ transition: all 120ms ease-out;
 }
 
 a:hover {
-	color: #ccc;
+	color: #000;
 
 	}
 
@@ -556,7 +565,7 @@ color: white;
 
 @include direction-context(right-to-left) {
 .post-preview {
-   @include span-columns(8);
+@include outer-container;
   margin: 0 0 .5em;
   padding: 0;
 
@@ -570,22 +579,36 @@ color: white;
     }
 
     h2 {
-padding: .5em 0 1em;
+padding: .5em 0 0;
 border-top: 1px solid #eee;
 font-family: $headerFont;
 font-weight: $headWeight;
+
     }
  }
 
  }
       .list-thumbnail {
-@include span-columns(6);
-@include omega(3n);
+      @include outer-container;
+      margin-top: 1em;
+
+      img {
+      @include span-columns(6);
+    @include omega(2n);
+      }
+
+    &--post {
+      @include span-columns(6);
+      padding-left: 3em;
+    }
   
   h2 {
-    padding: .5em 0 0;
+    padding: .5em 0;
     border-top: none;
+    font-size: 1.3em;
     font-family: $headerFont;
+    line-height: 1.2;
+
   }
 
   @media screen and (max-width: $break-small) {

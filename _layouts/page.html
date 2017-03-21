@@ -4,14 +4,50 @@ layout: default
 
 <div class="wrap page">
 {% if page.title == 'About' %}
+
+
+
 <div class="about-list">
   <div class="intro">
   <img src="{{page.asset}}">
   <h6> {{ page.photo-cred }} </h6>
   </div>
-  <article class="post-content">
+  <article class="content">
     {{ content }}
   </article>
+
+  <aside class="post-intro">
+
+<div class="post-intro__credits">
+
+<h1>Miru?</h1>
+<p>{{page.description}} </p>
+
+<h1>Follow Us</h1>
+
+<ul>
+
+{% for follow-link in page.follow-link %}
+
+<p>
+{{follow-link.intro-text}}
+</p>
+<li>
+<a href="{{ follow-link.url }}" target="_blank"> {{follow-link.text}}</a>
+</li>
+{% endfor %}
+</ul>
+</div>
+
+<div class="post-tag">
+{% for tag in page.tags %}
+<a href="/tag/{{ tag  | slugify: 'pretty' }}">{{ tag }}</a>
+{% endfor %}
+</div>
+
+
+</aside>
+
 </div>
 {% endif %}
 
@@ -22,6 +58,7 @@ layout: default
 <div>
 <img src="/uploads/{{post.img}}">
 <h1><a href="{{post.url}}" class="title">{{post.title}}</a></h1>
+
 <p> {{ post.content | strip_html | truncatewords:25}} </p>
 </div>
 {% endif %}

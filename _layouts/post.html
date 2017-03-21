@@ -8,7 +8,15 @@ layout: default
 <aside class="post-intro">
 
 <div class="post-intro__credits">
+{% for author in site.author %}
+{% if author.title == page.author %}
+<img src="{{author.thumbnail}}">
 <h2>By <a href="/author/{{ page.author | slugify: 'pretty' }}  "> {{page.author}}</a></h2>
+
+<p>{{author.bio}}</p>
+{% endif %}
+{% endfor %}
+
 
 <ul>
 <li>
@@ -22,7 +30,7 @@ layout: default
 
 
 <li>
-<a class="twitter"href="https://twitter.com/share?text={{page.title}}" data-text="screen_name" target="_blank"> <img src="/img/twitter-blue.svg"></a>
+<a class="twitter"href="https://twitter.com/share?text={{page.title}}" data-text="screen_name" target="_blank"> Share: <img src="/img/twitter-blue.svg"></a>
 </li>
 </ul>
 
@@ -44,6 +52,9 @@ layout: default
 <h1 class="post-title">{{ page.title }}
 </h1>
 
+
+
+
 <div class="post-content__post">
 {{ content }}
 
@@ -52,17 +63,16 @@ layout: default
 
 
 <article class="related-posts">
-<h1>Related Posts</h1>
+<h1 class="related">Related Posts</h1>
 <ul>
-{% for post in site.related_posts %}
+{% for post in site.related_posts limit:2 %}
 <li>
 <div class="related-asset">
 <img src="/uploads/{{post.img}}">
 {% for category in page.categories %}
 <a href=" {{ category}} }}">{{ tag }}</a>
 {% endfor %}
-<a href="{{post.url }} ">{{post.title}}</a>
-<h3> {{post.date | date: "%b %d, %Y"}}</h3>
+<h1><a href="{{post.url }} ">{{post.title}}</a></h1>
 <p>{{post.content | strip_html | truncatewords: 40}}</p>
 </div>
 </li>
@@ -70,4 +80,3 @@ layout: default
 {% endfor %}
 </ul>
 </article>
-

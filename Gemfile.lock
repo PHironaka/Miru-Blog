@@ -69,10 +69,10 @@ GEM
       pathutil (~> 0.9)
       rouge (~> 1.7)
       safe_yaml (~> 1.0)
-    jekyll-feed (0.8.0)
-      jekyll (~> 3.3)
     jekyll-sass-converter (1.5.0)
       sass (~> 3.4)
+    jekyll-seo-tag (2.1.0)
+      jekyll (~> 3.3)
     jekyll-sitemap (0.12.0)
       jekyll (~> 3.3)
     jekyll-watch (1.5.0)
@@ -139,8 +139,8 @@ DEPENDENCIES
   guard-coffeescript
   guard-jammit
   jekyll (~> 3.0, >= 3.0.3)
-  jekyll-feed
   jekyll-sass-converter
+  jekyll-seo-tag
   jekyll-sitemap
   jekyll-watch
   kramdown
@@ -153,4 +153,4 @@ DEPENDENCIES
   susy
 
 BUNDLED WITH
-   1.13.6
+   1.14.0

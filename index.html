@@ -1,32 +1,12 @@
 ---
 title: Home
 layout: default
-feature: miru
 ---
 
 <div class="wrap">
 
 <div class="index">
-<aside class="index-intro">
 
-{% for page in site.pages %}
-{% if page.title == 'About' %}
-<img src="{{page.image}}">
-<p>{{page.description}}</p>
-{% endif %}
-{% endfor %}
-
-<h2> Venice </h2>
-{% for post in site.posts offset:3 %}
-{% if post.dept == '#66f2b2' %}
-<div class="local-news">
-<h2><a href="{{post.url}}" class="title">{{post.title}}</a></h2>
-<p> {{ post.content | strip_html | truncatewords:25}} </p>
-</div>
-{% endif %}
-{% endfor %}
-
-</aside>
 
 
 <article class="post-preview">
@@ -40,29 +20,26 @@ feature: miru
 </article>
 
 <article class="post-preview">
-<h2> West Coast </h2>
-{% for post in site.posts %}
-{% if post.region == 'west' %}
-<div class="list-thumbnail"><a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a>
+<h2>Latests Posts</h2>
+{% for post in site.posts  limit:6 offset:1  %}
+
+<div class="list-thumbnail">
+<a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a>
+
+<div class="list-thumbnail--post">
 <h2><a href="{{post.url}}" class="title">{{post.title}}</a></h2>
-<p> {{ post.content | strip_html | truncatewords:15}} </p>
+<h3> By <a href="/author/{{ post.author | slugify: 'pretty' }}  ">{{post.author}} </a> </h3>
+<p> {{ post.content | strip_html | truncatewords:25}} </p>
+
+<p><a href="{{post.url}}" class="title">Read More >> </a> </p>
 </div>
-{% endif %}
+</div>
 {% endfor %}
 
 </article>
 
-<article class="post-preview">
-<h2> International </h2>
-{% for post in site.posts %}
-{% if post.dept == '#66f2b2' %}
-<div class="list-thumbnail"><a href="{{post.url}}"><img src="/uploads/{{post.img}}"></a>
-<h2><a href="{{post.url}}" class="title">{{post.title}}</a></h2>
-<p> {{ post.content | strip_html | truncatewords:15}} </p>
-</div>
-{% endif %}
-{% endfor %}
-</article>
+
+
 
 </div>
 

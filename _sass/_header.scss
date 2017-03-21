@@ -11,7 +11,7 @@ margin-right: auto;
 
   .logo {
     display: block;
-    font-family: "EB Garamond", serif;
+    font-family: $defaultFont;
     font-size: 1.6em;
     text-align: left;
     margin: 1em 0;
@@ -91,6 +91,7 @@ nav {
 
     @media screen and (max-width: $break-small) {
             float: none;
+            margin: 1em 0 0;
             display: inline-block;
            }
 
@@ -98,7 +99,7 @@ nav {
     ul {
 
     @media screen and (max-width: $break-small) {
-            margin: 0 0 1em 0;
+            margin: 0 0 2em 0;
             
            }
 
@@ -111,7 +112,7 @@ nav {
     text-decoration: none;
     margin-right: 100px;
     position: relative;
-    font-family: $headerFont;
+    font-family: $defaultFont;
             font-weight: 400;
 
     
@@ -254,8 +255,6 @@ aside.post-intro {
     margin: 2em 0;
     @include span-columns(4);
     border-left: 1px solid #eee; 
-    font-family: $headerFont;  
-    font-weight: 400; 
     font-size: .9em;
 
     @media screen and (max-width: $break-small) {
@@ -265,8 +264,13 @@ aside.post-intro {
       .post-intro__credits {
       padding: 0 0 1em 0;
 
+        img {
+        border-radius: 60px;
+        max-width: 120px;
+        }
+
        h2 {
-  margin: 0 0 2em;
+  margin: 0 ;
   font-size: 1em;
   text-align:left;
   border: none;
@@ -317,7 +321,7 @@ padding: 2em 0;
 
 
   a{
-    background-color: #eee;
+    background-color: #839de8;
     padding: 5px 11px;
         display: inline-table;
     margin: 0 6px 12px 0;
