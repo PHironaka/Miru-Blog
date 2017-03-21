@@ -13,8 +13,8 @@ Last weekend, Kam and I enjoyed hosting a few proud members of the Yeh Area: Sho
 
 As fate would have it, they visited during one of the foggiest weekends we've experienced in the three years we've lived in Venice. Despite the dreary (and bizarre) weather, we pressed forward.
 
-[DSCF8044.JPG](/uploads/DSCF8044.JPG)
+![DSCF8044.JPG](/uploads/DSCF8044.JPG)
 
-[DSCF8053.JPG](/uploads/DSCF8053.JPG)
+![DSCF8053.JPG](/uploads/DSCF8053.JPG)
 
-[DSCF8068.JPG](/uploads/DSCF8068.JPG) 
+![DSCF8068.JPG](/uploads/DSCF8068.JPG) 
