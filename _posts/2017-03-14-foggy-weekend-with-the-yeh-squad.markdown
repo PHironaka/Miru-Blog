@@ -22,7 +22,7 @@ MIRU ITINERARY
 
 * Breakfast at our favorite spot, Superba Food and Bread.
 
-* Surfing & Body Surfing at Hanalei Bay Beach
+* Foggy beach day.
 
 * Cocktail at Tahiti Nui
 
