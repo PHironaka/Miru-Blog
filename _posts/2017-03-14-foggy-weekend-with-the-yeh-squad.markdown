@@ -24,9 +24,7 @@ MIRU ITINERARY
 
 * Foggy beach day.
 
-* Cocktail at Tahiti Nui
-
-* Drive through the Rice Fields
+* Pasta at Tasting Kitchen.
 
 * Spam Musubi at L&L Hawaiian BBQ 
 
