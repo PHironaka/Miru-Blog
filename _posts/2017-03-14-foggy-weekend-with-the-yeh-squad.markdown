@@ -26,8 +26,6 @@ MIRU ITINERARY
 
 * Pasta at Tasting Kitchen.
 
-* Spam Musubi at L&L Hawaiian BBQ 
-
 ![DSCF8053.JPG](/uploads/DSCF8053.JPG)
 ![DSCF8068.JPG](/uploads/DSCF8068.JPG) 
 ![DSCF8044.JPG](/uploads/DSCF8044.JPG)
