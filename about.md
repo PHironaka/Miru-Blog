@@ -7,7 +7,7 @@ photo-cred: Photo by Dinesh Dave
 description: Miru in Japanese means ‘see’, which is appra po of our content strategy
   and overall objective. We also just wanted to confuse the hell out of people :)
 follow-link:
-- intro-text: 'Follow along our adventure, on the '
+- intro-text: 'Follow along on social media for further bit sized pieces of content. '
   url:
   - https://facebook.com
   text: Facebook
