@@ -14,6 +14,22 @@ Last weekend, Kam and I enjoyed hosting a few proud members of the Yeh Area: Sho
 
 As fate would have it, they visited during one of the foggiest weekends we've experienced in the three years we've lived in Venice. Despite the dreary (and bizarre) weather, we pressed forward.
 
+WHERE: Venice, California
+
+WHEN: March 2017
+
+MIRU ITINERARY
+
+* Breakfast at our favorite spot, Superba Food and Bread.
+
+* Surfing & Body Surfing at Hanalei Bay Beach
+
+* Cocktail at Tahiti Nui
+
+* Drive through the Rice Fields
+
+* Spam Musubi at L&L Hawaiian BBQ 
+
 ![DSCF8053.JPG](/uploads/DSCF8053.JPG)
 ![DSCF8068.JPG](/uploads/DSCF8068.JPG) 
 ![DSCF8044.JPG](/uploads/DSCF8044.JPG)
