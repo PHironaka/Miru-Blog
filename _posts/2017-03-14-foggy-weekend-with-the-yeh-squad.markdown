@@ -8,6 +8,7 @@ tags:
 - California
 - Food
 feature-img: DSCF8053.JPG
+img: DSCF8053.JPG
 ---
 
 Last weekend, Kam and I enjoyed hosting a few proud members of the Yeh Area: Shoj McGoge, Auntie O, and Christian, respectively.
