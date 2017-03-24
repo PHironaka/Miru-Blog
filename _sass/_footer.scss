@@ -15,12 +15,12 @@ h2 {
 
   h1 {
     margin: 1em 0;
-    
+
     font-size: 1.3em;
 
   }
 
-  
+
  ul {
 @include outer-container;
 
@@ -36,8 +36,10 @@ padding: 1em 0;
          max-height:none;
 			 }
 
+
+
        .related-asset {
-       
+
          padding-top: 2em;
 
          h2 {
@@ -73,7 +75,7 @@ padding: 1em 0;
          }
 
        a {
-        
+
          display: block;
 
        }
@@ -129,17 +131,36 @@ margin: 2em 0 0;
 footer {
 @include outer-container;
   border-top: 1px solid #eee;
-  margin: 2em 0;
-  padding: 1em 0;
+  margin: 0;
+      padding: 2em 0 0;
 
  @include direction-context(right-to-left){
 .footer-right {
     @include span-columns(7);
     text-align: right;
   ul li {
-display: inline;
-    margin: 1.8em 0;
-padding: 0 1em;
+display: inline-block;
+    margin: 0;
+    padding: 0 1em 0 0;
+
+a {
+  background-image: url('../img/SVG.svg'), none;
+background-repeat: no-repeat;
+display: block;
+transition: all 350ms ease-out;
+-webkit-transition: all 350ms ease-out;
+-o-transition: all 350ms ease-out;
+height: 36px;
+ width: 26px;
+}
+
+.twitter {
+  background-position: 0 0;
+}
+
+.instagram {
+      background-position: -26px 0;
+}
 
 
     img {
