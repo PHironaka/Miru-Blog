@@ -8,7 +8,7 @@ tags:
 - California
 - Food
 feature: DSCF8053.JPG
-img: http://www.siliconbeat.com/wp-content/uploads/2015/10/ssjm1027apple005.jpg
+img: DSCF8053.JPG
 author: Peter Hironaka
 ---
 
