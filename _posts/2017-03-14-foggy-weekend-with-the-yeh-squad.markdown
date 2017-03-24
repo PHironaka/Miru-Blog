@@ -7,7 +7,7 @@ tags:
 - Los Angeles
 - California
 - Food
-feature-img: DSCF8053.JPG
+feature: DSCF8053.JPG
 img: DSCF8053.JPG
 ---
 
