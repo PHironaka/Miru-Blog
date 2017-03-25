@@ -27,8 +27,8 @@ defaults:
     layout: page
 permalink: "/:title/"
 url: http://miru-travel.com
-description: Miru Travel is a journal curated by a young adventurous couple. Venice,
-  CA is home.
+description: Miru Travel is a travel journal curated by a young adventurous couple.
+  Venice, CA is home.
 gems:
 - jekyll-seo-tag
 - jekyll-sitemap
