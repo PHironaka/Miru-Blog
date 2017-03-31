@@ -19,8 +19,6 @@ WHERE: Kauai, Hanalei Bay, Hawaii
 
 WHEN: November 2016
 
-MIRU MOMENT: Secret Beach
-
 MIRU ITINERARY
 
 * Wishing Well for good coffee and SHAVED ICE 
